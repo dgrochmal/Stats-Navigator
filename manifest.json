@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+  
+    "name": "RSStats Plugin",
+    "description": "Adding helpful links for stats",
+    "version": "1.0",
+  
+    "browser_action": {
+     "default_popup": "popup.html"
+    },
+    "permissions": [
+     "activeTab"
+     ]
+  }
