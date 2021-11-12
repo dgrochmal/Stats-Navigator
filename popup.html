@@ -5,9 +5,45 @@
     <script src="popup.js"></script>
   </head>
   <body>
-    <h3>Stats navigator</h3>
-    <button id="bbRef">To BB Ref</button>
-    <button id="savant">To Savant</button>
-    <button id="fan">To FanGraphs</button>
+    <h2>Stats navigator</h2>
+    <button id="bbRef" class="button5" style="background-color:#CF2036;">To BB Ref</button>
+    <button id="savant" class="button5" style="background-color:#399098;">To Savant</button>
+    <button id="fan" class="button5" style="background-color:#50ae26;">To FanGraphs</button>
   </body>
+  <style>
+h2 {
+  display: flex;
+  justify-content: space-around;
+}
+body {
+  width: 150px;
+}
+button.button5 {
+  display:inline-block;
+  padding:0.46em 1.6em;
+  border:0.1em solid #000000;
+  margin:0 0.2em 0.2em 0;
+  border-radius:0.12em;
+  box-sizing: border-box;
+  text-decoration:none;
+  font-family:'Roboto',sans-serif;
+  font-weight:300;
+  color:#000000;
+  text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
+  background-color:#FFFFFF;
+  text-align:center;
+  transition: all 0.15s;
+}
+button.button5:hover{
+  text-shadow: 0 0 2em rgba(255,255,255,1);
+  color:#FFFFFF;
+  border-color:#FFFFFF;
+}
+@media all and (max-width:30em){
+  button.button5{
+    display:block;
+    margin:0.4em auto;
+  }
+}
+  </style>
 </html>
