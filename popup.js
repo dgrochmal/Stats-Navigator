@@ -98,7 +98,6 @@ document.addEventListener('DOMContentLoaded', function() {
                     .then(response => response.json())
                     .then(json => {
                         var player = json[id];
-                        var lastName = player.name_last;
         
                         chrome.tabs.update({
                             url: `https://baseballsavant.mlb.com/savant-player/${player.name_first}-${player.name_last}-${player.key_mlbam}`
@@ -183,7 +182,6 @@ document.addEventListener('DOMContentLoaded', function() {
                     .then(response => response.json())
                     .then(json => {
                         var player = json[id];
-                        var lastName = player.name_last;
         
                         chrome.tabs.update({
                             url: `https://www.fangraphs.com/players/${player.name_first}-${player.name_last}/${player.key_fangraphs}/stats`

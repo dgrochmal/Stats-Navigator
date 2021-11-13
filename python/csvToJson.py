@@ -20,7 +20,7 @@ def make_json(csvFilePath, jsonFilePath):
             # Assuming a column named 'No' to
             # be the primary key
             lastPlayed = rows['mlb_played_last']
-            if (lastPlayed is not None and lastPlayed != '' and int(float(rows['mlb_played_last']) > 1910)):
+            if (lastPlayed is not None and lastPlayed != '' and int(float(rows['mlb_played_last']) > 1915)):
                 key = rows['key_mlbam']
                 data[key] = rows
  
