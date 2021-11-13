@@ -19,8 +19,10 @@ def make_json(csvFilePath, jsonFilePath):
              
             # Assuming a column named 'No' to
             # be the primary key
-            key = rows['key_fangraphs']
-            data[key] = rows
+            lastPlayed = rows['mlb_played_last']
+            if (lastPlayed is not None and lastPlayed != '' and int(float(rows['mlb_played_last']) > 1910)):
+                key = rows['key_mlbam']
+                data[key] = rows
  
     # Open a json writer, and use the json.dumps()
     # function to dump data
@@ -32,7 +34,7 @@ def make_json(csvFilePath, jsonFilePath):
 # Decide the two file paths according to your
 # computer system
 csvFilePath = r'out.csv'
-jsonFilePath = r'fangraphs.json'
+jsonFilePath = r'mlbam.json'
  
 # Call the make_json function
 make_json(csvFilePath, jsonFilePath)
