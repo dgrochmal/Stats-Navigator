@@ -1,12 +1,13 @@
 {
     "manifest_version": 2,
   
-    "name": "RSStats Plugin",
-    "description": "Adding helpful links for stats",
-    "version": "1.0",
+    "name": "Stats Navigator",
+    "description": "Linking between Baseball-Reference, Baseball Savant, and Fangraphs",
+    "version": "1.0.1",
   
     "browser_action": {
-     "default_popup": "popup.html"
+      "default_icon": "newIcon.png",
+      "default_popup": "popup.html"
     },
     "permissions": [
      "activeTab"
