@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 var id = nameAndId.substring(nameAndId.search(/\d/));
                 console.log(id);
 
-                fetch("../data/savant.json")
+                fetch("../data/mlbam.json")
                     .then(response => response.json())
                     .then(json => {
                         var player = json[id];
@@ -119,7 +119,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 var id = nameAndId.substring(nameAndId.search(/\d/));
                 console.log(id);
 
-                fetch("../data/savant.json")
+                fetch("../data/mlbam.json")
                     .then(response => response.json())
                     .then(json => {
                         var player = json[id];
