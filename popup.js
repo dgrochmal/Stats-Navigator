@@ -25,12 +25,19 @@ document.addEventListener('DOMContentLoaded', function() {
                     .then(response => response.json())
                     .then(json => {
                         var player = json[id];
-                        var lastName = player.name_last;
-                        var initial = lastName[0];
-        
-                        chrome.tabs.update({
-                            url: `https://www.baseball-reference.com/players/${initial}/${player.key_bbref}.shtml`
-                          });
+
+                        if (player === undefined) {
+                            chrome.tabs.update({
+                                url: "https://www.baseball-reference.com"
+                              });
+                        } else {
+                            var lastName = player.name_last;
+                            var initial = lastName[0];
+            
+                            chrome.tabs.update({
+                                url: `https://www.baseball-reference.com/players/${initial}/${player.key_bbref}.shtml`
+                              });
+                        }
                       }
                     );
             } 
@@ -53,12 +60,20 @@ document.addEventListener('DOMContentLoaded', function() {
                     .then(response => response.json())
                     .then(json => {
                         var player = json[id];
+
+                        if (player === undefined) {
+                            chrome.tabs.update({
+                                url: "https://www.baseball-reference.com"
+                              });
+                        } else {
+
                         var lastName = player.name_last;
                         var initial = lastName[0];
         
                         chrome.tabs.update({
                             url: `https://www.baseball-reference.com/players/${initial}/${player.key_bbref}.shtml`
                           });
+                        }
                       }
                     );
             }
@@ -95,12 +110,20 @@ document.addEventListener('DOMContentLoaded', function() {
                     .then(response => response.json())
                     .then(json => {
                         var player = json[id];
+
+                        if (player === undefined) {
+                            chrome.tabs.create({
+                                url: "https://www.baseball-reference.com"
+                              });
+                        } else {
+
                         var lastName = player.name_last;
                         var initial = lastName[0];
         
                         chrome.tabs.create({
                             url: `https://www.baseball-reference.com/players/${initial}/${player.key_bbref}.shtml`
                         });
+                    }
                       }
                     );
             } 
@@ -123,12 +146,20 @@ document.addEventListener('DOMContentLoaded', function() {
                     .then(response => response.json())
                     .then(json => {
                         var player = json[id];
+
+                        if (player === undefined) {
+                            chrome.tabs.create({
+                                url: "https://www.baseball-reference.com"
+                              });
+                        } else {
+
                         var lastName = player.name_last;
                         var initial = lastName[0];
         
                         chrome.tabs.create({
                             url: `https://www.baseball-reference.com/players/${initial}/${player.key_bbref}.shtml`
                         });
+                    }
                       }
                     );
             }
@@ -141,6 +172,7 @@ document.addEventListener('DOMContentLoaded', function() {
         chrome.tabs.query(query, callback);
         return false;
     }, false);
+    
 
     var fanButton = document.getElementById('savant');
     fanButton.addEventListener('click', function() { 
@@ -168,10 +200,17 @@ document.addEventListener('DOMContentLoaded', function() {
                     .then(response => response.json())
                     .then(json => {
                         var player = json[id];
+
+                        if (player === undefined) {
+                            chrome.tabs.update({
+                                url: "https://baseballsavant.mlb.com"
+                              });
+                        } else {
         
                         chrome.tabs.update({
                             url: `https://baseballsavant.mlb.com/savant-player/${player.name_first}-${player.name_last}-${player.key_mlbam}`
                           });
+                        }
                       }
                     );
             } 
@@ -187,10 +226,17 @@ document.addEventListener('DOMContentLoaded', function() {
                     .then(response => response.json())
                     .then(json => {
                         var player = json[id];
+
+                        if (player === undefined) {
+                            chrome.tabs.update({
+                                url: "https://baseballsavant.mlb.com"
+                              });
+                        } else {
         
                         chrome.tabs.update({
                             url: `https://baseballsavant.mlb.com/savant-player/${player.name_first}-${player.name_last}-${player.key_mlbam}`
                         });
+                    }
                       }
                     );
             }
@@ -230,10 +276,17 @@ document.addEventListener('DOMContentLoaded', function() {
                     .then(response => response.json())
                     .then(json => {
                         var player = json[id];
+
+                        if (player === undefined) {
+                            chrome.tabs.create({
+                                url: "https://baseballsavant.mlb.com"
+                              });
+                        } else {
         
                         chrome.tabs.create({
                             url: `https://baseballsavant.mlb.com/savant-player/${player.name_first}-${player.name_last}-${player.key_mlbam}`
                           });
+                        }
                       }
                     );
             } 
@@ -249,10 +302,17 @@ document.addEventListener('DOMContentLoaded', function() {
                     .then(response => response.json())
                     .then(json => {
                         var player = json[id];
+
+                        if (player === undefined) {
+                            chrome.tabs.create({
+                                url: "https://baseballsavant.mlb.com"
+                              });
+                        } else {
         
                         chrome.tabs.create({
                             url: `https://baseballsavant.mlb.com/savant-player/${player.name_first}-${player.name_last}-${player.key_mlbam}`
                         });
+                    }
                       }
                     );
             }
@@ -292,10 +352,17 @@ document.addEventListener('DOMContentLoaded', function() {
                     .then(response => response.json())
                     .then(json => {
                         var player = json[id];
+
+                        if (player === undefined) {
+                            chrome.tabs.update({
+                                url: "https://www.fangraphs.com"
+                              });
+                        } else {
         
                         chrome.tabs.update({
                             url: `https://www.fangraphs.com/players/${player.name_first}-${player.name_last}/${player.key_fangraphs}/stats`
                           });
+                        }
                       }
                     );
             }
@@ -311,14 +378,21 @@ document.addEventListener('DOMContentLoaded', function() {
                 var id = nameAndId.substring(nameAndId.search(/\d/));
                 console.log(id);
 
-                fetch("../data/savant.json")
+                fetch("../data/mlbam.json")
                     .then(response => response.json())
                     .then(json => {
                         var player = json[id];
+
+                        if (player === undefined) {
+                            chrome.tabs.update({
+                                url: "https://www.fangraphs.com"
+                              });
+                        } else {
         
                         chrome.tabs.update({
                             url: `https://www.fangraphs.com/players/${player.name_first}-${player.name_last}/${player.key_fangraphs}/stats`
                         });
+                    }
                       }
                     );
             }
@@ -352,10 +426,17 @@ document.addEventListener('DOMContentLoaded', function() {
                     .then(response => response.json())
                     .then(json => {
                         var player = json[id];
+
+                        if (player === undefined) {
+                            chrome.tabs.create({
+                                url: "https://www.fangraphs.com"
+                              });
+                        } else {
         
                         chrome.tabs.create({
                             url: `https://www.fangraphs.com/players/${player.name_first}-${player.name_last}/${player.key_fangraphs}/stats`
                           });
+                        }
                       }
                     );
             }
@@ -371,14 +452,21 @@ document.addEventListener('DOMContentLoaded', function() {
                 var id = nameAndId.substring(nameAndId.search(/\d/));
                 console.log(id);
 
-                fetch("../data/savant.json")
+                fetch("../data/mlbam.json")
                     .then(response => response.json())
                     .then(json => {
                         var player = json[id];
+
+                        if (player === undefined) {
+                            chrome.tabs.create({
+                                url: "https://www.fangraphs.com"
+                              });
+                        } else {
         
                         chrome.tabs.create({
                             url: `https://www.fangraphs.com/players/${player.name_first}-${player.name_last}/${player.key_fangraphs}/stats`
                         });
+                    }
                       }
                     );
             }
