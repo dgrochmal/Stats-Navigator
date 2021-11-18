@@ -11,3 +11,4 @@
 - html spacing changes
 - cleaning up javascript
 - refactor common string processing
+- convert from manifest v2 to v3
