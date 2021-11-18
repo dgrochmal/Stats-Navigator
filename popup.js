@@ -4,22 +4,11 @@ document.addEventListener('DOMContentLoaded', function () {
     fanButton.addEventListener('click', function () {
         var query = { active: true, currentWindow: true };
         function callback(tabs) {
-            var currentTab = tabs[0]; // there will be only one in this array
-            console.log(currentTab.url); // also has properties like currentTab.id
+            var currentTab = tabs[0];
+            console.log(currentTab.url);
             var currentLocation = currentTab.url;
             if (currentLocation.substring(12, 21) === "fangraphs") {
-                var locationOfPlayersString = currentLocation.indexOf('players');
-                console.log(locationOfPlayersString);
-                var playersStringTillEnd = currentLocation.substring(locationOfPlayersString + 8)
-                console.log(playersStringTillEnd)
-                var indexOfQuestionMark = playersStringTillEnd.indexOf("/");
-                console.log(indexOfQuestionMark);
-                var nameAndId = playersStringTillEnd.substring(indexOfQuestionMark + 1);
-                console.log(nameAndId);
-                var indexOfSecondSlash = nameAndId.indexOf("/");
-                console.log(indexOfSecondSlash);
-                var id = nameAndId.substring(0, indexOfSecondSlash);
-                console.log(id);
+                var id = getFangraphsId(currentLocation);
 
                 fetch("../data/fangraphs.json")
                     .then(response => response.json())
@@ -45,16 +34,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 //They clicked the bb reference button, so they're already here?
             }
             else if (currentLocation.substring(8, 22) === "baseballsavant") {
-                var locationOfPlayersString = currentLocation.indexOf('savant-player');
-                console.log(locationOfPlayersString);
-                var playersStringTillEnd = currentLocation.substring(locationOfPlayersString + 14)
-                console.log(playersStringTillEnd)
-                var indexOfQuestionMark = playersStringTillEnd.indexOf("?");
-                console.log(indexOfQuestionMark);
-                var nameAndId = playersStringTillEnd.substring(0, indexOfQuestionMark);
-                console.log(nameAndId);
-                var id = nameAndId.substring(nameAndId.search(/\d/));
-                console.log(id);
+                var id = getSavantId(currentLocation, id);
 
                 fetch("../data/mlbam.json")
                     .then(response => response.json())
@@ -66,7 +46,6 @@ document.addEventListener('DOMContentLoaded', function () {
                                 url: "https://www.baseball-reference.com"
                             });
                         } else {
-
                             var lastName = player.name_last;
                             var initial = lastName[0];
 
@@ -89,22 +68,11 @@ document.addEventListener('DOMContentLoaded', function () {
         ev.preventDefault();
         var query = { active: true, currentWindow: true };
         function callback(tabs) {
-            var currentTab = tabs[0]; // there will be only one in this array
-            console.log(currentTab.url); // also has properties like currentTab.id
+            var currentTab = tabs[0];
+            console.log(currentTab.url);
             var currentLocation = currentTab.url;
             if (currentLocation.substring(12, 21) === "fangraphs") {
-                var locationOfPlayersString = currentLocation.indexOf('players');
-                console.log(locationOfPlayersString);
-                var playersStringTillEnd = currentLocation.substring(locationOfPlayersString + 8)
-                console.log(playersStringTillEnd)
-                var indexOfQuestionMark = playersStringTillEnd.indexOf("/");
-                console.log(indexOfQuestionMark);
-                var nameAndId = playersStringTillEnd.substring(indexOfQuestionMark + 1);
-                console.log(nameAndId);
-                var indexOfSecondSlash = nameAndId.indexOf("/");
-                console.log(indexOfSecondSlash);
-                var id = nameAndId.substring(0, indexOfSecondSlash);
-                console.log(id);
+                var id = getFangraphsId(currentLocation);
 
                 fetch("../data/fangraphs.json")
                     .then(response => response.json())
@@ -116,7 +84,6 @@ document.addEventListener('DOMContentLoaded', function () {
                                 url: "https://www.baseball-reference.com"
                             });
                         } else {
-
                             var lastName = player.name_last;
                             var initial = lastName[0];
 
@@ -131,16 +98,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 //They clicked the bb reference button, so they're already here?
             }
             else if (currentLocation.substring(8, 22) === "baseballsavant") {
-                var locationOfPlayersString = currentLocation.indexOf('savant-player');
-                console.log(locationOfPlayersString);
-                var playersStringTillEnd = currentLocation.substring(locationOfPlayersString + 14)
-                console.log(playersStringTillEnd)
-                var indexOfQuestionMark = playersStringTillEnd.indexOf("?");
-                console.log(indexOfQuestionMark);
-                var nameAndId = playersStringTillEnd.substring(0, indexOfQuestionMark);
-                console.log(nameAndId);
-                var id = nameAndId.substring(nameAndId.search(/\d/));
-                console.log(id);
+                var id = getSavantId(currentLocation, id);
 
                 fetch("../data/mlbam.json")
                     .then(response => response.json())
@@ -152,7 +110,6 @@ document.addEventListener('DOMContentLoaded', function () {
                                 url: "https://www.baseball-reference.com"
                             });
                         } else {
-
                             var lastName = player.name_last;
                             var initial = lastName[0];
 
@@ -179,22 +136,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
         var query = { active: true, currentWindow: true };
         function callback(tabs) {
-            var currentTab = tabs[0]; // there will be only one in this array
-            console.log(currentTab.url); // also has properties like currentTab.id
+            var currentTab = tabs[0];
+            console.log(currentTab.url);
             var currentLocation = currentTab.url;
             if (currentLocation.substring(12, 21) === "fangraphs") {
-                var locationOfPlayersString = currentLocation.indexOf('players');
-                console.log(locationOfPlayersString);
-                var playersStringTillEnd = currentLocation.substring(locationOfPlayersString + 8)
-                console.log(playersStringTillEnd)
-                var id = playersStringTillEnd.indexOf("/");
-                console.log(id);
-                var nameAndId = playersStringTillEnd.substring(id + 1);
-                console.log(nameAndId);
-                var indexOfSecondSlash = nameAndId.indexOf("/");
-                console.log(indexOfSecondSlash);
-                var id = nameAndId.substring(0, indexOfSecondSlash);
-                console.log(id);
+                var id = getFangraphsId(currentLocation);
 
                 fetch("../data/fangraphs.json")
                     .then(response => response.json())
@@ -206,7 +152,6 @@ document.addEventListener('DOMContentLoaded', function () {
                                 url: "https://baseballsavant.mlb.com"
                             });
                         } else {
-
                             chrome.tabs.update({
                                 url: `https://baseballsavant.mlb.com/savant-player/${player.name_first}-${player.name_last}-${player.key_mlbam}`
                             });
@@ -215,12 +160,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     );
             }
             else if (currentLocation.substring(12, 30) === "baseball-reference") {
-                var locationOfPlayersString = currentLocation.indexOf('players');
-                console.log(locationOfPlayersString);
-                var playersStringTillEnd = currentLocation.substring(locationOfPlayersString + 10)
-                console.log(playersStringTillEnd)
-                var id = playersStringTillEnd.substring(0, playersStringTillEnd.length - 6);
-                console.log(id);;
+                var id = getBBRefId(currentLocation, id);
 
                 fetch("../data/bbref.json")
                     .then(response => response.json())
@@ -232,7 +172,6 @@ document.addEventListener('DOMContentLoaded', function () {
                                 url: "https://baseballsavant.mlb.com"
                             });
                         } else {
-
                             chrome.tabs.update({
                                 url: `https://baseballsavant.mlb.com/savant-player/${player.name_first}-${player.name_last}-${player.key_mlbam}`
                             });
@@ -255,22 +194,11 @@ document.addEventListener('DOMContentLoaded', function () {
         ev.preventDefault();
         var query = { active: true, currentWindow: true };
         function callback(tabs) {
-            var currentTab = tabs[0]; // there will be only one in this array
-            console.log(currentTab.url); // also has properties like currentTab.id
+            var currentTab = tabs[0];
+            console.log(currentTab.url);
             var currentLocation = currentTab.url;
             if (currentLocation.substring(12, 21) === "fangraphs") {
-                var locationOfPlayersString = currentLocation.indexOf('players');
-                console.log(locationOfPlayersString);
-                var playersStringTillEnd = currentLocation.substring(locationOfPlayersString + 8)
-                console.log(playersStringTillEnd)
-                var id = playersStringTillEnd.indexOf("/");
-                console.log(id);
-                var nameAndId = playersStringTillEnd.substring(id + 1);
-                console.log(nameAndId);
-                var indexOfSecondSlash = nameAndId.indexOf("/");
-                console.log(indexOfSecondSlash);
-                var id = nameAndId.substring(0, indexOfSecondSlash);
-                console.log(id);
+                var id = getFangraphsId(currentLocation);
 
                 fetch("../data/fangraphs.json")
                     .then(response => response.json())
@@ -282,7 +210,6 @@ document.addEventListener('DOMContentLoaded', function () {
                                 url: "https://baseballsavant.mlb.com"
                             });
                         } else {
-
                             chrome.tabs.create({
                                 url: `https://baseballsavant.mlb.com/savant-player/${player.name_first}-${player.name_last}-${player.key_mlbam}`
                             });
@@ -291,12 +218,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     );
             }
             else if (currentLocation.substring(12, 30) === "baseball-reference") {
-                var locationOfPlayersString = currentLocation.indexOf('players');
-                console.log(locationOfPlayersString);
-                var playersStringTillEnd = currentLocation.substring(locationOfPlayersString + 10)
-                console.log(playersStringTillEnd)
-                var id = playersStringTillEnd.substring(0, playersStringTillEnd.length - 6);
-                console.log(id);;
+                var id = getBBRefId(currentLocation, id);
 
                 fetch("../data/bbref.json")
                     .then(response => response.json())
@@ -308,7 +230,6 @@ document.addEventListener('DOMContentLoaded', function () {
                                 url: "https://baseballsavant.mlb.com"
                             });
                         } else {
-
                             chrome.tabs.create({
                                 url: `https://baseballsavant.mlb.com/savant-player/${player.name_first}-${player.name_last}-${player.key_mlbam}`
                             });
@@ -334,19 +255,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
         var query = { active: true, currentWindow: true };
         function callback(tabs) {
-            var currentTab = tabs[0]; // there will be only one in this array
-            console.log(currentTab.url); // also has properties like currentTab.id
+            var currentTab = tabs[0];
+            console.log(currentTab.url);
             var currentLocation = currentTab.url;
             if (currentLocation.substring(12, 21) === "fangraphs") {
                 //They clicked the fangraphs button, so they're already here?
             }
             else if (currentLocation.substring(12, 30) === "baseball-reference") {
-                var locationOfPlayersString = currentLocation.indexOf('players');
-                console.log(locationOfPlayersString);
-                var playersStringTillEnd = currentLocation.substring(locationOfPlayersString + 10)
-                console.log(playersStringTillEnd)
-                var id = playersStringTillEnd.substring(0, playersStringTillEnd.length - 6);
-                console.log(id);
+                var id = getBBRefId(currentLocation, id);
 
                 fetch("../data/bbref.json")
                     .then(response => response.json())
@@ -358,7 +274,6 @@ document.addEventListener('DOMContentLoaded', function () {
                                 url: "https://www.fangraphs.com"
                             });
                         } else {
-
                             chrome.tabs.update({
                                 url: `https://www.fangraphs.com/players/${player.name_first}-${player.name_last}/${player.key_fangraphs}/stats`
                             });
@@ -367,16 +282,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     );
             }
             else if (currentLocation.substring(8, 22) === "baseballsavant") {
-                var locationOfPlayersString = currentLocation.indexOf('savant-player');
-                console.log(locationOfPlayersString);
-                var playersStringTillEnd = currentLocation.substring(locationOfPlayersString + 14)
-                console.log(playersStringTillEnd)
-                var indexOfQuestionMark = playersStringTillEnd.indexOf("?");
-                console.log(indexOfQuestionMark);
-                var nameAndId = playersStringTillEnd.substring(0, indexOfQuestionMark);
-                console.log(nameAndId);
-                var id = nameAndId.substring(nameAndId.search(/\d/));
-                console.log(id);
+                var id = getSavantId(currentLocation, id);
 
                 fetch("../data/mlbam.json")
                     .then(response => response.json())
@@ -388,7 +294,6 @@ document.addEventListener('DOMContentLoaded', function () {
                                 url: "https://www.fangraphs.com"
                             });
                         } else {
-
                             chrome.tabs.update({
                                 url: `https://www.fangraphs.com/players/${player.name_first}-${player.name_last}/${player.key_fangraphs}/stats`
                             });
@@ -408,19 +313,14 @@ document.addEventListener('DOMContentLoaded', function () {
         ev.preventDefault();
         var query = { active: true, currentWindow: true };
         function callback(tabs) {
-            var currentTab = tabs[0]; // there will be only one in this array
-            console.log(currentTab.url); // also has properties like currentTab.id
+            var currentTab = tabs[0];
+            console.log(currentTab.url);
             var currentLocation = currentTab.url;
             if (currentLocation.substring(12, 21) === "fangraphs") {
                 //They clicked the fangraphs button, so they're already here?
             }
             else if (currentLocation.substring(12, 30) === "baseball-reference") {
-                var locationOfPlayersString = currentLocation.indexOf('players');
-                console.log(locationOfPlayersString);
-                var playersStringTillEnd = currentLocation.substring(locationOfPlayersString + 10)
-                console.log(playersStringTillEnd)
-                var id = playersStringTillEnd.substring(0, playersStringTillEnd.length - 6);
-                console.log(id);
+                var id = getBBRefId(currentLocation, id);
 
                 fetch("../data/bbref.json")
                     .then(response => response.json())
@@ -432,7 +332,6 @@ document.addEventListener('DOMContentLoaded', function () {
                                 url: "https://www.fangraphs.com"
                             });
                         } else {
-
                             chrome.tabs.create({
                                 url: `https://www.fangraphs.com/players/${player.name_first}-${player.name_last}/${player.key_fangraphs}/stats`
                             });
@@ -441,16 +340,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     );
             }
             else if (currentLocation.substring(8, 22) === "baseballsavant") {
-                var locationOfPlayersString = currentLocation.indexOf('savant-player');
-                console.log(locationOfPlayersString);
-                var playersStringTillEnd = currentLocation.substring(locationOfPlayersString + 14)
-                console.log(playersStringTillEnd)
-                var indexOfQuestionMark = playersStringTillEnd.indexOf("?");
-                console.log(indexOfQuestionMark);
-                var nameAndId = playersStringTillEnd.substring(0, indexOfQuestionMark);
-                console.log(nameAndId);
-                var id = nameAndId.substring(nameAndId.search(/\d/));
-                console.log(id);
+                var id = getSavantId(currentLocation, id);
 
                 fetch("../data/mlbam.json")
                     .then(response => response.json())
@@ -462,7 +352,6 @@ document.addEventListener('DOMContentLoaded', function () {
                                 url: "https://www.fangraphs.com"
                             });
                         } else {
-
                             chrome.tabs.create({
                                 url: `https://www.fangraphs.com/players/${player.name_first}-${player.name_last}/${player.key_fangraphs}/stats`
                             });
@@ -480,3 +369,43 @@ document.addEventListener('DOMContentLoaded', function () {
         return false;
     }, false);
 }, false);
+
+function getBBRefId(currentLocation, id) {
+    var locationOfPlayersString = currentLocation.indexOf('players');
+    console.log(locationOfPlayersString);
+    var playersStringTillEnd = currentLocation.substring(locationOfPlayersString + 10);
+    console.log(playersStringTillEnd);
+    var id = playersStringTillEnd.substring(0, playersStringTillEnd.length - 6);
+    console.log(id);;
+    return id;
+}
+
+function getSavantId(currentLocation, id) {
+    var locationOfPlayersString = currentLocation.indexOf('savant-player');
+    console.log(locationOfPlayersString);
+    var playersStringTillEnd = currentLocation.substring(locationOfPlayersString + 14);
+    console.log(playersStringTillEnd);
+    var indexOfQuestionMark = playersStringTillEnd.indexOf("?");
+    console.log(indexOfQuestionMark);
+    var nameAndId = playersStringTillEnd.substring(0, indexOfQuestionMark);
+    console.log(nameAndId);
+    var id = nameAndId.substring(nameAndId.search(/\d/));
+    console.log(id);
+    return id;
+}
+
+function getFangraphsId(currentLocation) {
+    var locationOfPlayersString = currentLocation.indexOf('players');
+    console.log(locationOfPlayersString);
+    var playersStringTillEnd = currentLocation.substring(locationOfPlayersString + 8);
+    console.log(playersStringTillEnd);
+    var indexOfQuestionMark = playersStringTillEnd.indexOf("/");
+    console.log(indexOfQuestionMark);
+    var nameAndId = playersStringTillEnd.substring(indexOfQuestionMark + 1);
+    console.log(nameAndId);
+    var indexOfSecondSlash = nameAndId.indexOf("/");
+    console.log(indexOfSecondSlash);
+    var id = nameAndId.substring(0, indexOfSecondSlash);
+    console.log(id);
+    return id;
+}
