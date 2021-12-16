@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 1.4.0 (12/15/2021)
+- 348 new players! (23612 currently supported)
+- Baseball Prospectus button
+- Updated JSON files for both Firefox and Chrome
+
 ## 1.3.0 (11/18/2021)
 - Add right-click note to html
 - html spacing changes

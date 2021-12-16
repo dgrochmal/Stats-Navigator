@@ -17,12 +17,10 @@ def make_json(csvFilePath, jsonFilePath):
         # and add it to data
         for rows in csvReader:
              
-            # Assuming a column named 'No' to
-            # be the primary key
-            lastPlayed = rows['mlb_played_last']
-            if (lastPlayed is not None and lastPlayed != '' and int(float(rows['mlb_played_last']) > 1915)):
-                key = rows['key_mlbam']
-                data[key] = rows
+            # lastPlayed = rows['mlb_played_last']
+            # if (lastPlayed is not None and lastPlayed != '' and int(float(rows['mlb_played_last']) > 1915)):
+            key = rows['bpid']
+            data[key] = rows
  
     # Open a json writer, and use the json.dumps()
     # function to dump data
@@ -33,8 +31,8 @@ def make_json(csvFilePath, jsonFilePath):
  
 # Decide the two file paths according to your
 # computer system
-csvFilePath = r'out.csv'
-jsonFilePath = r'mlbam.json'
+csvFilePath = r'out12-15WithBPID.csv'
+jsonFilePath = r'bpid.json'
  
 # Call the make_json function
 make_json(csvFilePath, jsonFilePath)
