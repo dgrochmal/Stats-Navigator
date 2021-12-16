@@ -1,0 +1,4 @@
+Demo Instructions:
+1) Navigate to: https://www.baseball-reference.com/players/t/troutmi01.shtml
+2) Open extension
+3) Click any button (Other than "To BB Reference)
