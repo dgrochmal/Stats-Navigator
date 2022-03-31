@@ -19,20 +19,23 @@ def make_json(csvFilePath, jsonFilePath):
              
             # lastPlayed = rows['mlb_played_last']
             # if (lastPlayed is not None and lastPlayed != '' and int(float(rows['mlb_played_last']) > 1915)):
-            key = rows['bpid']
+            key = rows['key_mlbam']
             data[key] = rows
  
     # Open a json writer, and use the json.dumps()
     # function to dump data
     with open(jsonFilePath, 'w', encoding='utf-8') as jsonf:
-        jsonf.write(json.dumps(data, indent=4))
+        # pretty print
+        # jsonf.write(json.dumps(data, indent=4))
+        # no whitespace print
+        jsonf.write(json.dumps(data, indent=None, separators=(',', ':')))
          
 # Driver Code
  
 # Decide the two file paths according to your
 # computer system
-csvFilePath = r'out12-15WithBPID.csv'
-jsonFilePath = r'bpid.json'
+csvFilePath = r'joined.csv'
+jsonFilePath = r'mlbam.json'
  
 # Call the make_json function
 make_json(csvFilePath, jsonFilePath)
