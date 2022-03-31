@@ -13,10 +13,11 @@ def removeDupes(test_list):
     return res
 
 with open('prospectus.csv') as n:
-     reader = csv.reader(n, delimiter=",")
+    reader = csv.reader(n, delimiter=",")
 
-     Names = set()
-     for row in reader:
+    # Create a unique list of last names from prospectus data list
+    Names = set()
+    for row in reader:
         Names.add(row[0])    
 
 print(len(Names))
