@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 1.5.0 (3/31/2022)
+- Regenerated ID data
+- Quality of life updates for me
+- Removed need to join CSVs elsewhere
+
 ## 1.4.0 (12/15/2021)
 - 348 new players! (23612 currently supported)
 - Baseball Prospectus button

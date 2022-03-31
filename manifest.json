@@ -2,11 +2,11 @@
     "manifest_version": 3,
   
     "name": "Stats Navigator",
-    "description": "Linking between Baseball-Reference, Baseball Savant, and Fangraphs",
-    "version": "1.4.0",
+    "description": "Linking between Baseball-Reference, Baseball Savant, Fangraphs, and Baseball Prospectus",
+    "version": "1.5.0",
   
     "action": {
-      "default_icon": "newIcon.png",
+      "default_icon": "statsNavigator.png",
       "default_popup": "popup.html"
     },
     "permissions": [
