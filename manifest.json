@@ -3,7 +3,7 @@
   
     "name": "Stats Navigator",
     "description": "Linking between Baseball-Reference, Baseball Savant, and Fangraphs",
-    "version": "1.3.0",
+    "version": "1.4.0",
   
     "action": {
       "default_icon": "newIcon.png",

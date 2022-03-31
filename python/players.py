@@ -12,23 +12,17 @@ def removeDupes(test_list):
             res.append(i)
     return res
 
-list = []
-with open('players.csv') as n:
-     reader = csv.reader(n, delimiter=",")
-     for row in reader:
-        x = row[0].replace('\xa0', ' ')
-        size = len(x)
-        # Slice string to remove last 3 characters from string
-        x = x[:size - 11]
-        l = x.split()
-        lastName = l[1:]
-        # print(lastName)     
-        list.append(" ".join(lastName))
+with open('prospectus.csv') as n:
+    reader = csv.reader(n, delimiter=",")
 
-# list = flatten(list)
-list = removeDupes(list)
-# print(list)   
-print(len(list))
+    # Create a unique list of last names from prospectus data list
+    Names = set()
+    for row in reader:
+        Names.add(row[0])    
+
+print(len(Names))
+
+list = list(sorted(Names))
 
 lookupLIST = []
 df = pd.DataFrame(columns=['name_last', 'name_first', 'key_mlbam', 'key_bbref', 'key_fangraphs'])
@@ -36,4 +30,4 @@ df = pd.DataFrame(columns=['name_last', 'name_first', 'key_mlbam', 'key_bbref', 
 for name in list:
     df = df.append(playerid_lookup(name))
     
-df.to_csv('out.csv', index=False)\
+df.to_csv('out3.csv', index=False)
