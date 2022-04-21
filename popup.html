@@ -6,10 +6,10 @@
   </head>
   <body>
     <h2>Stats navigator</h2>
-    <button id="bbRef" class="button5" style="background-color:#CF2036;">To BB Reference</button>
-    <button id="savant" class="button5" style="background-color:#399098;">To Savant</button>
-    <button id="fan" class="button5" style="background-color:#50ae26;">To FanGraphs</button>
-    <button id="bp" class="button5" style="background-color: #E00E0E;">To BB Prospectus</button>
+    <button id="bbRef" class="pop-up-button" style="background-color:#CF2036;">To BB Reference</button>
+    <button id="savant" class="pop-up-button" style="background-color:#399098;">To Savant</button>
+    <button id="fan" class="pop-up-button" style="background-color:#50ae26;">To FanGraphs</button>
+    <button id="bp" class="pop-up-button" style="background-color: #E00E0E;">To BB Prospectus</button>
     
     <h6>Right click to open in a new tab</h6>
   </body>
@@ -27,7 +27,7 @@ h6 {
 body {
   width: 175px;
 }
-button.button5 {
+button.pop-up-button {
   display:inline-block;
   padding:0.46em 1.6em;
   border:0.1em solid #000000;
@@ -43,13 +43,13 @@ button.button5 {
   text-align:center;
   transition: all 0.15s;
 }
-button.button5:hover{
+button.pop-up-button:hover{
   text-shadow: 0 0 2em rgba(255,255,255,1);
   color:#FFFFFF;
   border-color:#FFFFFF;
 }
 @media all and (max-width:30em){
-  button.button5{
+  button.pop-up-button{
     display:block;
     margin:0.4em auto;
   }

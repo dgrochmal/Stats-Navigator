@@ -30,4 +30,4 @@ df = pd.DataFrame(columns=['name_last', 'name_first', 'key_mlbam', 'key_bbref', 
 for name in list:
     df = df.append(playerid_lookup(name))
     
-df.to_csv('out3.csv', index=False)
+df.to_csv('out3-31.csv', index=False)
