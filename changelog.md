@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 1.5.1 (4/42/2022)
+- Regenerated ID data
+
 ## 1.5.0 (3/31/2022)
 - Regenerated ID data
 - Quality of life updates for me

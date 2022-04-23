@@ -12,6 +12,16 @@ with open('prospectus.csv') as n:
         Names.add(row[0])    
 
 print(len(Names))
+Names.add("Canó")
+Names.add("Díaz")
+Names.add("Jiménez")
+Names.add("Mariñez")
+Names.add("Márquez")
+Names.add("Mondesí")
+Names.add("Rodríguez")
+Names.add("Tatís")
+
+print(len(Names))
 
 list = list(sorted(Names))
 
@@ -57,9 +67,9 @@ def make_json(csvFilePath, jsonFilePath, jsonKey):
     # function to dump data
     with open(jsonFilePath, 'w', encoding='utf-8') as jsonf:
         # pretty print
-        # jsonf.write(json.dumps(data, indent=4))
+        jsonf.write(json.dumps(data, indent=4))
         # no whitespace print
-        jsonf.write(json.dumps(data, indent=None, separators=(',', ':')))
+        # jsonf.write(json.dumps(data, indent=None, separators=(',', ':')))
          
 # Driver Code
  
