@@ -1235,6 +1235,12 @@
         "key_bbref": "alexahu01",
         "full_name": "hugh alexander"
     },
+    "JASON ALEXANDER": {
+        "name_last": "alexander",
+        "name_first": "jason",
+        "key_bbref": "alexaja01",
+        "full_name": "jason alexander"
+    },
     "KOKE ALEXANDER": {
         "name_last": "alexander",
         "name_first": "koke",
@@ -1379,6 +1385,12 @@
         "key_bbref": "allarko01",
         "full_name": "kolby allard"
     },
+    "CAM ALLDRED": {
+        "name_last": "alldred",
+        "name_first": "cam",
+        "key_bbref": "alldrca01",
+        "full_name": "cam alldred"
+    },
     "ALEX ALLEN": {
         "name_last": "allen",
         "name_first": "alex",
@@ -1450,6 +1462,12 @@
         "name_first": "dusty",
         "key_bbref": "allendu01",
         "full_name": "dusty allen"
+    },
+    "EARL ALLEN": {
+        "name_last": "allen",
+        "name_first": "earl",
+        "key_bbref": "allenbo03",
+        "full_name": "earl allen"
     },
     "ETHAN ALLEN": {
         "name_last": "allen",
@@ -1574,7 +1592,7 @@
     "NICK ALLEN": {
         "name_last": "allen",
         "name_first": "nick",
-        "key_bbref": "allenni01",
+        "key_bbref": "allenni02",
         "full_name": "nick allen"
     },
     "PETE ALLEN": {
@@ -2867,6 +2885,12 @@
         "key_bbref": "apostsh01",
         "full_name": "sherten apostel"
     },
+    "MARK APPEL": {
+        "name_last": "appel",
+        "name_first": "mark",
+        "key_bbref": "appelma01",
+        "full_name": "mark appel"
+    },
     "KEVIN APPIER": {
         "name_last": "appier",
         "name_first": "kevin",
@@ -2932,6 +2956,12 @@
         "name_first": "jack",
         "key_bbref": "aragoja01",
         "full_name": "jack aragon"
+    },
+    "JONATHAN ARANDA": {
+        "name_last": "aranda",
+        "name_first": "jonathan",
+        "key_bbref": "arandjo01",
+        "full_name": "jonathan aranda"
     },
     "VICTOR ARANO": {
         "name_last": "arano",
@@ -3094,6 +3124,12 @@
         "name_first": "alex",
         "key_bbref": "ariasal01",
         "full_name": "alex arias"
+    },
+    "GABRIEL ARIAS": {
+        "name_last": "arias",
+        "name_first": "gabriel",
+        "key_bbref": "ariasga01",
+        "full_name": "gabriel arias"
     },
     "GEORGE ARIAS": {
         "name_last": "arias",
@@ -3538,6 +3574,12 @@
         "name_first": "earl",
         "key_bbref": "ashbyea01",
         "full_name": "earl ashby"
+    },
+    "GRAHAM ASHCRAFT": {
+        "name_last": "ashcraft",
+        "name_first": "graham",
+        "key_bbref": "ashcrgr01",
+        "full_name": "graham ashcraft"
     },
     "ALEC ASHER": {
         "name_last": "asher",
@@ -4997,6 +5039,12 @@
         "key_bbref": "ballima01",
         "full_name": "mark ballinger"
     },
+    "BROCK BALLOU": {
+        "name_last": "ballou",
+        "name_first": "brock",
+        "key_bbref": "",
+        "full_name": "brock ballou"
+    },
     "WIN BALLOU": {
         "name_last": "ballou",
         "name_first": "win",
@@ -5194,6 +5242,12 @@
         "name_first": "jimmy",
         "key_bbref": "bannoji01",
         "full_name": "jimmy bannon"
+    },
+    "RYLAN BANNON": {
+        "name_last": "bannon",
+        "name_first": "rylan",
+        "key_bbref": "bannory01",
+        "full_name": "rylan bannon"
     },
     "TOM BANNON": {
         "name_last": "bannon",
@@ -5452,6 +5506,12 @@
         "name_first": "len",
         "key_bbref": "barkele01",
         "full_name": "len barker"
+    },
+    "LUKE BARKER": {
+        "name_last": "barker",
+        "name_first": "luke",
+        "key_bbref": "barkelu01",
+        "full_name": "luke barker"
     },
     "MARVIN BARKER": {
         "name_last": "barker",
@@ -6640,6 +6700,12 @@
         "name_first": "george",
         "key_bbref": "battege01",
         "full_name": "george batten"
+    },
+    "MATTHEW BATTEN": {
+        "name_last": "batten",
+        "name_first": "matthew",
+        "key_bbref": "battema01",
+        "full_name": "matthew batten"
     },
     "EARL BATTEY": {
         "name_last": "battey",
@@ -8008,6 +8074,12 @@
         "name_first": "jack",
         "key_bbref": "bellmja01",
         "full_name": "jack bellman"
+    },
+    "BRAYAN BELLO": {
+        "name_last": "bello",
+        "name_first": "brayan",
+        "key_bbref": "bellobr01",
+        "full_name": "brayan bello"
     },
     "ROB BELLOIR": {
         "name_last": "belloir",
@@ -9563,6 +9635,12 @@
         "key_bbref": "birdgr01",
         "full_name": "greg bird"
     },
+    "JAKE BIRD": {
+        "name_last": "bird",
+        "name_first": "jake",
+        "key_bbref": "birdja01",
+        "full_name": "jake bird"
+    },
     "KYLE BIRD": {
         "name_last": "bird",
         "name_first": "kyle",
@@ -10151,6 +10229,12 @@
         "key_bbref": "blancca01",
         "full_name": "carlos blanco"
     },
+    "DAIRON BLANCO": {
+        "name_last": "blanco",
+        "name_first": "dairon",
+        "key_bbref": "blancda02",
+        "full_name": "dairon blanco"
+    },
     "DAMASO BLANCO": {
         "name_last": "blanco",
         "name_first": "damaso",
@@ -10408,6 +10492,12 @@
         "name_first": "ron",
         "key_bbref": "blaziro01",
         "full_name": "ron blazier"
+    },
+    "JJ BLEDAY": {
+        "name_last": "bleday",
+        "name_first": "jj",
+        "key_bbref": "",
+        "full_name": "jj bleday"
     },
     "CURT BLEFARY": {
         "name_last": "blefary",
@@ -11807,6 +11897,12 @@
         "key_bbref": "botzbo01",
         "full_name": "bob botz"
     },
+    "SEAN BOUCHARD": {
+        "name_last": "bouchard",
+        "name_first": "sean",
+        "key_bbref": "bouchse01",
+        "full_name": "sean bouchard"
+    },
     "ED BOUCHEE": {
         "name_last": "bouchee",
         "name_first": "ed",
@@ -12448,6 +12544,12 @@
         "name_first": "vic",
         "key_bbref": "bradfvi01",
         "full_name": "vic bradford"
+    },
+    "KYLE BRADISH": {
+        "name_last": "bradish",
+        "name_first": "kyle",
+        "key_bbref": "bradiky01",
+        "full_name": "kyle bradish"
     },
     "AL BRADLEY": {
         "name_last": "bradley",
@@ -13409,6 +13511,12 @@
         "key_bbref": "brickra01",
         "full_name": "ralph brickner"
     },
+    "JONAH BRIDE": {
+        "name_last": "bride",
+        "name_first": "jonah",
+        "key_bbref": "bridejo01",
+        "full_name": "jonah bride"
+    },
     "JIM BRIDEWESER": {
         "name_last": "brideweser",
         "name_first": "jim",
@@ -13450,6 +13558,12 @@
         "name_first": "bunny",
         "key_bbref": "briefbu01",
         "full_name": "bunny brief"
+    },
+    "BEAU BRIESKE": {
+        "name_last": "brieske",
+        "name_first": "beau",
+        "key_bbref": "briesbe01",
+        "full_name": "beau brieske"
     },
     "BUTTONS BRIGGS": {
         "name_last": "briggs",
@@ -17333,6 +17447,12 @@
         "key_bbref": "calixor01",
         "full_name": "orlando calixte"
     },
+    "ALEX CALL": {
+        "name_last": "call",
+        "name_first": "alex",
+        "key_bbref": "callal02",
+        "full_name": "alex call"
+    },
     "MARTY CALLAGHAN": {
         "name_last": "callaghan",
         "name_first": "marty",
@@ -18029,6 +18149,12 @@
         "key_bbref": "canojo01",
         "full_name": "jose cano"
     },
+    "YENNIER CANO": {
+        "name_last": "cano",
+        "name_first": "yennier",
+        "key_bbref": "canoye01",
+        "full_name": "yennier cano"
+    },
     "JOSE CANSECO": {
         "name_last": "canseco",
         "name_first": "jose",
@@ -18101,6 +18227,12 @@
         "key_bbref": "canoro01",
         "full_name": "robinson cano"
     },
+    "CONNER CAPEL": {
+        "name_last": "capel",
+        "name_first": "conner",
+        "key_bbref": "capelco01",
+        "full_name": "conner capel"
+    },
     "MIKE CAPEL": {
         "name_last": "capel",
         "name_first": "mike",
@@ -18148,6 +18280,12 @@
         "name_first": "nick",
         "key_bbref": "caprani01",
         "full_name": "nick capra"
+    },
+    "VINNY CAPRA": {
+        "name_last": "capra",
+        "name_first": "vinny",
+        "key_bbref": "capravi01",
+        "full_name": "vinny capra"
     },
     "PAT CAPRI": {
         "name_last": "capri",
@@ -19523,6 +19661,12 @@
         "key_bbref": "castima02",
         "full_name": "marty castillo"
     },
+    "MAX CASTILLO": {
+        "name_last": "castillo",
+        "name_first": "max",
+        "key_bbref": "castima03",
+        "full_name": "max castillo"
+    },
     "RUSNEY CASTILLO": {
         "name_last": "castillo",
         "name_first": "rusney",
@@ -20813,12 +20957,6 @@
         "key_bbref": "childha01",
         "full_name": "harry child"
     },
-    "BILL CHILDERS": {
-        "name_last": "childers",
-        "name_first": "bill",
-        "key_bbref": "childbi01",
-        "full_name": "bill childers"
-    },
     "JASON CHILDERS": {
         "name_last": "childers",
         "name_first": "jason",
@@ -20830,6 +20968,12 @@
         "name_first": "matt",
         "key_bbref": "childma01",
         "full_name": "matt childers"
+    },
+    "BILL CHILDRESS": {
+        "name_last": "childress",
+        "name_first": "bill",
+        "key_bbref": "childbi01",
+        "full_name": "bill childress"
     },
     "ROCKY CHILDRESS": {
         "name_last": "childress",
@@ -22102,6 +22246,12 @@
         "name_first": "doug",
         "key_bbref": "clemedo01",
         "full_name": "doug clemens"
+    },
+    "KODY CLEMENS": {
+        "name_last": "clemens",
+        "name_first": "kody",
+        "key_bbref": "clemeko01",
+        "full_name": "kody clemens"
     },
     "PAUL CLEMENS": {
         "name_last": "clemens",
@@ -23914,6 +24064,12 @@
         "name_first": "jose",
         "key_bbref": "contrjo01",
         "full_name": "jose contreras"
+    },
+    "MARK CONTRERAS": {
+        "name_last": "contreras",
+        "name_first": "mark",
+        "key_bbref": "contrma01",
+        "full_name": "mark contreras"
     },
     "NARDI CONTRERAS": {
         "name_last": "contreras",
@@ -26207,6 +26363,12 @@
         "key_bbref": "cronijo01",
         "full_name": "joe cronin"
     },
+    "NARCISO CROOK": {
+        "name_last": "crook",
+        "name_first": "narciso",
+        "key_bbref": "crookna01",
+        "full_name": "narciso crook"
+    },
     "TOM CROOKE": {
         "name_last": "crooke",
         "name_first": "tom",
@@ -26668,6 +26830,12 @@
         "name_first": "victor",
         "key_bbref": "cruzvi01",
         "full_name": "victor cruz"
+    },
+    "JOSE CUAS": {
+        "name_last": "cuas",
+        "name_first": "jose",
+        "key_bbref": "cuasjo01",
+        "full_name": "jose cuas"
     },
     "MIKE CUBBAGE": {
         "name_last": "cubbage",
@@ -28955,6 +29123,12 @@
         "key_bbref": "degotal01",
         "full_name": "alex de goti"
     },
+    "ANGEL DE JESUS": {
+        "name_last": "de jesus",
+        "name_first": "angel",
+        "key_bbref": "dejesan01",
+        "full_name": "angel de jesus"
+    },
     "IVAN DE JESUS": {
         "name_last": "de jesus",
         "name_first": "ivan",
@@ -29110,6 +29284,12 @@
         "name_first": "valerio",
         "key_bbref": "delosva01",
         "full_name": "valerio de los santos"
+    },
+    "YERRY DE LOS SANTOS": {
+        "name_last": "de los santos",
+        "name_first": "yerry",
+        "key_bbref": "delosye01",
+        "full_name": "yerry de los santos"
     },
     "JORGE DE PAULA": {
         "name_last": "de paula",
@@ -29945,6 +30125,12 @@
         "key_bbref": "delahto01",
         "full_name": "tom delahanty"
     },
+    "JASON DELAY": {
+        "name_last": "delay",
+        "name_first": "jason",
+        "key_bbref": "delayja01",
+        "full_name": "jason delay"
+    },
     "MANNY DELCARMEN": {
         "name_last": "delcarmen",
         "name_first": "manny",
@@ -30686,7 +30872,7 @@
     "EDWIN DIAZ": {
         "name_last": "diaz",
         "name_first": "edwin",
-        "key_bbref": "diazed03",
+        "key_bbref": "diazed04",
         "full_name": "edwin diaz"
     },
     "EINAR DIAZ": {
@@ -31829,6 +32015,12 @@
         "key_bbref": "donovbi02",
         "full_name": "bill donovan"
     },
+    "BRENDAN DONOVAN": {
+        "name_last": "donovan",
+        "name_first": "brendan",
+        "key_bbref": "donovbr01",
+        "full_name": "brendan donovan"
+    },
     "DICK DONOVAN": {
         "name_last": "donovan",
         "name_first": "dick",
@@ -32296,6 +32488,12 @@
         "name_first": "dave",
         "key_bbref": "downsda01",
         "full_name": "dave downs"
+    },
+    "JETER DOWNS": {
+        "name_last": "downs",
+        "name_first": "jeter",
+        "key_bbref": "downsje01",
+        "full_name": "jeter downs"
     },
     "KELLY DOWNS": {
         "name_last": "downs",
@@ -33251,6 +33449,12 @@
         "key_bbref": "dumovni01",
         "full_name": "nick dumovich"
     },
+    "JOE DUNAND": {
+        "name_last": "dunand",
+        "name_first": "joe",
+        "key_bbref": "dunanjo01",
+        "full_name": "joe dunand"
+    },
     "MATT DUNBAR": {
         "name_last": "dunbar",
         "name_first": "matt",
@@ -33593,6 +33797,12 @@
         "key_bbref": "duranda01",
         "full_name": "dan duran"
     },
+    "EZEQUIEL DURAN": {
+        "name_last": "duran",
+        "name_first": "ezequiel",
+        "key_bbref": "duranez01",
+        "full_name": "ezequiel duran"
+    },
     "GERMAN DURAN": {
         "name_last": "duran",
         "name_first": "german",
@@ -33730,6 +33940,12 @@
         "name_first": "rich",
         "key_bbref": "durniri01",
         "full_name": "rich durning"
+    },
+    "NICK DURON": {
+        "name_last": "duron",
+        "name_first": "nick",
+        "key_bbref": "duronni01",
+        "full_name": "nick duron"
     },
     "RED DURRETT": {
         "name_last": "durrett",
@@ -33946,12 +34162,6 @@
         "name_first": "aledmys",
         "key_bbref": "diazal02",
         "full_name": "aledmys diaz"
-    },
-    "EDWIN DIAZ": {
-        "name_last": "diaz",
-        "name_first": "edwin",
-        "key_bbref": "diazed04",
-        "full_name": "edwin diaz"
     },
     "FERNANDO DIAZ": {
         "name_last": "diaz",
@@ -34210,6 +34420,12 @@
         "name_first": "craig",
         "key_bbref": "eatoncr01",
         "full_name": "craig eaton"
+    },
+    "NATE EATON": {
+        "name_last": "eaton",
+        "name_first": "nate",
+        "key_bbref": "eatonna01",
+        "full_name": "nate eaton"
     },
     "ZEB EATON": {
         "name_last": "eaton",
@@ -35321,6 +35537,12 @@
         "key_bbref": "encared01",
         "full_name": "edwin encarnacion"
     },
+    "JERAR ENCARNACION": {
+        "name_last": "encarnacion",
+        "name_first": "jerar",
+        "key_bbref": "encarje01",
+        "full_name": "jerar encarnacion"
+    },
     "JUAN ENCARNACION": {
         "name_last": "encarnacion",
         "name_first": "juan",
@@ -35896,6 +36118,12 @@
         "name_first": "alvaro",
         "key_bbref": "espinal01",
         "full_name": "alvaro espinoza"
+    },
+    "ANDERSON ESPINOZA": {
+        "name_last": "espinoza",
+        "name_first": "anderson",
+        "key_bbref": "espinan01",
+        "full_name": "anderson espinoza"
     },
     "BRIAN ESPOSITO": {
         "name_last": "esposito",
@@ -36503,6 +36731,12 @@
         "key_bbref": "facero01",
         "full_name": "roy face"
     },
+    "ALEX FAEDO": {
+        "name_last": "faedo",
+        "name_first": "alex",
+        "key_bbref": "faedoal01",
+        "full_name": "alex faedo"
+    },
     "LENNY FAEDO": {
         "name_last": "faedo",
         "name_first": "lenny",
@@ -37031,6 +37265,12 @@
         "key_bbref": "",
         "full_name": "peter fatse"
     },
+    "CALVIN FAUCHER": {
+        "name_last": "faucher",
+        "name_first": "calvin",
+        "key_bbref": "fauchca01",
+        "full_name": "calvin faucher"
+    },
     "BILL FAUL": {
         "name_last": "faul",
         "name_first": "bill",
@@ -37348,6 +37588,12 @@
         "name_first": "felix",
         "key_bbref": "fermife01",
         "full_name": "felix fermin"
+    },
+    "FREDDY FERMIN": {
+        "name_last": "fermin",
+        "name_first": "freddy",
+        "key_bbref": "fermifr01",
+        "full_name": "freddy fermin"
     },
     "RAMON FERMIN": {
         "name_last": "fermin",
@@ -37877,11 +38123,11 @@
         "key_bbref": "filebo01",
         "full_name": "bob file"
     },
-    "SAM FILE": {
+    "LARRY FILE": {
         "name_last": "file",
-        "name_first": "sam",
+        "name_first": "larry",
         "key_bbref": "filesa01",
-        "full_name": "sam file"
+        "full_name": "larry file"
     },
     "TOM FILER": {
         "name_last": "filer",
@@ -39977,6 +40223,12 @@
         "key_bbref": "francbi01",
         "full_name": "bill francis"
     },
+    "BOWDEN FRANCIS": {
+        "name_last": "francis",
+        "name_first": "bowden",
+        "key_bbref": "francbo01",
+        "full_name": "bowden francis"
+    },
     "EARL FRANCIS": {
         "name_last": "francis",
         "name_first": "earl",
@@ -40229,12 +40481,6 @@
         "key_bbref": "frazial01",
         "full_name": "albert frazier"
     },
-    "CLINT FRAZIER": {
-        "name_last": "frazier",
-        "name_first": "clint",
-        "key_bbref": "frazicl01",
-        "full_name": "clint frazier"
-    },
     "FLASH FRAZIER": {
         "name_last": "frazier",
         "name_first": "flash",
@@ -40246,6 +40492,12 @@
         "name_first": "george",
         "key_bbref": "frazige01",
         "full_name": "george frazier"
+    },
+    "JACKSON FRAZIER": {
+        "name_last": "frazier",
+        "name_first": "jackson",
+        "key_bbref": "frazicl01",
+        "full_name": "jackson frazier"
     },
     "JEFF FRAZIER": {
         "name_last": "frazier",
@@ -41291,6 +41543,12 @@
         "key_bbref": "gaffnjo99",
         "full_name": "john gaffney"
     },
+    "MATT GAGE": {
+        "name_last": "gage",
+        "name_first": "matt",
+        "key_bbref": "gagema01",
+        "full_name": "matt gage"
+    },
     "PHIL GAGLIANO": {
         "name_last": "gagliano",
         "name_first": "phil",
@@ -41963,6 +42221,12 @@
         "key_bbref": "garcide01",
         "full_name": "deivi garcia"
     },
+    "DERMIS GARCIA": {
+        "name_last": "garcia",
+        "name_first": "dermis",
+        "key_bbref": "garcide02",
+        "full_name": "dermis garcia"
+    },
     "EDGAR GARCIA": {
         "name_last": "garcia",
         "name_first": "edgar",
@@ -42052,6 +42316,12 @@
         "name_first": "luis",
         "key_bbref": "garcilu03",
         "full_name": "luis garcia"
+    },
+    "MAIKEL GARCIA": {
+        "name_last": "garcia",
+        "name_first": "maikel",
+        "key_bbref": "garcima01",
+        "full_name": "maikel garcia"
     },
     "MIGUEL GARCIA": {
         "name_last": "garcia",
@@ -42785,11 +43055,11 @@
         "key_bbref": "gearda01",
         "full_name": "dale gear"
     },
-    "GARY GEARHART": {
+    "LLOYD GEARHART": {
         "name_last": "gearhart",
-        "name_first": "gary",
+        "name_first": "lloyd",
         "key_bbref": "gearhga01",
-        "full_name": "gary gearhart"
+        "full_name": "lloyd gearhart"
     },
     "DINTY GEARIN": {
         "name_last": "gearin",
@@ -43906,6 +44176,12 @@
         "name_first": "conor",
         "key_bbref": "gillaco01",
         "full_name": "conor gillaspie"
+    },
+    "LOGAN GILLASPIE": {
+        "name_last": "gillaspie",
+        "name_first": "logan",
+        "key_bbref": "gillalo01",
+        "full_name": "logan gillaspie"
     },
     "THOMAS GILLEAN": {
         "name_last": "gillean",
@@ -45233,6 +45509,12 @@
         "key_bbref": "gonzaor01",
         "full_name": "orlando gonzalez"
     },
+    "OSCAR GONZALEZ": {
+        "name_last": "gonzalez",
+        "name_first": "oscar",
+        "key_bbref": "gonzaos01",
+        "full_name": "oscar gonzalez"
+    },
     "PEDRO GONZALEZ": {
         "name_last": "gonzalez",
         "name_first": "pedro",
@@ -45616,6 +45898,12 @@
         "name_first": "jack",
         "key_bbref": "gormaja01",
         "full_name": "jack gorman"
+    },
+    "NOLAN GORMAN": {
+        "name_last": "gorman",
+        "name_first": "nolan",
+        "key_bbref": "gormano01",
+        "full_name": "nolan gorman"
     },
     "THOMAS GORMAN": {
         "name_last": "gorman",
@@ -46709,6 +46997,12 @@
         "key_bbref": "greenri02",
         "full_name": "rick greene"
     },
+    "RILEY GREENE": {
+        "name_last": "greene",
+        "name_first": "riley",
+        "key_bbref": "greenri03",
+        "full_name": "riley greene"
+    },
     "SHANE GREENE": {
         "name_last": "greene",
         "name_first": "shane",
@@ -47512,6 +47806,12 @@
         "name_first": "lefty",
         "key_bbref": "grovele01",
         "full_name": "lefty grove"
+    },
+    "MICHAEL GROVE": {
+        "name_last": "grove",
+        "name_first": "michael",
+        "key_bbref": "grovemi01",
+        "full_name": "michael grove"
     },
     "ORVAL GROVE": {
         "name_last": "grove",
@@ -48881,6 +49181,12 @@
         "key_bbref": "hallco01",
         "full_name": "cody hall"
     },
+    "DARICK HALL": {
+        "name_last": "hall",
+        "name_first": "darick",
+        "key_bbref": "hallda02",
+        "full_name": "darick hall"
+    },
     "DARREN HALL": {
         "name_last": "hall",
         "name_first": "darren",
@@ -49174,6 +49480,12 @@
         "name_first": "billy",
         "key_bbref": "hamilbi01",
         "full_name": "billy hamilton"
+    },
+    "CALEB HAMILTON": {
+        "name_last": "hamilton",
+        "name_first": "caleb",
+        "key_bbref": "hamilca01",
+        "full_name": "caleb hamilton"
     },
     "DARRYL HAMILTON": {
         "name_last": "hamilton",
@@ -50501,6 +50813,12 @@
         "key_bbref": "harrilu01",
         "full_name": "lum harris"
     },
+    "MICHAEL HARRIS": {
+        "name_last": "harris",
+        "name_first": "michael",
+        "key_bbref": "harrimi04",
+        "full_name": "michael harris"
+    },
     "MICKEY HARRIS": {
         "name_last": "harris",
         "name_first": "mickey",
@@ -51827,11 +52145,11 @@
         "key_bbref": "hearrje01",
         "full_name": "jeff hearron"
     },
-    "JON HEASLEY": {
+    "JONATHAN HEASLEY": {
         "name_last": "heasley",
-        "name_first": "jon",
+        "name_first": "jonathan",
         "key_bbref": "heasljo01",
-        "full_name": "jon heasley"
+        "full_name": "jonathan heasley"
     },
     "BILL HEATH": {
         "name_last": "heath",
@@ -53129,6 +53447,12 @@
         "key_bbref": "hernadi01",
         "full_name": "diory hernandez"
     },
+    "ELIER HERNANDEZ": {
+        "name_last": "hernandez",
+        "name_first": "elier",
+        "key_bbref": "hernael02",
+        "full_name": "elier hernandez"
+    },
     "ELIESER HERNANDEZ": {
         "name_last": "hernandez",
         "name_first": "elieser",
@@ -53392,6 +53716,12 @@
         "name_first": "elian",
         "key_bbref": "herreel01",
         "full_name": "elian herrera"
+    },
+    "IVAN HERRERA": {
+        "name_last": "herrera",
+        "name_first": "ivan",
+        "key_bbref": "herreiv01",
+        "full_name": "ivan herrera"
     },
     "JONATHAN HERRERA": {
         "name_last": "herrera",
@@ -53807,6 +54137,12 @@
         "key_bbref": "hickemi01",
         "full_name": "mike hickey"
     },
+    "BREWER HICKLEN": {
+        "name_last": "hicklen",
+        "name_first": "brewer",
+        "key_bbref": "hicklbr01",
+        "full_name": "brewer hicklen"
+    },
     "CHARLIE HICKMAN": {
         "name_last": "hickman",
         "name_first": "charlie",
@@ -54184,6 +54520,12 @@
         "name_first": "fred",
         "key_bbref": "hillfr01",
         "full_name": "fred hill"
+    },
+    "GARRETT HILL": {
+        "name_last": "hill",
+        "name_first": "garrett",
+        "key_bbref": "hillga02",
+        "full_name": "garrett hill"
     },
     "GARRY HILL": {
         "name_last": "hill",
@@ -54700,6 +55042,12 @@
         "name_first": "keston",
         "key_bbref": "hiurake01",
         "full_name": "keston hiura"
+    },
+    "SEAN HJELLE": {
+        "name_last": "hjelle",
+        "name_first": "sean",
+        "key_bbref": "hjellse01",
+        "full_name": "sean hjelle"
     },
     "MYRIL HOAG": {
         "name_last": "hoag",
@@ -55313,6 +55661,12 @@
         "key_bbref": "holdejo02",
         "full_name": "jonathan holder"
     },
+    "COLIN HOLDERMAN": {
+        "name_last": "holderman",
+        "name_first": "colin",
+        "key_bbref": "holdeco01",
+        "full_name": "colin holderman"
+    },
     "DAVID HOLDRIDGE": {
         "name_last": "holdridge",
         "name_first": "david",
@@ -55768,6 +56122,12 @@
         "name_first": "brian",
         "key_bbref": "holtobr01",
         "full_name": "brian holton"
+    },
+    "TYLER HOLTON": {
+        "name_last": "holton",
+        "name_first": "tyler",
+        "key_bbref": "holtoty01",
+        "full_name": "tyler holton"
     },
     "EDDIE HOLTZ": {
         "name_last": "holtz",
@@ -57208,6 +57568,12 @@
         "name_first": "bobby",
         "key_bbref": "hughebo01",
         "full_name": "bobby hughes"
+    },
+    "BRANDON HUGHES": {
+        "name_last": "hughes",
+        "name_first": "brandon",
+        "key_bbref": "hughebr01",
+        "full_name": "brandon hughes"
     },
     "CHARLIE HUGHES": {
         "name_last": "hughes",
@@ -60308,7 +60674,7 @@
     "FRANK JOHNSON": {
         "name_last": "johnson",
         "name_first": "frank",
-        "key_bbref": "johnsfr03",
+        "key_bbref": "",
         "full_name": "frank johnson"
     },
     "FRED JOHNSON": {
@@ -61360,6 +61726,12 @@
         "name_first": "nippy",
         "key_bbref": "jonesni01",
         "full_name": "nippy jones"
+    },
+    "NOLAN JONES": {
+        "name_last": "jones",
+        "name_first": "nolan",
+        "key_bbref": "jonesno01",
+        "full_name": "nolan jones"
     },
     "ODELL JONES": {
         "name_last": "jones",
@@ -63341,6 +63713,12 @@
         "key_bbref": "kellyme01",
         "full_name": "merrill kelly"
     },
+    "MICHAEL KELLY": {
+        "name_last": "kelly",
+        "name_first": "michael",
+        "key_bbref": "kellymi03",
+        "full_name": "michael kelly"
+    },
     "MIKE KELLY": {
         "name_last": "kelly",
         "name_first": "mike",
@@ -63592,6 +63970,12 @@
         "name_first": "brickyard",
         "key_bbref": "kennebr01",
         "full_name": "brickyard kennedy"
+    },
+    "BUDDY KENNEDY": {
+        "name_last": "kennedy",
+        "name_first": "buddy",
+        "key_bbref": "kennebu01",
+        "full_name": "buddy kennedy"
     },
     "CHARLES KENNEDY": {
         "name_last": "kennedy",
@@ -63887,6 +64271,12 @@
         "key_bbref": "kerrme01",
         "full_name": "mel kerr"
     },
+    "RAY KERR": {
+        "name_last": "kerr",
+        "name_first": "ray",
+        "key_bbref": "kerrra01",
+        "full_name": "ray kerr"
+    },
     "JOE KERRIGAN": {
         "name_last": "kerrigan",
         "name_first": "joe",
@@ -64150,6 +64540,12 @@
         "name_first": "pat",
         "key_bbref": "kilhupa01",
         "full_name": "pat kilhullen"
+    },
+    "CALEB KILIAN": {
+        "name_last": "kilian",
+        "name_first": "caleb",
+        "key_bbref": "kiliaca01",
+        "full_name": "caleb kilian"
     },
     "MIKE KILKENNY": {
         "name_last": "kilkenny",
@@ -64732,6 +65128,12 @@
         "name_first": "clay",
         "key_bbref": "kirbycl01",
         "full_name": "clay kirby"
+    },
+    "GEORGE KIRBY": {
+        "name_last": "kirby",
+        "name_first": "george",
+        "key_bbref": "kirbyge01",
+        "full_name": "george kirby"
     },
     "JIM KIRBY": {
         "name_last": "kirby",
@@ -65669,6 +66071,12 @@
         "key_bbref": "",
         "full_name": "fred koenig"
     },
+    "JARED KOENIG": {
+        "name_last": "koenig",
+        "name_first": "jared",
+        "key_bbref": "koenija01",
+        "full_name": "jared koenig"
+    },
     "MARK KOENIG": {
         "name_last": "koenig",
         "name_first": "mark",
@@ -65758,6 +66166,12 @@
         "name_first": "don",
         "key_bbref": "kollodo01",
         "full_name": "don kolloway"
+    },
+    "MARK KOLOZSVARY": {
+        "name_last": "kolozsvary",
+        "name_first": "mark",
+        "key_bbref": "kolozma01",
+        "full_name": "mark kolozsvary"
     },
     "RAY KOLP": {
         "name_last": "kolp",
@@ -66418,6 +66832,12 @@
         "name_first": "rick",
         "key_bbref": "krivdri01",
         "full_name": "rick krivda"
+    },
+    "JASON KRIZAN": {
+        "name_last": "krizan",
+        "name_first": "jason",
+        "key_bbref": "krizaja01",
+        "full_name": "jason krizan"
     },
     "GUS KROCK": {
         "name_last": "krock",
@@ -68987,6 +69407,12 @@
         "key_bbref": "leedy01",
         "full_name": "dylan lee"
     },
+    "EVAN LEE": {
+        "name_last": "lee",
+        "name_first": "evan",
+        "key_bbref": "leeev01",
+        "full_name": "evan lee"
+    },
     "HAL LEE": {
         "name_last": "lee",
         "name_first": "hal",
@@ -69004,6 +69430,12 @@
         "name_first": "khalil",
         "key_bbref": "leekh01",
         "full_name": "khalil lee"
+    },
+    "KOREY LEE": {
+        "name_last": "lee",
+        "name_first": "korey",
+        "key_bbref": "leeko01",
+        "full_name": "korey lee"
     },
     "LEONIDAS LEE": {
         "name_last": "lee",
@@ -69971,6 +70403,12 @@
         "key_bbref": "lewisro01",
         "full_name": "rommie lewis"
     },
+    "ROYCE LEWIS": {
+        "name_last": "lewis",
+        "name_first": "royce",
+        "key_bbref": "lewisro02",
+        "full_name": "royce lewis"
+    },
     "RUFUS LEWIS": {
         "name_last": "lewis",
         "name_first": "rufus",
@@ -70054,6 +70492,12 @@
         "name_first": "adam",
         "key_bbref": "liberad01",
         "full_name": "adam liberatore"
+    },
+    "MATTHEW LIBERATORE": {
+        "name_last": "liberatore",
+        "name_first": "matthew",
+        "key_bbref": "liberma01",
+        "full_name": "matthew liberatore"
     },
     "JOHN LIBKA": {
         "name_last": "libka",
@@ -71249,6 +71693,12 @@
         "key_bbref": "loganno01",
         "full_name": "nook logan"
     },
+    "ZACH LOGUE": {
+        "name_last": "logue",
+        "name_first": "zach",
+        "key_bbref": "logueza01",
+        "full_name": "zach logue"
+    },
     "PETE LOHMAN": {
         "name_last": "lohman",
         "name_first": "pete",
@@ -71614,6 +72064,12 @@
         "name_first": "art",
         "key_bbref": "lopatar01",
         "full_name": "art lopatka"
+    },
+    "CHRISTIAN LOPES": {
+        "name_last": "lopes",
+        "name_first": "christian",
+        "key_bbref": "lopesch01",
+        "full_name": "christian lopes"
     },
     "DAVEY LOPES": {
         "name_last": "lopes",
@@ -73121,6 +73577,12 @@
         "key_bbref": "",
         "full_name": "john mackin"
     },
+    "DAVID MACKINNON": {
+        "name_last": "mackinnon",
+        "name_first": "david",
+        "key_bbref": "mackida01",
+        "full_name": "david mackinnon"
+    },
     "EVAN MACLANE": {
         "name_last": "maclane",
         "name_first": "evan",
@@ -73570,6 +74032,12 @@
         "name_first": "warner",
         "key_bbref": "madriwa01",
         "full_name": "warner madrigal"
+    },
+    "BLIGH MADRIS": {
+        "name_last": "madris",
+        "name_first": "bligh",
+        "key_bbref": "madribl01",
+        "full_name": "bligh madris"
     },
     "BOBBY MADRITSCH": {
         "name_last": "madritsch",
@@ -75455,6 +75923,12 @@
         "key_bbref": "martico02",
         "full_name": "corbin martin"
     },
+    "DAVIS MARTIN": {
+        "name_last": "martin",
+        "name_first": "davis",
+        "key_bbref": "martida03",
+        "full_name": "davis martin"
+    },
     "DOC MARTIN": {
         "name_last": "martin",
         "name_first": "doc",
@@ -75658,6 +76132,12 @@
         "name_first": "bruce",
         "key_bbref": "",
         "full_name": "bruce martine"
+    },
+    "ADRIAN MARTINEZ": {
+        "name_last": "martinez",
+        "name_first": "adrian",
+        "key_bbref": "martiad01",
+        "full_name": "adrian martinez"
     },
     "ANASTACIO MARTINEZ": {
         "name_last": "martinez",
@@ -76079,6 +76559,12 @@
         "key_bbref": "massebi01",
         "full_name": "bill massey"
     },
+    "MICHAEL MASSEY": {
+        "name_last": "massey",
+        "name_first": "michael",
+        "key_bbref": "massemi02",
+        "full_name": "michael massey"
+    },
     "MIKE MASSEY": {
         "name_last": "massey",
         "name_first": "mike",
@@ -76360,6 +76846,12 @@
         "name_first": "john",
         "key_bbref": "matiajo01",
         "full_name": "john matias"
+    },
+    "J. J. MATIJEVIC": {
+        "name_last": "matijevic",
+        "name_first": "j. j.",
+        "key_bbref": "matijjj01",
+        "full_name": "j. j. matijevic"
     },
     "JON MATLACK": {
         "name_last": "matlack",
@@ -77615,6 +78107,12 @@
         "key_bbref": "mccarjo01",
         "full_name": "john mccarty"
     },
+    "KIRK MCCARTY": {
+        "name_last": "mccarty",
+        "name_first": "kirk",
+        "key_bbref": "mccarki01",
+        "full_name": "kirk mccarty"
+    },
     "LEW MCCARTY": {
         "name_last": "mccarty",
         "name_first": "lew",
@@ -78322,6 +78820,12 @@
         "name_first": "luther",
         "key_bbref": "mcdonlu01",
         "full_name": "luther mcdonald"
+    },
+    "MICKEY MCDONALD": {
+        "name_last": "mcdonald",
+        "name_first": "mickey",
+        "key_bbref": "mcdonmi01",
+        "full_name": "mickey mcdonald"
     },
     "TEX MCDONALD": {
         "name_last": "mcdonald",
@@ -80681,6 +81185,12 @@
         "key_bbref": "melenlu01",
         "full_name": "luis melendez"
     },
+    "MJ MELENDEZ": {
+        "name_last": "melendez",
+        "name_first": "mj",
+        "key_bbref": "melenmj01",
+        "full_name": "mj melendez"
+    },
     "ADAM MELHUSE": {
         "name_last": "melhuse",
         "name_first": "adam",
@@ -81466,6 +81976,12 @@
         "name_first": "lee",
         "key_bbref": "meyerle02",
         "full_name": "lee meyer"
+    },
+    "MAX MEYER": {
+        "name_last": "meyer",
+        "name_first": "max",
+        "key_bbref": "meyerma01",
+        "full_name": "max meyer"
     },
     "RUSS MEYER": {
         "name_last": "meyer",
@@ -82805,6 +83321,12 @@
         "key_bbref": "miranar01",
         "full_name": "ariel miranda"
     },
+    "JOSE MIRANDA": {
+        "name_last": "miranda",
+        "name_first": "jose",
+        "key_bbref": "miranjo01",
+        "full_name": "jose miranda"
+    },
     "JUAN MIRANDA": {
         "name_last": "miranda",
         "name_first": "juan",
@@ -82882,6 +83404,12 @@
         "name_first": "bud",
         "key_bbref": "mitchbu01",
         "full_name": "bud mitchell"
+    },
+    "CAL MITCHELL": {
+        "name_last": "mitchell",
+        "name_first": "cal",
+        "key_bbref": "mitchca01",
+        "full_name": "cal mitchell"
     },
     "CHARLES MITCHELL": {
         "name_last": "mitchell",
@@ -83567,6 +84095,12 @@
         "key_bbref": "monteag01",
         "full_name": "agustin montero"
     },
+    "ELEHURIS MONTERO": {
+        "name_last": "montero",
+        "name_first": "elehuris",
+        "key_bbref": "monteel01",
+        "full_name": "elehuris montero"
+    },
     "JESUS MONTERO": {
         "name_last": "montero",
         "name_first": "jesus",
@@ -84119,6 +84653,12 @@
         "key_bbref": "moralca01",
         "full_name": "candido morales"
     },
+    "FRANCISCO MORALES": {
+        "name_last": "morales",
+        "name_first": "francisco",
+        "key_bbref": "moralfr02",
+        "full_name": "francisco morales"
+    },
     "FRANKLIN MORALES": {
         "name_last": "morales",
         "name_first": "franklin",
@@ -84311,6 +84851,12 @@
         "key_bbref": "morelbr01",
         "full_name": "brent morel"
     },
+    "CHRISTOPHER MOREL": {
+        "name_last": "morel",
+        "name_first": "christopher",
+        "key_bbref": "morelch01",
+        "full_name": "christopher morel"
+    },
     "RAMON MOREL": {
         "name_last": "morel",
         "name_first": "ramon",
@@ -84370,6 +84916,12 @@
         "name_first": "edwin",
         "key_bbref": "morened01",
         "full_name": "edwin moreno"
+    },
+    "GABRIEL MORENO": {
+        "name_last": "moreno",
+        "name_first": "gabriel",
+        "key_bbref": "morenga01",
+        "full_name": "gabriel moreno"
     },
     "JOSE MORENO": {
         "name_last": "moreno",
@@ -85913,6 +86465,12 @@
         "key_bbref": "murdowi01",
         "full_name": "wilbur murdoch"
     },
+    "PENN MURFEE": {
+        "name_last": "murfee",
+        "name_first": "penn",
+        "key_bbref": "murfepe01",
+        "full_name": "penn murfee"
+    },
     "RED MURFF": {
         "name_last": "murff",
         "name_first": "red",
@@ -86375,6 +86933,12 @@
         "key_bbref": "musgrjo01",
         "full_name": "joe musgrove"
     },
+    "PARKER MUSHINSKI": {
+        "name_last": "mushinski",
+        "name_first": "parker",
+        "key_bbref": "mushipa01",
+        "full_name": "parker mushinski"
+    },
     "STAN MUSIAL": {
         "name_last": "musial",
         "name_first": "stan",
@@ -86716,6 +87280,12 @@
         "name_first": "bill",
         "key_bbref": "nahorbi01",
         "full_name": "bill nahorodny"
+    },
+    "JAMES NAILE": {
+        "name_last": "naile",
+        "name_first": "james",
+        "key_bbref": "naileja01",
+        "full_name": "james naile"
     },
     "HIROYUKI NAKAJIMA": {
         "name_last": "nakajima",
@@ -89861,6 +90431,12 @@
         "key_bbref": "ogandal01",
         "full_name": "alexi ogando"
     },
+    "CRISTOFER OGANDO": {
+        "name_last": "ogando",
+        "name_first": "cristofer",
+        "key_bbref": "ogandcr01",
+        "full_name": "cristofer ogando"
+    },
     "NEFI OGANDO": {
         "name_last": "ogando",
         "name_first": "nefi",
@@ -89992,6 +90568,12 @@
         "name_first": "steven",
         "key_bbref": "okertst01",
         "full_name": "steven okert"
+    },
+    "CHRIS OKEY": {
+        "name_last": "okey",
+        "name_first": "chris",
+        "key_bbref": "okeych01",
+        "full_name": "chris okey"
     },
     "FRANK OKRIE": {
         "name_last": "okrie",
@@ -91709,6 +92291,12 @@
         "key_bbref": "paintla01",
         "full_name": "lance painter"
     },
+    "JERMAINE PALACIOS": {
+        "name_last": "palacios",
+        "name_first": "jermaine",
+        "key_bbref": "palacje01",
+        "full_name": "jermaine palacios"
+    },
     "JOSH PALACIOS": {
         "name_last": "palacios",
         "name_first": "josh",
@@ -91720,6 +92308,12 @@
         "name_first": "rey",
         "key_bbref": "palacre01",
         "full_name": "rey palacios"
+    },
+    "RICHIE PALACIOS": {
+        "name_last": "palacios",
+        "name_first": "richie",
+        "key_bbref": "palacri01",
+        "full_name": "richie palacios"
     },
     "VICENTE PALACIOS": {
         "name_last": "palacios",
@@ -91960,6 +92554,12 @@
         "name_first": "stan",
         "key_bbref": "papist01",
         "full_name": "stan papi"
+    },
+    "MICHAEL PAPIERSKI": {
+        "name_last": "papierski",
+        "name_first": "michael",
+        "key_bbref": "papiemi01",
+        "full_name": "michael papierski"
     },
     "FRANK PAPISH": {
         "name_last": "papish",
@@ -92548,6 +93148,12 @@
         "name_first": "dan",
         "key_bbref": "pasquda01",
         "full_name": "dan pasqua"
+    },
+    "VINNIE PASQUANTINO": {
+        "name_last": "pasquantino",
+        "name_first": "vinnie",
+        "key_bbref": "pasquvi01",
+        "full_name": "vinnie pasquantino"
     },
     "MIKE PASQUELLA": {
         "name_last": "pasquella",
@@ -93401,6 +94007,12 @@
         "key_bbref": "pegueju01",
         "full_name": "julio peguero"
     },
+    "LIOVER PEGUERO": {
+        "name_last": "peguero",
+        "name_first": "liover",
+        "key_bbref": "pegueli01",
+        "full_name": "liover peguero"
+    },
     "STEVE PEGUES": {
         "name_last": "pegues",
         "name_first": "steve",
@@ -93544,12 +94156,6 @@
         "name_first": "elvis",
         "key_bbref": "penael01",
         "full_name": "elvis pena"
-    },
-    "FELIX PENA": {
-        "name_last": "pena",
-        "name_first": "felix",
-        "key_bbref": "penafe01",
-        "full_name": "felix pena"
     },
     "FRANCISCO PENA": {
         "name_last": "pena",
@@ -93754,6 +94360,12 @@
         "name_first": "jimmy",
         "key_bbref": "peoplji01",
         "full_name": "jimmy peoples"
+    },
+    "RYAN PEPIOT": {
+        "name_last": "pepiot",
+        "name_first": "ryan",
+        "key_bbref": "pepiory01",
+        "full_name": "ryan pepiot"
     },
     "JOE PEPITONE": {
         "name_last": "pepitone",
@@ -95753,6 +96365,12 @@
         "key_bbref": "pintole01",
         "full_name": "lerton pinto"
     },
+    "RENE PINTO": {
+        "name_last": "pinto",
+        "name_first": "rene",
+        "key_bbref": "pintore02",
+        "full_name": "rene pinto"
+    },
     "RENYEL PINTO": {
         "name_last": "pinto",
         "name_first": "renyel",
@@ -97114,6 +97732,12 @@
         "name_first": "tom",
         "key_bbref": "prattto01",
         "full_name": "tom pratt"
+    },
+    "NICK PRATTO": {
+        "name_last": "pratto",
+        "name_first": "nick",
+        "key_bbref": "prattni01",
+        "full_name": "nick pratto"
     },
     "JOHN PREGENZER": {
         "name_last": "pregenzer",
@@ -100499,6 +101123,12 @@
         "key_bbref": "reyesde01",
         "full_name": "dennys reyes"
     },
+    "DENYI REYES": {
+        "name_last": "reyes",
+        "name_first": "denyi",
+        "key_bbref": "reyesde02",
+        "full_name": "denyi reyes"
+    },
     "FRANMIL REYES": {
         "name_last": "reyes",
         "name_first": "franmil",
@@ -102401,6 +103031,12 @@
         "key_bbref": "roberji02",
         "full_name": "jim robertson"
     },
+    "KRAMER ROBERTSON": {
+        "name_last": "robertson",
+        "name_first": "kramer",
+        "key_bbref": "roberkr01",
+        "full_name": "kramer robertson"
+    },
     "MIKE ROBERTSON": {
         "name_last": "robertson",
         "name_first": "mike",
@@ -103052,7 +103688,7 @@
     "JOSE RODRIGUEZ": {
         "name_last": "rodriguez",
         "name_first": "jose",
-        "key_bbref": "rodrijo04",
+        "key_bbref": "rodrijo07",
         "full_name": "jose rodriguez"
     },
     "JOSH RODRIGUEZ": {
@@ -103234,18 +103870,6 @@
         "name_first": "hector",
         "key_bbref": "rodrihe01",
         "full_name": "hector rodriguez"
-    },
-    "JOSE RODRIGUEZ": {
-        "name_last": "rodriguez",
-        "name_first": "jose",
-        "key_bbref": "rodrijo01",
-        "full_name": "jose rodriguez"
-    },
-    "JOSE RODRIGUEZ": {
-        "name_last": "rodriguez",
-        "name_first": "jose",
-        "key_bbref": "rodrijo07",
-        "full_name": "jose rodriguez"
     },
     "JOSE AGUSTIN RODRIGUEZ": {
         "name_last": "rodriguez",
@@ -104297,6 +104921,12 @@
         "key_bbref": "rosenha01",
         "full_name": "harry rosenberg"
     },
+    "KENNY ROSENBERG": {
+        "name_last": "rosenberg",
+        "name_first": "kenny",
+        "key_bbref": "rosenke01",
+        "full_name": "kenny rosenberg"
+    },
     "LOU ROSENBERG": {
         "name_last": "rosenberg",
         "name_first": "lou",
@@ -104518,6 +105148,12 @@
         "name_first": "joe",
         "key_bbref": "rossijo01",
         "full_name": "joe rossi"
+    },
+    "BUBBY ROSSMAN": {
+        "name_last": "rossman",
+        "name_first": "bubby",
+        "key_bbref": "rossmbu01",
+        "full_name": "bubby rossman"
     },
     "CLAUDE ROSSMAN": {
         "name_last": "rossman",
@@ -105107,6 +105743,18 @@
         "key_bbref": "ruizch01",
         "full_name": "chico ruiz"
     },
+    "CHRIS RUIZ": {
+        "name_last": "ruiz",
+        "name_first": "chris",
+        "key_bbref": "",
+        "full_name": "chris ruiz"
+    },
+    "ESTEURY RUIZ": {
+        "name_last": "ruiz",
+        "name_first": "esteury",
+        "key_bbref": "ruizes01",
+        "full_name": "esteury ruiz"
+    },
     "JOSE RUIZ": {
         "name_last": "ruiz",
         "name_first": "jose",
@@ -105460,6 +106108,12 @@
         "name_first": "mickey",
         "key_bbref": "rutnemi01",
         "full_name": "mickey rutner"
+    },
+    "ADLEY RUTSCHMAN": {
+        "name_last": "rutschman",
+        "name_first": "adley",
+        "key_bbref": "rutscad01",
+        "full_name": "adley rutschman"
     },
     "MARK RYAL": {
         "name_last": "ryal",
@@ -106535,6 +107189,12 @@
         "key_bbref": "sandsch01",
         "full_name": "charlie sands"
     },
+    "COLE SANDS": {
+        "name_last": "sands",
+        "name_first": "cole",
+        "key_bbref": "sandsco01",
+        "full_name": "cole sands"
+    },
     "JERRY SANDS": {
         "name_last": "sands",
         "name_first": "jerry",
@@ -106719,12 +107379,6 @@
         "name_last": "santiago",
         "name_first": "jose",
         "key_bbref": "santijo02",
-        "full_name": "jose santiago"
-    },
-    "JOSE SANTIAGO": {
-        "name_last": "santiago",
-        "name_first": "jose",
-        "key_bbref": "santijo01",
         "full_name": "jose santiago"
     },
     "RAMON SANTIAGO": {
@@ -108038,7 +108692,7 @@
     "JOHN SCHNEIDER": {
         "name_last": "schneider",
         "name_first": "john",
-        "key_bbref": "",
+        "key_bbref": "schnejo99",
         "full_name": "john schneider"
     },
     "PETE SCHNEIDER": {
@@ -109037,6 +109691,12 @@
         "key_bbref": "sedlash01",
         "full_name": "shawn sedlacek"
     },
+    "CODY SEDLOCK": {
+        "name_last": "sedlock",
+        "name_first": "cody",
+        "key_bbref": "sedloco01",
+        "full_name": "cody sedlock"
+    },
     "CHARLIE SEE": {
         "name_last": "see",
         "name_first": "charlie",
@@ -109432,6 +110092,12 @@
         "name_first": "scott",
         "key_bbref": "servasc01",
         "full_name": "scott servais"
+    },
+    "BRIAN SERVEN": {
+        "name_last": "serven",
+        "name_first": "brian",
+        "key_bbref": "servebr01",
+        "full_name": "brian serven"
     },
     "SCOTT SERVICE": {
         "name_last": "service",
@@ -111155,6 +111821,12 @@
         "key_bbref": "silched01",
         "full_name": "ed silch"
     },
+    "CHASE SILSETH": {
+        "name_last": "silseth",
+        "name_first": "chase",
+        "key_bbref": "silsech01",
+        "full_name": "chase silseth"
+    },
     "CARLOS SILVA": {
         "name_last": "silva",
         "name_first": "carlos",
@@ -112085,6 +112757,12 @@
         "key_bbref": "smallch01",
         "full_name": "charlie small"
     },
+    "ETHAN SMALL": {
+        "name_last": "small",
+        "name_first": "ethan",
+        "key_bbref": "smallet01",
+        "full_name": "ethan small"
+    },
     "HANK SMALL": {
         "name_last": "small",
         "name_first": "hank",
@@ -112985,6 +113663,12 @@
         "key_bbref": "smithza01",
         "full_name": "zane smith"
     },
+    "CANAAN SMITH-NJIGBA": {
+        "name_last": "smith-njigba",
+        "name_first": "canaan",
+        "key_bbref": "smithca05",
+        "full_name": "canaan smith-njigba"
+    },
     "ROGER SMITHBERG": {
         "name_last": "smithberg",
         "name_first": "roger",
@@ -113573,6 +114257,12 @@
         "key_bbref": "solomed01",
         "full_name": "eddie solomon"
     },
+    "JARED SOLOMON": {
+        "name_last": "solomon",
+        "name_first": "jared",
+        "key_bbref": "solomja01",
+        "full_name": "jared solomon"
+    },
     "MOSE SOLOMON": {
         "name_last": "solomon",
         "name_first": "mose",
@@ -113764,6 +114454,12 @@
         "name_first": "juan",
         "key_bbref": "sosaju01",
         "full_name": "juan sosa"
+    },
+    "LENYN SOSA": {
+        "name_last": "sosa",
+        "name_first": "lenyn",
+        "key_bbref": "sosale01",
+        "full_name": "lenyn sosa"
     },
     "SAMMY SOSA": {
         "name_last": "sosa",
@@ -115265,6 +115961,12 @@
         "key_bbref": "steevmo01",
         "full_name": "morrie steevens"
     },
+    "MICHAEL STEFANIC": {
+        "name_last": "stefanic",
+        "name_first": "michael",
+        "key_bbref": "stefami01",
+        "full_name": "michael stefanic"
+    },
     "JOHN STEFERO": {
         "name_last": "stefero",
         "name_first": "john",
@@ -116375,6 +117077,12 @@
         "key_bbref": "stowech01",
         "full_name": "chris stowers"
     },
+    "KYLE STOWERS": {
+        "name_last": "stowers",
+        "name_first": "kyle",
+        "key_bbref": "stoweky01",
+        "full_name": "kyle stowers"
+    },
     "MIKE STRAHLER": {
         "name_last": "strahler",
         "name_first": "mike",
@@ -116776,6 +117484,12 @@
         "name_first": "dutch",
         "key_bbref": "strykdu01",
         "full_name": "dutch stryker"
+    },
+    "PETER STRZELECKI": {
+        "name_last": "strzelecki",
+        "name_first": "peter",
+        "key_bbref": "strzepe01",
+        "full_name": "peter strzelecki"
     },
     "BILL STUART": {
         "name_last": "stuart",
@@ -117311,6 +118025,12 @@
         "key_bbref": "sulliwi01",
         "full_name": "william sullivan"
     },
+    "BEAU SULSER": {
+        "name_last": "sulser",
+        "name_first": "beau",
+        "key_bbref": "sulsebe01",
+        "full_name": "beau sulser"
+    },
     "COLE SULSER": {
         "name_last": "sulser",
         "name_first": "cole",
@@ -117587,6 +118307,12 @@
         "key_bbref": "suttole01",
         "full_name": "leroy sutton"
     },
+    "JACK SUWINSKI": {
+        "name_last": "suwinski",
+        "name_first": "jack",
+        "key_bbref": "suwinja01",
+        "full_name": "jack suwinski"
+    },
     "ICHIRO SUZUKI": {
         "name_last": "suzuki",
         "name_first": "ichiro",
@@ -117628,6 +118354,12 @@
         "name_first": "bill",
         "key_bbref": "swaggbi01",
         "full_name": "bill swaggerty"
+    },
+    "TRAVIS SWAGGERTY": {
+        "name_last": "swaggerty",
+        "name_first": "travis",
+        "key_bbref": "swaggtr01",
+        "full_name": "travis swaggerty"
     },
     "CY SWAIM": {
         "name_last": "swaim",
@@ -117718,6 +118450,12 @@
         "name_first": "stan",
         "key_bbref": "swansst01",
         "full_name": "stan swanson"
+    },
+    "MATT SWARMER": {
+        "name_last": "swarmer",
+        "name_first": "matt",
+        "key_bbref": "swarmma01",
+        "full_name": "matt swarmer"
     },
     "ED SWARTWOOD": {
         "name_last": "swartwood",
@@ -119357,6 +120095,12 @@
         "key_bbref": "testani01",
         "full_name": "nick testa"
     },
+    "JACKSON TETREAULT": {
+        "name_last": "tetreault",
+        "name_first": "jackson",
+        "key_bbref": "tetreja01",
+        "full_name": "jackson tetreault"
+    },
     "DICK TETTELBACH": {
         "name_last": "tettelbach",
         "name_first": "dick",
@@ -119572,6 +120316,12 @@
         "name_first": "josh",
         "key_bbref": "tholejo01",
         "full_name": "josh thole"
+    },
+    "ALEK THOMAS": {
+        "name_last": "thomas",
+        "name_first": "alek",
+        "key_bbref": "thomaal01",
+        "full_name": "alek thomas"
     },
     "ANDRES THOMAS": {
         "name_last": "thomas",
@@ -120203,6 +120953,12 @@
         "key_bbref": "thompza01",
         "full_name": "zach thompson"
     },
+    "ZACK THOMPSON": {
+        "name_last": "thompson",
+        "name_first": "zack",
+        "key_bbref": "thompza02",
+        "full_name": "zack thompson"
+    },
     "CHRIS THOMS": {
         "name_last": "thoms",
         "name_first": "chris",
@@ -120224,7 +120980,7 @@
     "ROB THOMSON": {
         "name_last": "thomson",
         "name_first": "rob",
-        "key_bbref": "",
+        "key_bbref": "thomsro99",
         "full_name": "rob thomson"
     },
     "DICKIE THON": {
@@ -122081,6 +122837,12 @@
         "key_bbref": "tuivasa01",
         "full_name": "sam tuivailala"
     },
+    "TANNER TULLY": {
+        "name_last": "tully",
+        "name_first": "tanner",
+        "key_bbref": "tullyta01",
+        "full_name": "tanner tully"
+    },
     "TROY TULOWITZKI": {
         "name_last": "tulowitzki",
         "name_first": "troy",
@@ -122524,6 +123286,12 @@
         "name_first": "koji",
         "key_bbref": "ueharko01",
         "full_name": "koji uehara"
+    },
+    "ERICH UELMEN": {
+        "name_last": "uelmen",
+        "name_first": "erich",
+        "key_bbref": "uelmeer01",
+        "full_name": "erich uelmen"
     },
     "DAN UGGLA": {
         "name_last": "uggla",
@@ -124109,6 +124877,12 @@
         "key_bbref": "vesiaal01",
         "full_name": "alex vesia"
     },
+    "NICK VESPI": {
+        "name_last": "vespi",
+        "name_first": "nick",
+        "key_bbref": "vespini01",
+        "full_name": "nick vespi"
+    },
     "WILL VEST": {
         "name_last": "vest",
         "name_first": "will",
@@ -124174,6 +124948,12 @@
         "name_first": "jose",
         "key_bbref": "vidrojo01",
         "full_name": "jose vidro"
+    },
+    "CAM VIEAUX": {
+        "name_last": "vieaux",
+        "name_first": "cam",
+        "key_bbref": "vieauca01",
+        "full_name": "cam vieaux"
     },
     "THYAGO VIEIRA": {
         "name_last": "vieira",
@@ -124246,6 +125026,12 @@
         "name_first": "hector",
         "key_bbref": "villahe01",
         "full_name": "hector villanueva"
+    },
+    "DAVID VILLAR": {
+        "name_last": "villar",
+        "name_first": "david",
+        "key_bbref": "villada01",
+        "full_name": "david villar"
     },
     "HENRY VILLAR": {
         "name_last": "villar",
@@ -125303,6 +126089,12 @@
         "key_bbref": "walkesp01",
         "full_name": "speed walker"
     },
+    "STEELE WALKER": {
+        "name_last": "walker",
+        "name_first": "steele",
+        "key_bbref": "walkest01",
+        "full_name": "steele walker"
+    },
     "TAIJUAN WALKER": {
         "name_last": "walker",
         "name_first": "taijuan",
@@ -125608,6 +126400,12 @@
         "name_first": "frank",
         "key_bbref": "",
         "full_name": "frank walsh"
+    },
+    "JAKE WALSH": {
+        "name_last": "walsh",
+        "name_first": "jake",
+        "key_bbref": "walshja02",
+        "full_name": "jake walsh"
     },
     "JARED WALSH": {
         "name_last": "walsh",
@@ -127516,6 +128314,12 @@
         "name_first": "jack",
         "key_bbref": "wentzja01",
         "full_name": "jack wentz"
+    },
+    "JOEY WENTZ": {
+        "name_last": "wentz",
+        "name_first": "joey",
+        "key_bbref": "wentzjo01",
+        "full_name": "joey wentz"
     },
     "STAN WENTZEL": {
         "name_last": "wentzel",
@@ -130355,6 +131159,12 @@
         "key_bbref": "wilsole01",
         "full_name": "les wilson"
     },
+    "MARCUS WILSON": {
+        "name_last": "wilson",
+        "name_first": "marcus",
+        "key_bbref": "wilsoma02",
+        "full_name": "marcus wilson"
+    },
     "MAX WILSON": {
         "name_last": "wilson",
         "name_first": "max",
@@ -130570,6 +131380,12 @@
         "name_first": "scott",
         "key_bbref": "winchsc01",
         "full_name": "scott winchester"
+    },
+    "JOSH WINCKOWSKI": {
+        "name_last": "winckowski",
+        "name_first": "josh",
+        "key_bbref": "winckjo01",
+        "full_name": "josh winckowski"
     },
     "JOSH WINDER": {
         "name_last": "winder",
@@ -131237,6 +132053,12 @@
         "key_bbref": "wolveha01",
         "full_name": "harry wolverton"
     },
+    "BRITTANY WOMACK": {
+        "name_last": "womack",
+        "name_first": "brittany",
+        "key_bbref": "",
+        "full_name": "brittany womack"
+    },
     "DOOLEY WOMACK": {
         "name_last": "womack",
         "name_first": "dooley",
@@ -131614,6 +132436,12 @@
         "name_first": "walt",
         "key_bbref": "woodswa01",
         "full_name": "walt woods"
+    },
+    "WILLIAM WOODS": {
+        "name_last": "woods",
+        "name_first": "william",
+        "key_bbref": "woodswi02",
+        "full_name": "william woods"
     },
     "WILLIE WOODS": {
         "name_last": "woods",
@@ -132509,6 +133337,12 @@
         "key_bbref": "yellela01",
         "full_name": "larry yellen"
     },
+    "JUAN YEPEZ": {
+        "name_last": "yepez",
+        "name_first": "juan",
+        "key_bbref": "yepezju01",
+        "full_name": "juan yepez"
+    },
     "CARROLL YERKES": {
         "name_last": "yerkes",
         "name_first": "carroll",
@@ -132782,7 +133616,7 @@
     "DANNY YOUNG": {
         "name_last": "young",
         "name_first": "danny",
-        "key_bbref": "youngda01",
+        "key_bbref": "youngda02",
         "full_name": "danny young"
     },
     "DEL YOUNG": {
@@ -133108,6 +133942,12 @@
         "name_first": "adrian",
         "key_bbref": "zabalad01",
         "full_name": "adrian zabala"
+    },
+    "ANEURYS ZABALA": {
+        "name_last": "zabala",
+        "name_first": "aneurys",
+        "key_bbref": "zabalan01",
+        "full_name": "aneurys zabala"
     },
     "ZIP ZABEL": {
         "name_last": "zabel",

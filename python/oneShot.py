@@ -1,6 +1,8 @@
 import csv
 from pybaseball import playerid_lookup
 import pandas as pd
+import json
+from fangraphsFixer import *
 
 with open('prospectus.csv') as n:
     reader = csv.reader(n, delimiter=",")
@@ -9,6 +11,16 @@ with open('prospectus.csv') as n:
     Names = set()
     for row in reader:
         Names.add(row[0])    
+# Names.add("Downs")
+print(len(Names))
+Names.add("Canó")
+Names.add("Díaz")
+Names.add("Jiménez")
+Names.add("Mariñez")
+Names.add("Márquez")
+Names.add("Mondesí")
+Names.add("Rodríguez")
+Names.add("Tatís")
 
 print(len(Names))
 
@@ -26,7 +38,7 @@ for name in list:
 data1 = pd.read_csv('prospectus.csv')
 data2 = df
   
-data2 = data2.drop(['name_last', 'name_first', 'key_retro', 'mlb_played_first'], axis=1)
+data2 = data2.drop(['name_last', 'name_first', 'key_retro', 'mlb_played_first', 'mlb_played_last'], axis=1)
 
 outputDF = pd.merge(data1, data2,
                    on=['key_mlbam'],
@@ -46,29 +58,46 @@ def make_json(csvFilePath, jsonFilePath, jsonKey):
         # Convert each row into a dictionary
         # and add it to data
         for rows in csvReader:
-             
             # lastPlayed = rows['mlb_played_last']
             # if (lastPlayed is not None and lastPlayed != '' and int(float(rows['mlb_played_last']) > 1915)):
-            key = rows[jsonKey]
-            data[key] = rows
+            
+            if rows["bpid"]:
+                rows["bpid"] = str(int(float(rows["bpid"])))
+                # if rows["mlb_played_last"]:
+                #     rows["mlb_played_last"] = str(int(float(rows["mlb_played_last"])))
+            if rows["key_mlbam"]:
+                rows["key_mlbam"] = str(int(float(rows["key_mlbam"])))
+            if rows["key_bbref"] == "":
+                if rows["name_first"] == "JJ" and rows["name_last"] == "Bleday":
+                    rows["key_bbref"] = "bledajj01"
+
+            rows = fixFangraphs(rows)
  
+            if rows["key_fangraphs"]:
+                    rows["key_fangraphs"] = str(int(float(rows["key_fangraphs"])))
+            
+            key = rows[jsonKey]
+            if key:
+                if jsonKey != "key_bbref":
+                    key = int(float(key))
+            
+            data[key] = rows
+
     # Open a json writer, and use the json.dumps()
     # function to dump data
     with open(jsonFilePath, 'w', encoding='utf-8') as jsonf:
         # pretty print
-        # jsonf.write(json.dumps(data, indent=4))
+        jsonf.write(json.dumps(data, indent=4))
         # no whitespace print
-        jsonf.write(json.dumps(data, indent=None, separators=(',', ':')))
+        # jsonf.write(json.dumps(data, indent=None, separators=(',', ':')))
          
 # Driver Code
  
 # Decide the two file paths according to your
 # computer system
-csvFilePath = r'joined.csv'
-jsonFilePath = r'mlbam.json'
  
 # Call the make_json function
 make_json(r'joined.csv', r'mlbam.json', 'key_mlbam')
-make_json(r'joined.csv', r'bpid.json', 'bpid')
-make_json(r'joined.csv', r'fangraphs.json', 'key_fangraphs')
-make_json(r'joined.csv', r'bbref.json', 'key_bbref')
+# make_json(r'joined.csv', r'bpid.json', 'bpid')
+# make_json(r'joined.csv', r'fangraphs.json', 'key_fangraphs')
+# make_json(r'joined.csv', r'bbref.json', 'key_bbref')
