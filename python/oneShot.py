@@ -87,9 +87,9 @@ def make_json(csvFilePath, jsonFilePath, jsonKey):
     # function to dump data
     with open(jsonFilePath, 'w', encoding='utf-8') as jsonf:
         # pretty print
-        jsonf.write(json.dumps(data, indent=4))
+        # jsonf.write(json.dumps(data, indent=4))
         # no whitespace print
-        # jsonf.write(json.dumps(data, indent=None, separators=(',', ':')))
+        jsonf.write(json.dumps(data, indent=None, separators=(',', ':')))
          
 # Driver Code
  
@@ -98,6 +98,6 @@ def make_json(csvFilePath, jsonFilePath, jsonKey):
  
 # Call the make_json function
 make_json(r'joined.csv', r'mlbam.json', 'key_mlbam')
-# make_json(r'joined.csv', r'bpid.json', 'bpid')
-# make_json(r'joined.csv', r'fangraphs.json', 'key_fangraphs')
-# make_json(r'joined.csv', r'bbref.json', 'key_bbref')
+make_json(r'joined.csv', r'bpid.json', 'bpid')
+make_json(r'joined.csv', r'fangraphs.json', 'key_fangraphs')
+make_json(r'joined.csv', r'bbref.json', 'key_bbref')
