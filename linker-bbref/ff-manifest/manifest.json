@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "Baseball Reference Navigator",
+  "version": "1.0.2",
+  "author": "Dan Grochmal",
+  "description": "Navigate to a Baseball Reference player page from the address bar or by right clicking",
+  "omnibox": {
+	  "keyword": "bbref"
+  },
+  "permissions": [
+	  "contextMenus"
+	],
+  "background": {
+    "scripts": ["background.js"]
+    },
+  "icons":{
+	  "16":"icon16.png",
+	  "32":"icon32.png",
+	  "48":"icon48.png",
+	  "128":"icon128.png"
+  }
+}
