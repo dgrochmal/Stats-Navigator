@@ -2,3 +2,9 @@ Demo Instructions:
 1) Navigate to: https://www.baseball-reference.com/players/t/troutmi01.shtml
 2) Open extension
 3) Click any button (Other than "To BB Reference)
+
+
+Two functionalities:
+In Firefox search bar - type "savant" then the name of a MLB player, such as "Mike Trout"
+
+On any web page, highlight the name of an MLB player such as "Mike Trout", right click, and select "Go to 'Mike Trout' on Baseball Savant"
