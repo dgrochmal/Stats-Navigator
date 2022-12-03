@@ -32,8 +32,8 @@ abernathy,woody,1000021,woody abernathy
 aberson,cliff,1000022,cliff aberson
 ables,harry,1000023,harry ables
 abner,shawn,1000024,shawn abner
-abrams,c. j.,-1,c. j. abrams
 abrams,cal,1000025,cal abrams
+abrams,cj,25768,cj abrams
 abrams,george,1000026,george abrams
 abrego,johnny,1000027,johnny abrego
 abreu,albert,17485,albert abreu
@@ -148,6 +148,7 @@ aguayo,luis,1000085,luis aguayo
 aguila,chris,2143,chris aguila
 aguilar,jesus,11342,jesus aguilar
 aguilar,miguel,19246,miguel aguilar
+aguilar,ryan,19967,ryan aguilar
 aguilera,rick,1000086,rick aguilera
 aguirre,hank,1000087,hank aguirre
 ahearn,bill,1000088,bill ahearn
@@ -213,7 +214,7 @@ alexander,doyle,1000122,doyle alexander
 alexander,gary,1000123,gary alexander
 alexander,gerald,1000124,gerald alexander
 alexander,hugh,1000125,hugh alexander
-alexander,jason,-1,jason alexander
+alexander,jason,19666,jason alexander
 alexander,koke,-1,koke alexander
 alexander,manny,1954,manny alexander
 alexander,matt,1000126,matt alexander
@@ -238,7 +239,7 @@ allaire,bob,-1,bob allaire
 allanson,andy,1000130,andy allanson
 allard,brian,1000131,brian allard
 allard,kolby,18694,kolby allard
-alldred,cam,-1,cam alldred
+alldred,cam,25078,cam alldred
 allen,alex,-1,alex allen
 allen,austin,18083,austin allen
 allen,bernie,1000132,bernie allen
@@ -275,7 +276,7 @@ allen,myron,1000153,myron allen
 allen,neil,1000154,neil allen
 allen,newt,-1,newt allen
 allen,nick,1000155,nick allen
-allen,nick,-1,nick allen
+allen,nick,22277,nick allen
 allen,pete,1000156,pete allen
 allen,rod,1000158,rod allen
 allen,ron,1000157,ron allen
@@ -361,6 +362,7 @@ alvarez,tavo,1000200,tavo alvarez
 alvarez,tony,1587,tony alvarez
 alvarez,victor,1559,victor alvarez
 alvarez,wilson,1193,wilson alvarez
+alvarez,yordan,19556,yordan alvarez
 alvis,max,1000201,max alvis
 alvord,billy,1000202,billy alvord
 alyea,brant,1000203,brant alyea
@@ -511,7 +513,7 @@ apodaca,bob,1000279,bob apodaca
 aponte,luis,1000280,luis aponte
 aponte,ricardo,-1,ricardo aponte
 apostel,sherten,21794,sherten apostel
-appel,mark,-1,mark appel
+appel,mark,14823,mark appel
 appier,kevin,3,kevin appier
 applegate,fred,1000282,fred applegate
 applegate,red,-1,red applegate
@@ -523,7 +525,7 @@ aquino,greg,1899,greg aquino
 aquino,jayson,13150,jayson aquino
 aquino,luis,1000285,luis aquino
 aragon,jack,1000287,jack aragon
-aranda,jonathan,-1,jonathan aranda
+aranda,jonathan,21837,jonathan aranda
 arano,victor,15915,victor arano
 arata,mark,-1,mark arata
 araujo,elvis,12854,elvis araujo
@@ -551,7 +553,7 @@ arencibia,mario,-1,mario arencibia
 arft,hank,1000298,hank arft
 arias,alberto,3087,alberto arias
 arias,alex,123,alex arias
-arias,gabriel,-1,gabriel arias
+arias,gabriel,22563,gabriel arias
 arias,george,1000299,george arias
 arias,joaquin,3817,joaquin arias
 arias,rudy,1000300,rudy arias
@@ -628,7 +630,7 @@ ashby,aaron,23550,aaron ashby
 ashby,alan,1000336,alan ashby
 ashby,andy,637,andy ashby
 ashby,earl,-1,earl ashby
-ashcraft,graham,-1,graham ashcraft
+ashcraft,graham,27552,graham ashcraft
 asher,alec,13560,alec asher
 ashford,emmett,-1,emmett ashford
 ashford,tucker,1000337,tucker ashford
@@ -637,6 +639,7 @@ ashley,nevin,3274,nevin ashley
 asmussen,tom,1000340,tom asmussen
 aspromonte,bob,1000341,bob aspromonte
 aspromonte,ken,1000342,ken aspromonte
+assad,javier,21741,javier assad
 asselstine,brian,1000343,brian asselstine
 assenmacher,paul,1000344,paul assenmacher
 astacio,ezequiel,2169,ezequiel astacio
@@ -726,7 +729,7 @@ aylward,dick,1000388,dick aylward
 ayrault,bob,1000389,bob ayrault
 ayrault,joe,1000390,joe ayrault
 azcue,joe,1000391,joe azcue
-azocar,jose,-1,jose azocar
+azocar,jose,18821,jose azocar
 azocar,oscar,1000392,oscar azocar
 babb,charlie,1000393,charlie babb
 babcock,bob,1000394,bob babcock
@@ -750,6 +753,7 @@ bader,art,1000404,art bader
 bader,harrison,18030,harrison bader
 bader,king,1000405,king bader
 badgro,red,1000406,red badgro
+bae,ji hwan,23818,ji hwan bae
 baecht,ed,1000407,ed baecht
 baek,cha-seung,8214,cha-seung baek
 baerga,carlos,175,carlos baerga
@@ -845,6 +849,7 @@ baker,steve,1000467,steve baker
 baker,tom,1000469,tom baker
 baker,tom,1000468,tom baker
 baker,tracy,1000470,tracy baker
+baker,william,75423998,william baker
 bakley,jersey,1000440,jersey bakley
 bako,paul,676,paul bako
 balas,mike,1000471,mike balas
@@ -910,7 +915,7 @@ banks,ernie,1000512,ernie banks
 banks,george,1000514,george banks
 banks,josh,5570,josh banks
 banks,norman,-1,norman banks
-banks,tanner,-1,tanner banks
+banks,tanner,16990,tanner banks
 banks,willie,1434,willie banks
 bankston,bill,1000513,bill bankston
 bankston,wes,4661,wes bankston
@@ -919,7 +924,7 @@ bannister,alan,1000515,alan bannister
 bannister,brian,5718,brian bannister
 bannister,floyd,1000516,floyd bannister
 bannon,jimmy,1000518,jimmy bannon
-bannon,rylan,-1,rylan bannon
+bannon,rylan,19768,rylan bannon
 bannon,tom,1000519,tom bannon
 banta,jack,1000520,jack banta
 bantz,brandon,9442,brandon bantz
@@ -964,7 +969,7 @@ barker,al,1000543,al barker
 barker,glen,1000545,glen barker
 barker,kevin,1019,kevin barker
 barker,len,1000546,len barker
-barker,luke,-1,luke barker
+barker,luke,19609,luke barker
 barker,marvin,-1,marvin barker
 barker,ray,1000547,ray barker
 barker,richie,1000548,richie barker
@@ -1052,7 +1057,7 @@ barranca,german,1000587,german barranca
 barreda,manny,10148,manny barreda
 barrera,luis,19615,luis barrera
 barrera,tres,19977,tres barrera
-barrero,josé,23378,josé barrero
+barrero,jose,23378,jose barrero
 barreto,franklin,15519,franklin barreto
 barrett,aaron,11243,aaron barrett
 barrett,bill,1000591,bill barrett
@@ -1170,7 +1175,7 @@ batiste,kim,1000666,kim batiste
 batsch,bill,1000668,bill batsch
 battam,larry,1000669,larry battam
 batten,george,1000671,george batten
-batten,matthew,-1,matthew batten
+batten,matthew,20157,matthew batten
 battey,earl,1000670,earl battey
 battin,joe,1000672,joe battin
 battle,allen,1000673,allen battle
@@ -1180,6 +1185,7 @@ battle,ray,-1,ray battle
 battle,rufus,-1,rufus battle
 batton,chris,1000676,chris batton
 batts,matt,1000677,matt batts
+baty,brett,26123,brett baty
 bauer,al,1000678,al bauer
 bauer,hank,1000679,hank bauer
 bauer,lou,1000680,lou bauer
@@ -1203,7 +1209,7 @@ bausewine,george,1000692,george bausewine
 bauta,ed,1000693,ed bauta
 bautista,danny,47,danny bautista
 bautista,denny,1947,denny bautista
-bautista,félix,-1,félix bautista
+bautista,félix,20666,félix bautista
 bautista,gerson,19256,gerson bautista
 bautista,jose,1000694,jose bautista
 bautista,jose,1887,jose bautista
@@ -1404,7 +1410,7 @@ bellinger,clay,1436,clay bellinger
 bellinger,cody,15998,cody bellinger
 bellino,dan,-1,dan bellino
 bellman,jack,1000818,jack bellman
-bello,brayan,-1,brayan bello
+bello,brayan,23920,brayan bello
 belloir,rob,1000819,rob belloir
 bellorin,edwin,7242,edwin bellorin
 belnome,vince,8126,vince belnome
@@ -1468,6 +1474,7 @@ benson,gene,-1,gene benson
 benson,joe,2845,joe benson
 benson,kris,982,kris benson
 benson,vern,1000850,vern benson
+benson,will,21853,will benson
 bentley,cy,1000851,cy bentley
 bentley,jack,1000852,jack bentley
 benton,al,1000853,al benton
@@ -1528,6 +1535,8 @@ bernal,victor,1000890,victor bernal
 bernard,curt,1000886,curt bernard
 bernard,dwight,1000887,dwight bernard
 bernard,joe,1000888,joe bernard
+bernard,wynton,13408,wynton bernard
+bernardino,brennan,16835,brennan bernardino
 bernazard,tony,1000889,tony bernazard
 bernero,adam,460,adam bernero
 bernhard,bill,1000891,bill bernhard
@@ -1672,7 +1681,7 @@ bird,doug,1000976,doug bird
 bird,frank,1000977,frank bird
 bird,george,1000978,george bird
 bird,greg,14131,greg bird
-bird,jake,-1,jake bird
+bird,jake,21267,jake bird
 bird,kyle,16618,kyle bird
 bird,red,1000979,red bird
 birdsall,dave,1000980,dave birdsall
@@ -1776,14 +1785,14 @@ blanchard,johnny,1001043,johnny blanchard
 blanche,al,1001040,al blanche
 blanco,andres,1907,andres blanco
 blanco,carlos,-1,carlos blanco
-blanco,dairon,-1,dairon blanco
+blanco,dairon,19779,dairon blanco
 blanco,damaso,1001041,damaso blanco
 blanco,gil,1001042,gil blanco
 blanco,gregor,3123,gregor blanco
 blanco,heberto,-1,heberto blanco
 blanco,henry,81,henry blanco
 blanco,ossie,1001044,ossie blanco
-blanco,ronel,-1,ronel blanco
+blanco,ronel,19407,ronel blanco
 blanco,tony,2522,tony blanco
 bland,nate,1700,nate bland
 bland,spike,-1,spike bland
@@ -1821,7 +1830,7 @@ blaylock,gary,1001065,gary blaylock
 blaylock,marv,1001066,marv blaylock
 blazek,michael,9654,michael blazek
 blazier,ron,1001067,ron blazier
-bleday,jj,-1,jj bleday
+bleday,jj,26368,jj bleday
 bledsoe,,-1,
 blefary,curt,1001068,curt blefary
 bleich,jeremy,9069,jeremy bleich
@@ -2064,7 +2073,7 @@ botting,ralph,1001227,ralph botting
 bottomley,jim,1001228,jim bottomley
 botts,jason,2907,jason botts
 botz,bob,1001229,bob botz
-bouchard,sean,-1,sean bouchard
+bouchard,sean,21270,sean bouchard
 bouchee,ed,1001232,ed bouchee
 boucher,al,1001230,al boucher
 boucher,denis,1001231,denis boucher
@@ -2176,7 +2185,7 @@ bradford,charlie,-1,charlie bradford
 bradford,chase,12452,chase bradford
 bradford,larry,1001300,larry bradford
 bradford,vic,1001301,vic bradford
-bradish,kyle,-1,kyle bradish
+bradish,kyle,24586,kyle bradish
 bradley,,-1,
 bradley,,-1,
 bradley,al,1001302,al bradley
@@ -2256,7 +2265,7 @@ brantley,michael,4106,michael brantley
 brantley,mickey,1001360,mickey brantley
 brantly,rob,10655,rob brantly
 branyan,russell,370,russell branyan
-brash,matt,-1,matt brash
+brash,matt,25756,matt brash
 brashear,kitty,1001361,kitty brashear
 brashear,roy,1001362,roy brashear
 brasier,ryan,5615,ryan brasier
@@ -2278,6 +2287,7 @@ brazell,craig,2081,craig brazell
 brazelton,dewon,1195,dewon brazelton
 brazill,frank,1001370,frank brazill
 brazle,al,1001371,al brazle
+brazoban,huascar,6107,huascar brazoban
 brazoban,yhency,2150,yhency brazoban
 brea,leslie,1001372,leslie brea
 bream,sid,1001373,sid bream
@@ -2307,6 +2317,7 @@ brennan,don,1001389,don brennan
 brennan,jack,-1,jack brennan
 brennan,jack,1001390,jack brennan
 brennan,tom,1001392,tom brennan
+brennan,will,25660,will brennan
 brennan,william,1001393,william brennan
 brenneman,jim,1001391,jim brenneman
 brenner,bert,1001388,bert brenner
@@ -2346,7 +2357,7 @@ brickell,fred,1001414,fred brickell
 brickell,fritz,1001415,fritz brickell
 brickley,george,1001416,george brickley
 brickner,ralph,1001417,ralph brickner
-bride,jonah,-1,jonah bride
+bride,jonah,24703,jonah bride
 brideweser,jim,1001418,jim brideweser
 bridges,marshall,1001419,marshall bridges
 bridges,rocky,1001420,rocky bridges
@@ -2354,7 +2365,7 @@ bridges,tommy,1001421,tommy bridges
 bridwell,al,1001422,al bridwell
 bridwell,parker,11502,parker bridwell
 brief,bunny,1001423,bunny brief
-brieske,beau,-1,beau brieske
+brieske,beau,26079,beau brieske
 briggs,buttons,1001424,buttons briggs
 briggs,charlie,1001425,charlie briggs
 briggs,dan,1001426,dan briggs
@@ -2518,6 +2529,7 @@ brown,george,-1,george brown
 brown,george,-1,george brown
 brown,george,-1,george brown
 brown,hal,1001520,hal brown
+brown,hunter,25880,hunter brown
 brown,ike,1001521,ike brown
 brown,j.,-1,j. brown
 brown,j.,-1,j. brown
@@ -2760,6 +2772,7 @@ burdette,lew,1001662,lew burdette
 burdi,nick,16074,nick burdi
 burdi,zack,19159,zack burdi
 burdick,bill,1001663,bill burdick
+burdick,peyton,25459,peyton burdick
 burdock,jack,1001664,jack burdock
 burg,joe,1001667,joe burg
 burger,jake,22275,jake burger
@@ -2807,6 +2820,7 @@ burkett,john,179,john burkett
 burkhart,ken,1001693,ken burkhart
 burkhart,morgan,1745,morgan burkhart
 burks,ellis,372,ellis burks
+burleson,alec,27615,alec burleson
 burleson,rick,1001696,rick burleson
 burlingame,frank,-1,frank burlingame
 burnes,corbin,19361,corbin burnes
@@ -2947,6 +2961,7 @@ butler,rob,1001783,rob butler
 butterfield,brian,-1,brian butterfield
 butters,tom,1001785,tom butters
 buttery,frank,1001784,frank buttery
+butto,josé,23313,josé butto
 buttrey,ty,14719,ty buttrey
 butts,tommy,-1,tommy butts
 buxton,byron,14161,byron buxton
@@ -3004,6 +3019,7 @@ cabrera,melky,4022,melky cabrera
 cabrera,miguel,1744,miguel cabrera
 cabrera,nasusel,-1,nasusel cabrera
 cabrera,orlando,766,orlando cabrera
+cabrera,oswaldo,21707,oswaldo cabrera
 cabrera,rafael,-1,rafael cabrera
 cabrera,ramon,10327,ramon cabrera
 cacek,craig,1001808,craig cacek
@@ -3049,7 +3065,7 @@ cali,carmen,2964,carmen cali
 caligiuri,fred,1001836,fred caligiuri
 calihan,will,1001837,will calihan
 calixte,orlando,11905,orlando calixte
-call,alex,-1,alex call
+call,alex,19296,alex call
 callaghan,marty,1001846,marty callaghan
 callaghan,pat,1001848,pat callaghan
 callahan,ben,1001838,ben callahan
@@ -3171,7 +3187,7 @@ cannizzaro,chris,1001915,chris cannizzaro
 cannon,joe,1001916,joe cannon
 cannon,richard,-1,richard cannon
 cano,jose,1001917,jose cano
-cano,yennier,-1,yennier cano
+cano,yennier,25911,yennier cano
 canseco,jose,1001918,jose canseco
 canseco,ozzie,1001919,ozzie canseco
 cantillon,joe,-1,joe cantillon
@@ -3184,7 +3200,7 @@ cantwell,tom,1001923,tom cantwell
 cantz,bart,1001924,bart cantz
 canzler,russ,8265,russ canzler
 canó,robinson,3269,robinson canó
-capel,conner,-1,conner capel
+capel,conner,19983,conner capel
 capel,mike,1001925,mike capel
 capellan,jose,2236,jose capellan
 capilla,doug,1001926,doug capilla
@@ -3193,7 +3209,7 @@ capps,matt,4788,matt capps
 cappuzzello,george,1001927,george cappuzzello
 capra,buzz,1001928,buzz capra
 capra,nick,1001929,nick capra
-capra,vinny,-1,vinny capra
+capra,vinny,25040,vinny capra
 capri,pat,1001930,pat capri
 capron,ralph,1001931,ralph capron
 capuano,chris,1701,chris capuano
@@ -3278,6 +3294,7 @@ carpenter,david,9244,david carpenter
 carpenter,drew,9533,drew carpenter
 carpenter,hick,1001979,hick carpenter
 carpenter,john,-1,john carpenter
+carpenter,kerry,25961,kerry carpenter
 carpenter,lew,1001980,lew carpenter
 carpenter,matt,8090,matt carpenter
 carpenter,paul,1001981,paul carpenter
@@ -3315,6 +3332,7 @@ carroll,brett,8066,brett carroll
 carroll,clay,1001997,clay carroll
 carroll,cliff,1001996,cliff carroll
 carroll,cody,17664,cody carroll
+carroll,corbin,25878,corbin carroll
 carroll,dick,1001998,dick carroll
 carroll,dixie,1001999,dixie carroll
 carroll,ed,1002001,ed carroll
@@ -3377,6 +3395,7 @@ casale,jerry,1002029,jerry casale
 casali,curt,12510,curt casali
 casanova,paul,1002030,paul casanova
 casanova,raul,680,raul casanova
+casas,triston,22514,triston casas
 cascarella,joe,1002031,joe cascarella
 case,,-1,
 case,charlie,1002032,charlie case
@@ -3430,7 +3449,7 @@ castillo,bobby,1002057,bobby castillo
 castillo,braulio,1002058,braulio castillo
 castillo,carlos,1002060,carlos castillo
 castillo,carmelo,1002059,carmelo castillo
-castillo,diego,-1,diego castillo
+castillo,diego,19906,diego castillo
 castillo,diego,17496,diego castillo
 castillo,erick,12990,erick castillo
 castillo,fabio,2826,fabio castillo
@@ -3442,10 +3461,11 @@ castillo,juan,1002063,juan castillo
 castillo,juan,1002064,juan castillo
 castillo,lendy,11562,lendy castillo
 castillo,luis,513,luis castillo
+castillo,luis,20638,luis castillo
 castillo,luis,15689,luis castillo
 castillo,manny,1002065,manny castillo
 castillo,marty,1002066,marty castillo
-castillo,max,-1,max castillo
+castillo,max,21956,max castillo
 castillo,rusney,17016,rusney castillo
 castillo,tony,1002068,tony castillo
 castillo,tony,1002069,tony castillo
@@ -3498,6 +3518,7 @@ caulfield,jake,1002089,jake caulfield
 causey,kevin,-1,kevin causey
 causey,red,1002090,red causey
 causey,wayne,1002091,wayne causey
+cavalli,cade,27473,cade cavalli
 cavanagh,james,-1,james cavanagh
 cavanaugh,harry,-1,harry cavanaugh
 cavanaugh,john,1002092,john cavanaugh
@@ -3892,7 +3913,7 @@ clemens,bob,1002332,bob clemens
 clemens,chet,1002333,chet clemens
 clemens,clem,1002334,clem clemens
 clemens,doug,1002335,doug clemens
-clemens,kody,-1,kody clemens
+clemens,kody,20572,kody clemens
 clemens,paul,8037,paul clemens
 clemens,roger,815,roger clemens
 clemensen,bill,1002331,bill clemensen
@@ -4206,7 +4227,7 @@ conti,guy,-1,guy conti
 conti,jason,1199,jason conti
 contreras,carlos,10386,carlos contreras
 contreras,josé,1660,josé contreras
-contreras,mark,-1,mark contreras
+contreras,mark,20122,mark contreras
 contreras,nardi,1002548,nardi contreras
 contreras,roansy,22810,roansy contreras
 contreras,william,20503,william contreras
@@ -4597,7 +4618,7 @@ cronin,dan,1002793,dan cronin
 cronin,jack,1002794,jack cronin
 cronin,jim,1002795,jim cronin
 cronin,joe,1002796,joe cronin
-crook,narciso,-1,narciso crook
+crook,narciso,17473,narciso crook
 crooke,tom,1002798,tom crooke
 crooks,jack,1002797,jack crooks
 crosby,bobby,1818,bobby crosby
@@ -4661,6 +4682,7 @@ cruthers,press,1002837,press cruthers
 cruz,deivi,1025,deivi cruz
 cruz,enrique,1673,enrique cruz
 cruz,fausto,1002838,fausto cruz
+cruz,fernando,7048,fernando cruz
 cruz,hector,1002839,hector cruz
 cruz,henry,1002840,henry cruz
 cruz,ivan,1596,ivan cruz
@@ -4679,7 +4701,7 @@ cruz,todd,1002844,todd cruz
 cruz,tommy,1002843,tommy cruz
 cruz,tony,2802,tony cruz
 cruz,victor,1002845,victor cruz
-cuas,jose,-1,jose cuas
+cuas,jose,17701,jose cuas
 cubbage,mike,1002846,mike cubbage
 cubillan,darwin,771,darwin cubillan
 cuccinello,al,1002847,al cuccinello
@@ -4758,6 +4780,7 @@ curry,rube,-1,rube curry
 curry,steve,1002895,steve curry
 curry,tony,1002896,tony curry
 curry,wes,1002897,wes curry
+curry,xzavion,25595,xzavion curry
 curtis,,-1,
 curtis,chad,1002898,chad curtis
 curtis,cliff,1002899,cliff curtis
@@ -4792,6 +4815,7 @@ cuzzi,phil,-1,phil cuzzi
 cvengros,mike,1002916,mike cvengros
 cypert,al,1002917,al cypert
 cyr,eric,1494,eric cyr
+cyr,tyler,18421,tyler cyr
 czajkowski,jim,1002918,jim czajkowski
 d'acquisto,john,1002919,john d'acquisto
 d'agostino,dennis,-1,dennis d'agostino
@@ -4985,6 +5009,7 @@ davis,bob,-1,bob davis
 davis,bob,1003036,bob davis
 davis,brad,8250,brad davis
 davis,brandy,1003037,brandy davis
+davis,brendon,18587,brendon davis
 davis,brock,1003038,brock davis
 davis,bud,1003039,bud davis
 davis,butch,-1,butch davis
@@ -5043,6 +5068,7 @@ davis,lorenzo,-1,lorenzo davis
 davis,mark,1003067,mark davis
 davis,mark,1003068,mark davis
 davis,mike,1003070,mike davis
+davis,noah,25862,noah davis
 davis,odie,1003071,odie davis
 davis,oscar,-1,oscar davis
 davis,otis,1003072,otis davis
@@ -5104,7 +5130,7 @@ daza,yonathan,15794,yonathan daza
 de aza,alejandro,3371,alejandro de aza
 de fratus,justin,4955,justin de fratus
 de goti,alex,19477,alex de goti
-de jesus,angel,-1,angel de jesus
+de jesus,angel,22323,angel de jesus
 de jesus,ivan,9886,ivan de jesus
 de jesus,ivan,1003150,ivan de jesus
 de jesus,jose,1003151,jose de jesus
@@ -5133,7 +5159,7 @@ de los santos,luis,1003180,luis de los santos
 de los santos,luis,1203,luis de los santos
 de los santos,ramon,1003181,ramon de los santos
 de los santos,valerio,681,valerio de los santos
-de los santos,yerry,-1,yerry de los santos
+de los santos,yerry,21420,yerry de los santos
 de paula,jorge,1827,jorge de paula
 de paula,jose,5744,jose de paula
 de paula,julio,2786,julio de paula
@@ -5177,6 +5203,7 @@ deleon,jose,1003168,jose deleon
 deleon,luis,1003169,luis deleon
 delucia,rich,1003185,rich delucia
 delunas,brian,-1,brian delunas
+deluzio,ben,19644,ben deluzio
 demaria,chris,4361,chris demaria
 demars,billy,1003188,billy demars
 demerit,john,1003191,john demerit
@@ -5297,7 +5324,7 @@ delancey,bill,1003164,bill delancey
 delaney,art,1003162,art delaney
 delaney,bill,1003163,bill delaney
 delaney,rob,5100,rob delaney
-delay,jason,-1,jason delay
+delay,jason,19806,jason delay
 delcarmen,manny,3180,manny delcarmen
 deleon,jose,1003168,jose deleon
 deleon,luis,1003169,luis deleon
@@ -5437,7 +5464,7 @@ dials,lou,-1,lou dials
 diamond,scott,5089,scott diamond
 diamond,thomas,8025,thomas diamond
 diaz,alex,1003260,alex diaz
-diaz,alexis,-1,alexis diaz
+diaz,alexis,21132,alexis diaz
 diaz,argenis,6403,argenis diaz
 diaz,bo,1003261,bo diaz
 diaz,carlos,1003263,carlos diaz
@@ -5453,6 +5480,7 @@ diaz,isan,17922,isan diaz
 diaz,jairo,12774,jairo diaz
 diaz,jhonathan,20298,jhonathan diaz
 diaz,jonathan,4142,jonathan diaz
+diaz,jordan,22650,jordan diaz
 diaz,jose,2057,jose diaz
 diaz,juan,187,juan diaz
 diaz,juan,9235,juan diaz
@@ -5466,6 +5494,7 @@ diaz,mike,1003268,mike diaz
 diaz,robinzon,3248,robinzon diaz
 diaz,tony,-1,tony diaz
 diaz,victor,3424,victor diaz
+diaz,yainer,23003,yainer diaz
 dibble,rob,1003269,rob dibble
 dibut,pedro,1003270,pedro dibut
 dicken,paul,1003276,paul dicken
@@ -5650,7 +5679,7 @@ donohue,tom,1003391,tom donohue
 donoso,lino,1003392,lino donoso
 donovan,bill,1003393,bill donovan
 donovan,bill,1003394,bill donovan
-donovan,brendan,-1,brendan donovan
+donovan,brendan,24679,brendan donovan
 donovan,dick,1003395,dick donovan
 donovan,fred,1003396,fred donovan
 donovan,jerry,1003397,jerry donovan
@@ -5732,7 +5761,7 @@ downing,brian,1003451,brian downing
 downs,bunny,-1,bunny downs
 downs,darin,5903,darin downs
 downs,dave,1003452,dave downs
-downs,jeter,-1,jeter downs
+downs,jeter,22202,jeter downs
 downs,kelly,1003453,kelly downs
 downs,matt,957,matt downs
 downs,red,1003454,red downs
@@ -5830,7 +5859,7 @@ dupree,mike,1003581,mike dupree
 durapau,montana,16768,montana durapau
 durocher,jayson,1497,jayson durocher
 durocher,leo,1003596,leo durocher
-duarte,daniel,-1,daniel duarte
+duarte,daniel,17480,daniel duarte
 dubee,rich,-1,rich dubee
 dubiel,monk,1003517,monk dubiel
 dubois,brian,1003518,brian dubois
@@ -5894,7 +5923,7 @@ dumatrait,phil,8598,phil dumatrait
 dumont,george,1003547,george dumont
 dumoulin,dan,1003548,dan dumoulin
 dumovich,nick,1003549,nick dumovich
-dunand,joe,-1,joe dunand
+dunand,joe,19727,joe dunand
 dunbar,matt,1003550,matt dunbar
 dunbar,tom,1003551,tom dunbar
 dunbar,vet,-1,vet dunbar
@@ -5956,10 +5985,10 @@ dupee,frank,1003580,frank dupee
 duplantier,jon,19546,jon duplantier
 dupree,mike,1003581,mike dupree
 duran,dan,1003582,dan duran
-duran,ezequiel,-1,ezequiel duran
+duran,ezequiel,23733,ezequiel duran
 duran,german,3919,german duran
 duran,jarren,24617,jarren duran
-duran,jhoan,-1,jhoan duran
+duran,jhoan,21029,jhoan duran
 duran,roberto,1003584,roberto duran
 durango,luis,6533,luis durango
 durant,mike,1003583,mike durant
@@ -5982,7 +6011,7 @@ durning,george,1003594,george durning
 durning,rich,1003595,rich durning
 durocher,jayson,1497,jayson durocher
 durocher,leo,1003596,leo durocher
-duron,nick,-1,nick duron
+duron,nick,21092,nick duron
 durrett,red,1003597,red durrett
 durrington,trent,1805,trent durrington
 durst,cedric,1003598,cedric durst
@@ -6026,6 +6055,7 @@ díaz,pedro,-1,pedro díaz
 díaz,rufino,-1,rufino díaz
 díaz,yandy,16578,yandy díaz
 díaz,yennsy,20218,yennsy díaz
+díaz,yusniel,18905,yusniel díaz
 eaddy,don,1003621,don eaddy
 eades,ryan,14808,ryan eades
 eagan,bill,1003622,bill eagan
@@ -6064,7 +6094,7 @@ eastwick,rawly,1003648,rawly eastwick
 eaton,adam,1029,adam eaton
 eaton,adam,11205,adam eaton
 eaton,craig,1003649,craig eaton
-eaton,nate,-1,nate eaton
+eaton,nate,25055,nate eaton
 eaton,zeb,1003650,zeb eaton
 eave,gary,1003651,gary eave
 eaves,vallie,1003652,vallie eaves
@@ -6175,7 +6205,7 @@ elam,jim,-1,jim elam
 elarton,scott,426,scott elarton
 elberfeld,kid,1003722,kid elberfeld
 elbert,scott,7489,scott elbert
-elder,bryce,-1,bryce elder
+elder,bryce,27779,bryce elder
 elder,dave,1535,dave elder
 elder,george,1003723,george elder
 elder,heinie,1003724,heinie elder
@@ -6255,7 +6285,7 @@ emmett,buster,-1,buster emmett
 emslie,bob,1003772,bob emslie
 encarnacion,angelo,1003773,angelo encarnacion
 encarnacion,edwin,2151,edwin encarnacion
-encarnacion,jerar,-1,jerar encarnacion
+encarnacion,jerar,21871,jerar encarnacion
 encarnacion,juan,320,juan encarnacion
 encarnacion,luis,1003774,luis encarnacion
 encarnacion,mario,1444,mario encarnacion
@@ -6354,7 +6384,7 @@ espino,paolo,8246,paolo espino
 espinosa,danny,9219,danny espinosa
 espinosa,nino,1003830,nino espinosa
 espinoza,alvaro,1003828,alvaro espinoza
-espinoza,anderson,-1,anderson espinoza
+espinoza,anderson,18593,anderson espinoza
 esposito,brian,3085,brian esposito
 esposito,mike,4986,mike esposito
 esposito,sammy,1003831,sammy esposito
@@ -6375,6 +6405,7 @@ estock,george,1003840,george estock
 estrada,chuck,1003841,chuck estrada
 estrada,frank,1003842,frank estrada
 estrada,horacio,1003843,horacio estrada
+estrada,jeremiah,22210,jeremiah estrada
 estrada,johnny,955,johnny estrada
 estrada,marco,1118,marco estrada
 estrada,oscar,1003844,oscar estrada
@@ -6464,7 +6495,7 @@ fabregas,jorge,12,jorge fabregas
 fabrique,bunny,1003890,bunny fabrique
 face,,-1,
 face,roy,1003891,roy face
-faedo,alex,-1,alex faedo
+faedo,alex,19874,alex faedo
 faedo,lenny,1003892,lenny faedo
 faeth,tony,1003893,tony faeth
 fagan,bill,1003894,bill fagan
@@ -6558,7 +6589,7 @@ fassero,jeff,279,jeff fassero
 fast,darcy,1003955,darcy fast
 faszholz,jack,1003956,jack faszholz
 fatse,peter,-1,peter fatse
-faucher,calvin,-1,calvin faucher
+faucher,calvin,20116,calvin faucher
 faul,bill,1003957,bill faul
 faulkner,andrew,12982,andrew faulkner
 faulkner,jim,1003958,jim faulkner
@@ -6616,7 +6647,7 @@ ferguson,charlie,1003987,charlie ferguson
 ferguson,charlie,1003988,charlie ferguson
 ferguson,joe,1003990,joe ferguson
 fermin,felix,1003991,felix fermin
-fermin,freddy,-1,freddy fermin
+fermin,freddy,21840,freddy fermin
 fermin,ramon,1003992,ramon fermin
 fernandes,ed,1003996,ed fernandes
 fernandez,alex,1003993,alex fernandez
@@ -6783,12 +6814,14 @@ fisher,harry,1004089,harry fisher
 fisher,ike,1004094,ike fisher
 fisher,jack,1004090,jack fisher
 fisher,maurice,1004093,maurice fisher
+fisher,nate,25512,nate fisher
 fisher,ray,1004095,ray fisher
 fisher,red,1004096,red fisher
 fisher,showboat,1004097,showboat fisher
 fisher,tom,1004098,tom fisher
 fisher,tom,1004099,tom fisher
 fisher,wilbur,1004100,wilbur fisher
+fishman,jake,20060,jake fishman
 fisk,carlton,1004101,carlton fisk
 fiske,max,1004102,max fiske
 fisler,wes,1004103,wes fisler
@@ -7060,7 +7093,7 @@ fox,jack,1004279,jack fox
 fox,jacob,1004277,jacob fox
 fox,jake,6267,jake fox
 fox,john,1004280,john fox
-fox,lucius,-1,lucius fox
+fox,lucius,18899,lucius fox
 fox,matt,7320,matt fox
 fox,nellie,1004281,nellie fox
 fox,pete,1004283,pete fox
@@ -7075,7 +7108,7 @@ fraley,jake,19260,jake fraley
 france,ossie,1004290,ossie france
 france,ty,17982,ty france
 francis,bill,-1,bill francis
-francis,bowden,-1,bowden francis
+francis,bowden,20548,bowden francis
 francis,earl,1004289,earl francis
 francis,jeff,4684,jeff francis
 francis,otis,-1,otis francis
@@ -7154,6 +7187,7 @@ freeman,mark,1004325,mark freeman
 freeman,marvin,1004326,marvin freeman
 freeman,mike,11241,mike freeman
 freeman,sam,6832,sam freeman
+freeman,tyler,22532,tyler freeman
 freese,david,9549,david freese
 freese,gene,1004328,gene freese
 freese,george,1004327,george freese
@@ -7293,13 +7327,14 @@ gabler,john,1004416,john gabler
 gables,ken,1004417,ken gables
 gabrielson,len,1004419,len gabrielson
 gabrielson,len,1004418,len gabrielson
+gaddis,hunter,25636,hunter gaddis
 gaddy,john,1004420,john gaddy
 gaedel,eddie,1004421,eddie gaedel
 gaetti,gary,1004422,gary gaetti
 gaff,brent,1004423,brent gaff
 gaffke,fabian,1004424,fabian gaffke
 gaffney,john,-1,john gaffney
-gage,matt,-1,matt gage
+gage,matt,17381,matt gage
 gagliano,phil,1004425,phil gagliano
 gagliano,ralph,1004426,ralph gagliano
 gagne,eric,650,eric gagne
@@ -7413,7 +7448,7 @@ garcia,daniel,1819,daniel garcia
 garcia,danny,1004499,danny garcia
 garcia,dave,-1,dave garcia
 garcia,deivi,20276,deivi garcia
-garcia,dermis,-1,dermis garcia
+garcia,dermis,20926,dermis garcia
 garcia,edgar,19276,edgar garcia
 garcia,freddy,1004500,freddy garcia
 garcia,freddy,1077,freddy garcia
@@ -7434,7 +7469,7 @@ garcia,luis,20391,luis garcia
 garcia,luis,1004504,luis garcia
 garcia,luis,23735,luis garcia
 garcia,luis,6984,luis garcia
-garcia,maikel,-1,maikel garcia
+garcia,maikel,22715,maikel garcia
 garcia,miguel,1004506,miguel garcia
 garcia,mike,1004505,mike garcia
 garcia,mike,1004507,mike garcia
@@ -7507,6 +7542,7 @@ garrett,clarence,1004544,clarence garrett
 garrett,greg,1004545,greg garrett
 garrett,reed,16866,reed garrett
 garrett,spike,-1,spike garrett
+garrett,stone,19273,stone garrett
 garrett,tom,-1,tom garrett
 garrett,wayne,1004547,wayne garrett
 garrido,gil,-1,gil garrido
@@ -7639,6 +7675,7 @@ gerkin,steve,1004634,steve gerkin
 gerlach,johnny,1004635,johnny gerlach
 german,domingo,17149,domingo german
 german,esteban,1449,esteban german
+german,franklin,24750,franklin german
 german,franklyn,1603,franklyn german
 german,les,1004636,les german
 germano,justin,1938,justin germano
@@ -7763,7 +7800,7 @@ gill,johnny,1004727,johnny gill
 gill,tommy,-1,tommy gill
 gill,warren,1004729,warren gill
 gillaspie,conor,9009,conor gillaspie
-gillaspie,logan,-1,logan gillaspie
+gillaspie,logan,22461,logan gillaspie
 gillean,thomas,-1,thomas gillean
 gillen,sam,1004716,sam gillen
 gillen,tom,1004717,tom gillen
@@ -7998,7 +8035,7 @@ gonzalez,miguel,4049,miguel gonzalez
 gonzalez,miguel,7024,miguel gonzalez
 gonzalez,mike,1794,mike gonzalez
 gonzalez,orlando,1004842,orlando gonzalez
-gonzalez,oscar,-1,oscar gonzalez
+gonzalez,oscar,20970,oscar gonzalez
 gonzalez,pedro,1004843,pedro gonzalez
 gonzalez,raul,1553,raul gonzalez
 gonzalez,romy,21562,romy gonzalez
@@ -8054,7 +8091,7 @@ gordon,sid,1004877,sid gordon
 gordon,tom,282,tom gordon
 gore,artie,-1,artie gore
 gore,george,1004879,george gore
-gore,mackenzie,-1,mackenzie gore
+gore,mackenzie,22201,mackenzie gore
 gore,terrance,13658,terrance gore
 gorecki,reid,4603,reid gorecki
 gorecki,rick,1004878,rick gorecki
@@ -8064,7 +8101,7 @@ gorman,brian,-1,brian gorman
 gorman,herb,1004882,herb gorman
 gorman,howie,1004883,howie gorman
 gorman,jack,1004884,jack gorman
-gorman,nolan,-1,nolan gorman
+gorman,nolan,22263,nolan gorman
 gorman,thomas,1014470,thomas gorman
 gorman,tom,1004887,tom gorman
 gorman,tom,1004885,tom gorman
@@ -8250,14 +8287,14 @@ greenberg,hank,1004996,hank greenberg
 greene,al,1004983,al greene
 greene,charlie,1004987,charlie greene
 greene,conner,16455,conner greene
-greene,hunter,-1,hunter greene
+greene,hunter,22182,hunter greene
 greene,joe,-1,joe greene
 greene,june,1005003,june greene
 greene,khalil,1826,khalil greene
 greene,nelson,1005007,nelson greene
 greene,paddy,1005008,paddy greene
 greene,rick,1005010,rick greene
-greene,riley,-1,riley greene
+greene,riley,25976,riley greene
 greene,shane,10756,shane greene
 greene,todd,1450,todd greene
 greene,tommy,1005013,tommy greene
@@ -8366,6 +8403,7 @@ grisham,trent,18564,trent grisham
 grissom,lee,1005073,lee grissom
 grissom,marquis,652,marquis grissom
 grissom,marv,1005074,marv grissom
+grissom,vaughn,26031,vaughn grissom
 groat,dick,1005075,dick groat
 grob,connie,1005076,connie grob
 grodzicki,johnny,1005077,johnny grodzicki
@@ -8376,6 +8414,7 @@ gronkiewicz,lee,3508,lee gronkiewicz
 groom,bob,1005081,bob groom
 groom,buddy,143,buddy groom
 grooms,roger,-1,roger grooms
+groshans,jordan,23794,jordan groshans
 groskloss,howdy,1005082,howdy groskloss
 gross,don,1005083,don gross
 gross,emil,1005084,emil gross
@@ -8396,7 +8435,7 @@ grott,matt,1005097,matt grott
 grotz,zac,18256,zac grotz
 grove,,-1,
 grove,lefty,1005099,lefty grove
-grove,michael,-1,michael grove
+grove,michael,23221,michael grove
 grove,orval,1005100,orval grove
 grover,charlie,1005098,charlie grover
 grover,roy,1005101,roy grover
@@ -8499,6 +8538,7 @@ gustine,frankie,1005152,frankie gustine
 guth,bucky,1005153,bucky guth
 guth,charlie,1005154,charlie guth
 guthrie,bill,-1,bill guthrie
+guthrie,dalton,21293,dalton guthrie
 guthrie,jeremy,2072,jeremy guthrie
 guthrie,mark,876,mark guthrie
 gutierrez,cesar,1005155,cesar gutierrez
@@ -8636,9 +8676,10 @@ hall,charley,1005239,charley hall
 hall,charlie,1005238,charlie hall
 hall,clem,-1,clem hall
 hall,cody,12232,cody hall
-hall,darick,-1,darick hall
+hall,darick,19717,darick hall
 hall,darren,1005240,darren hall
 hall,dick,1005241,dick hall
+hall,dl,22207,dl hall
 hall,drew,1005242,drew hall
 hall,george,1005245,george hall
 hall,herb,1005246,herb hall
@@ -8688,7 +8729,7 @@ hamels,cole,4972,cole hamels
 hamill,john,1005276,john hamill
 hamilton,billy,10199,billy hamilton
 hamilton,billy,1005270,billy hamilton
-hamilton,caleb,-1,caleb hamilton
+hamilton,caleb,19842,caleb hamilton
 hamilton,darryl,1005272,darryl hamilton
 hamilton,dave,1005271,dave hamilton
 hamilton,earl,1005273,earl hamilton
@@ -8927,7 +8968,7 @@ harris,john,1005422,john harris
 harris,lanny,-1,lanny harris
 harris,lenny,1394,lenny harris
 harris,lum,1005423,lum harris
-harris,michael,-1,michael harris
+harris,michael,25931,michael harris
 harris,mickey,1005424,mickey harris
 harris,mitch,4530,mitch harris
 harris,mo,-1,mo harris
@@ -9276,6 +9317,7 @@ henderson,bunk,-1,bunk henderson
 henderson,curtis,-1,curtis henderson
 henderson,dave,1005630,dave henderson
 henderson,ed,1005631,ed henderson
+henderson,gunnar,26289,gunnar henderson
 henderson,hardie,1005632,hardie henderson
 henderson,henry,-1,henry henderson
 henderson,jim,6653,jim henderson
@@ -9328,6 +9370,7 @@ henrich,tommy,1005664,tommy henrich
 henrichs,jeff,-1,jeff henrichs
 henriksen,olaf,1005663,olaf henriksen
 henriquez,oscar,1540,oscar henriquez
+henriquez,ronny,24094,ronny henriquez
 henry,bill,-1,bill henry
 henry,bill,1005665,bill henry
 henry,bill,1005666,bill henry
@@ -9346,10 +9389,12 @@ henry,payton,22164,payton henry
 henry,preacher,-1,preacher henry
 henry,ron,1005676,ron henry
 henry,snake,1005677,snake henry
+henry,tommy,26285,tommy henry
 henshaw,roy,1005678,roy henshaw
 hensiek,phil,1005679,phil hensiek
 hensley,chuck,1005680,chuck hensley
 hensley,clay,4593,clay hensley
+hensley,david,25111,david hensley
 hensley,logan,-1,logan hensley
 hensley,matt,1924,matt hensley
 henson,drew,822,drew henson
@@ -9368,6 +9413,7 @@ heredia,ubaldo,1005687,ubaldo heredia
 heredia,wilson,1005688,wilson heredia
 herges,matt,780,matt herges
 herget,jimmy,17556,jimmy herget
+herget,kevin,15369,kevin herget
 herman,alex,-1,alex herman
 herman,art,1005690,art herman
 herman,babe,1005691,babe herman
@@ -9395,7 +9441,7 @@ hernandez,chuck,-1,chuck hernandez
 hernandez,darwinzon,19848,darwinzon hernandez
 hernandez,david,4259,david hernandez
 hernandez,diory,4950,diory hernandez
-hernandez,elier,-1,elier hernandez
+hernandez,elier,13750,elier hernandez
 hernandez,elieser,16933,elieser hernandez
 hernandez,enrique,10472,enrique hernandez
 hernandez,enzo,1005700,enzo hernandez
@@ -9445,9 +9491,9 @@ herrera,bobby,1005719,bobby herrera
 herrera,danny,4552,danny herrera
 herrera,dilson,14335,dilson herrera
 herrera,elian,5432,elian herrera
-herrera,ivan,-1,ivan herrera
+herrera,ivan,20599,ivan herrera
 herrera,jonathan,4182,jonathan herrera
-herrera,jose,-1,jose herrera
+herrera,jose,17040,jose herrera
 herrera,jose,1005722,jose herrera
 herrera,jose,1005721,jose herrera
 herrera,kelvin,6033,kelvin herrera
@@ -9518,7 +9564,7 @@ hickey,jim,-1,jim hickey
 hickey,jim,1005770,jim hickey
 hickey,kevin,1005771,kevin hickey
 hickey,mike,1005772,mike hickey
-hicklen,brewer,-1,brewer hicklen
+hicklen,brewer,20450,brewer hicklen
 hickman,charlie,1005773,charlie hickman
 hickman,ernie,1005774,ernie hickman
 hickman,jesse,1005775,jesse hickman
@@ -9585,7 +9631,7 @@ hill,dave,1005810,dave hill
 hill,derek,16947,derek hill
 hill,donnie,1005811,donnie hill
 hill,fred,-1,fred hill
-hill,garrett,-1,garrett hill
+hill,garrett,25097,garrett hill
 hill,garry,1005819,garry hill
 hill,glenallen,1005820,glenallen hill
 hill,herbert,1005821,herbert hill
@@ -9673,7 +9719,7 @@ hitt,bruce,1005862,bruce hitt
 hitt,roy,1005864,roy hitt
 hittle,lloyd,1005863,lloyd hittle
 hiura,keston,20003,keston hiura
-hjelle,sean,-1,sean hjelle
+hjelle,sean,21481,sean hjelle
 hoag,myril,1005865,myril hoag
 hoagland,willard,-1,willard hoagland
 hoak,don,1005866,don hoak
@@ -9715,6 +9761,7 @@ hodkey,eli,1005890,eli hodkey
 hodnett,charlie,1005891,charlie hodnett
 hodson,george,1005892,george hodson
 hoeft,billy,1005893,billy hoeft
+hoeing,bryan,26304,bryan hoeing
 hoelskoetter,art,1005894,art hoelskoetter
 hoerner,joe,1005895,joe hoerner
 hoerner,nico,21479,nico hoerner
@@ -9780,7 +9827,7 @@ holden,bill,1005941,bill holden
 holden,joe,1005942,joe holden
 holder,,-1,
 holder,jonathan,16588,jonathan holder
-holderman,colin,-1,colin holderman
+holderman,colin,22361,colin holderman
 holdridge,david,1005943,david holdridge
 holdsworth,fred,1005944,fred holdsworth
 holdsworth,jim,1005945,jim holdsworth
@@ -9822,6 +9869,7 @@ holloway,crush,-1,crush holloway
 holloway,jim,1005965,jim holloway
 holloway,jordan,20631,jordan holloway
 holloway,ken,1005966,ken holloway
+hollowell,gavin,25427,gavin hollowell
 hollowell,matt,-1,matt hollowell
 holly,ed,1005967,ed holly
 holly,jeff,1005968,jeff holly
@@ -9859,7 +9907,7 @@ holt,roger,1005988,roger holt
 holt,tyler,11391,tyler holt
 holtgrave,vern,1005984,vern holtgrave
 holton,brian,1005986,brian holton
-holton,tyler,-1,tyler holton
+holton,tyler,26231,tyler holton
 holtz,eddie,-1,eddie holtz
 holtz,mike,920,mike holtz
 holtzman,ken,1005989,ken holtzman
@@ -10113,7 +10161,7 @@ hughes,,-1,
 hughes,bill,1006150,bill hughes
 hughes,bill,1006149,bill hughes
 hughes,bobby,1006151,bobby hughes
-hughes,brandon,-1,brandon hughes
+hughes,brandon,23460,brandon hughes
 hughes,charlie,-1,charlie hughes
 hughes,dick,1006152,dick hughes
 hughes,dusty,6164,dusty hughes
@@ -10158,7 +10206,7 @@ hulvey,hank,1006178,hank hulvey
 humber,charlie,-1,charlie humber
 humber,philip,8586,philip humber
 hume,tom,1006179,tom hume
-hummel,cooper,-1,cooper hummel
+hummel,cooper,19458,cooper hummel
 hummel,john,1006180,john hummel
 hummel,tim,238,tim hummel
 humphrey,al,1006181,al humphrey
@@ -10398,7 +10446,7 @@ jackson,sonny,1006313,sonny jackson
 jackson,steven,7341,steven jackson
 jackson,tom,-1,tom jackson
 jackson,travis,1006314,travis jackson
-jackson,zach,-1,zach jackson
+jackson,zach,19493,zach jackson
 jackson,zach,8356,zach jackson
 jacobs,art,1006315,art jacobs
 jacobs,bucky,1006319,bucky jacobs
@@ -10454,6 +10502,7 @@ james,mike,1453,mike james
 james,rick,1006353,rick james
 james,skip,1006354,skip james
 james,tice,-1,tice james
+jameson,drey,26260,drey jameson
 jamieson,charlie,1006355,charlie jamieson
 janeski,gerry,1006356,gerry janeski
 janish,paul,7412,paul janish
@@ -10648,6 +10697,7 @@ johnson,bob,1006430,bob johnson
 johnson,bob,-1,bob johnson
 johnson,brian,14272,brian johnson
 johnson,brian,1006432,brian johnson
+johnson,bryce,20002,bryce johnson
 johnson,bucky,-1,bucky johnson
 johnson,buster,-1,buster johnson
 johnson,cecil,-1,cecil johnson
@@ -10911,7 +10961,7 @@ jones,mint,-1,mint jones
 jones,mitch,3006,mitch jones
 jones,nate,4696,nate jones
 jones,nippy,1006578,nippy jones
-jones,nolan,-1,nolan jones
+jones,nolan,20529,nolan jones
 jones,odell,1006579,odell jones
 jones,oscar,1006580,oscar jones
 jones,percy,1006581,percy jones
@@ -11027,6 +11077,7 @@ julian,joseph,-1,joseph julian
 julio,jorge,148,jorge julio
 jumonville,george,1006649,george jumonville
 jumper,howard,-1,howard jumper
+jung,josh,26299,josh jung
 junge,eric,1611,eric junge
 jungels,ken,1006650,ken jungels
 jungmann,taylor,13119,taylor jungmann
@@ -11121,7 +11172,7 @@ karstens,jeff,5879,jeff karstens
 kashiwada,takashi,1006710,takashi kashiwada
 kasko,eddie,1006711,eddie kasko
 kata,matt,1741,matt kata
-katoh,gosuke,-1,gosuke katoh
+katoh,gosuke,15697,gosuke katoh
 katoll,jack,1006712,jack katoll
 katt,ray,1006713,ray katt
 katz,bob,1006714,bob katz
@@ -11251,7 +11302,7 @@ kelly,kenny,1084,kenny kelly
 kelly,kick,1006807,kick kelly
 kelly,king,1006806,king kelly
 kelly,merrill,11156,merrill kelly
-kelly,michael,-1,michael kelly
+kelly,michael,12791,michael kelly
 kelly,mike,1006809,mike kelly
 kelly,mike,-1,mike kelly
 kelly,mike,1006808,mike kelly
@@ -11269,6 +11320,7 @@ kelly,ty,7740,ty kelly
 kelly,van,1006818,van kelly
 kelly,w. h.,-1,w. h. kelly
 kelly,william,-1,william kelly
+kelly,zack,20349,zack kelly
 kelsey,,-1,
 kelsey,billy,1006819,billy kelsey
 kelso,bill,1006820,bill kelso
@@ -11300,7 +11352,7 @@ kennedy,bill,1006833,bill kennedy
 kennedy,bob,1006835,bob kennedy
 kennedy,brett,17877,brett kennedy
 kennedy,brickyard,1006836,brickyard kennedy
-kennedy,buddy,-1,buddy kennedy
+kennedy,buddy,22505,buddy kennedy
 kennedy,charles,-1,charles kennedy
 kennedy,doc,1006837,doc kennedy
 kennedy,ed,1006839,ed kennedy
@@ -11353,7 +11405,7 @@ kerr,dickey,1006871,dickey kerr
 kerr,doc,1006872,doc kerr
 kerr,john,1006874,john kerr
 kerr,mel,1006875,mel kerr
-kerr,ray,-1,ray kerr
+kerr,ray,23809,ray kerr
 kerrigan,joe,1006873,joe kerrigan
 kerry,,-1,
 kershaw,clayton,2036,clayton kershaw
@@ -11399,7 +11451,7 @@ kile,darryl,1163,darryl kile
 kiley,john,1006898,john kiley
 kilgus,paul,1006899,paul kilgus
 kilhullen,pat,1006900,pat kilhullen
-kilian,caleb,-1,caleb kilian
+kilian,caleb,26213,caleb kilian
 kilkenny,mike,1006901,mike kilkenny
 killebrew,harmon,1006905,harmon killebrew
 killeen,evans,1006903,evans killeen
@@ -11500,7 +11552,7 @@ kipper,thornton,1006958,thornton kipper
 kippert,ed,1006957,ed kippert
 kirby,,-1,
 kirby,clay,1006960,clay kirby
-kirby,george,-1,george kirby
+kirby,george,25436,george kirby
 kirby,jim,1006961,jim kirby
 kirby,john,1006962,john kirby
 kirby,ken,-1,ken kirby
@@ -11658,7 +11710,7 @@ koehler,tom,6570,tom koehler
 koelling,brian,1007075,brian koelling
 koenecke,len,1007076,len koenecke
 koenig,fred,-1,fred koenig
-koenig,jared,-1,jared koenig
+koenig,jared,27517,jared koenig
 koenig,mark,1007077,mark koenig
 koenigsmark,will,1007078,will koenigsmark
 koerner,brody,17748,brody koerner
@@ -11674,7 +11726,7 @@ kolb,danny,1257,danny kolb
 kolb,eddie,1007085,eddie kolb
 kolb,gary,1007086,gary kolb
 kolloway,don,1007087,don kolloway
-kolozsvary,mark,-1,mark kolozsvary
+kolozsvary,mark,21304,mark kolozsvary
 kolp,ray,1007088,ray kolp
 kolseth,karl,1007089,karl kolseth
 kolstad,hal,1007090,hal kolstad
@@ -11767,6 +11819,7 @@ kreeger,frank,1007150,frank kreeger
 kreevich,mike,1007151,mike kreevich
 krehbiel,joey,13707,joey krehbiel
 krehmeyer,charlie,1007152,charlie krehmeyer
+kreidler,ryan,25867,ryan kreidler
 kreitner,mickey,1007153,mickey kreitner
 kreitz,ralph,1007154,ralph kreitz
 kremer,dean,19350,dean kremer
@@ -11786,7 +11839,7 @@ krieger,kurt,1007166,kurt krieger
 kriske,brooks,21189,brooks kriske
 krist,howie,1007167,howie krist
 krivda,rick,1007168,rick krivda
-krizan,jason,-1,jason krizan
+krizan,jason,12394,jason krizan
 krock,gus,1007169,gus krock
 kroeger,josh,2205,josh kroeger
 kroenke,zach,4383,zach kroenke
@@ -11864,7 +11917,7 @@ kutzler,jerry,1007225,jerry kutzler
 kuwata,masumi,7782,masumi kuwata
 kuzava,bob,1007226,bob kuzava
 kvasnak,al,1007227,al kvasnak
-kwan,steven,-1,steven kwan
+kwan,steven,24610,steven kwan
 kyle,andy,1007228,andy kyle
 kyles,stan,-1,stan kyles
 la stella,tommy,12371,tommy la stella
@@ -11927,6 +11980,7 @@ ladd,pete,1007245,pete ladd
 lade,doyle,1007246,doyle lade
 ladendorf,tyler,3211,tyler ladendorf
 ladew,steve,1007247,steve ladew
+ladwig,a. j.,16266,a. j. ladwig
 lafata,joe,1007248,joe lafata
 lafferty,flip,1007249,flip lafferty
 laffey,aaron,6248,aaron laffey
@@ -12030,6 +12084,7 @@ lange,bill,1007315,bill lange
 lange,dick,1007316,dick lange
 lange,erv,1007317,erv lange
 lange,frank,1007318,frank lange
+langeliers,shea,25816,shea langeliers
 langerhans,ryan,98,ryan langerhans
 langford,rick,1007319,rick langford
 langford,sam,1007320,sam langford
@@ -12081,6 +12136,7 @@ laroche,adam,1904,adam laroche
 laroche,andy,6444,andy laroche
 laroche,dave,1007354,dave laroche
 larsen,don,1007359,don larsen
+larsen,jack,20510,jack larsen
 larsen,swede,1007360,swede larsen
 larson,brandon,336,brandon larson
 larson,dan,1007361,dan larson
@@ -12121,7 +12177,7 @@ lauzon,jacques,-1,jacques lauzon
 lavagetto,cookie,1007386,cookie lavagetto
 lavan,doc,1007388,doc lavan
 lavarnway,ryan,8879,ryan lavarnway
-lavastida,bryan,-1,bryan lavastida
+lavastida,bryan,24765,bryan lavastida
 lavelle,gary,1007389,gary lavelle
 lavender,jimmy,1007390,jimmy lavender
 lavigne,art,1007391,art lavigne
@@ -12170,6 +12226,7 @@ lazo,raudel,14077,raudel lazo
 lazor,johnny,1007421,johnny lazor
 lazorko,jack,1007420,jack lazorko
 lazzeri,tony,1007422,tony lazzeri
+leblanc,charles,19813,charles leblanc
 leblanc,josé,-1,josé leblanc
 leblanc,wade,5221,wade leblanc
 leclair,george,1007442,george leclair
@@ -12214,6 +12271,7 @@ leary,tim,1007438,tim leary
 leathers,hal,1007439,hal leathers
 leathersich,jack,12562,jack leathersich
 leber,emil,1007440,emil leber
+leblanc,charles,19813,charles leblanc
 leblanc,josé,-1,josé leblanc
 leblanc,wade,5221,wade leblanc
 lebourveau,bevo,1007441,bevo lebourveau
@@ -12245,11 +12303,11 @@ lee,derrek,525,derrek lee
 lee,don,1007453,don lee
 lee,dud,1007454,dud lee
 lee,dylan,19996,dylan lee
-lee,evan,-1,evan lee
+lee,evan,24988,evan lee
 lee,hal,1007455,hal lee
 lee,jason,-1,jason lee
 lee,khalil,19952,khalil lee
-lee,korey,-1,korey lee
+lee,korey,25543,korey lee
 lee,leonidas,1007457,leonidas lee
 lee,leron,1007458,leron lee
 lee,manuel,1007460,manuel lee
@@ -12319,7 +12377,7 @@ lemaster,johnnie,1007513,johnnie lemaster
 lemay,dick,1007514,dick lemay
 lembo,steve,1007515,steve lembo
 lemke,mark,1007516,mark lemke
-lemoine,jacob,-1,jacob lemoine
+lemoine,jacob,19785,jacob lemoine
 lemon,bob,1007517,bob lemon
 lemon,chet,1007518,chet lemon
 lemon,jim,1007520,jim lemon
@@ -12380,6 +12438,7 @@ leslie,roy,1007558,roy leslie
 leslie,sam,1007559,sam leslie
 lester,,-1,
 lester,jon,4930,jon lester
+lester,josh,17737,josh lester
 letchas,charlie,1007560,charlie letchas
 letcher,tom,1007561,tom letcher
 lett,jim,-1,jim lett
@@ -12430,7 +12489,7 @@ lewis,milton,-1,milton lewis
 lewis,phil,1007586,phil lewis
 lewis,richie,1007587,richie lewis
 lewis,rommie,3588,rommie lewis
-lewis,royce,-1,royce lewis
+lewis,royce,20437,royce lewis
 lewis,rufus,-1,rufus lewis
 lewis,scott,1007588,scott lewis
 lewis,scott,7322,scott lewis
@@ -12445,8 +12504,9 @@ lezcano,carlos,1007592,carlos lezcano
 lezcano,sixto,1007593,sixto lezcano
 lipetri,angelo,1007644,angelo lipetri
 libby,steve,1007594,steve libby
+liberato,luis,17307,luis liberato
 liberatore,adam,10637,adam liberatore
-liberatore,matthew,-1,matthew liberatore
+liberatore,matthew,22294,matthew liberatore
 libka,john,-1,john libka
 libke,al,1007595,al libke
 libran,frankie,1007596,frankie libran
@@ -12558,6 +12618,7 @@ lister,pete,1007656,pete lister
 litsch,jesse,3688,jesse litsch
 littell,mark,1007657,mark littell
 littell,zack,15823,zack littell
+little,brendon,21574,brendon little
 little,bryan,1007658,bryan little
 little,earl,-1,earl little
 little,grady,-1,grady little
@@ -12631,7 +12692,7 @@ lockman,whitey,1007694,whitey lockman
 lockwood,milo,1007695,milo lockwood
 lockwood,skip,1007696,skip lockwood
 lodigiani,dario,1007697,dario lodigiani
-lodolo,nick,-1,nick lodolo
+lodolo,nick,26378,nick lodolo
 loe,kameron,4422,kameron loe
 loepp,george,1007698,george loepp
 loes,billy,1007699,billy loes
@@ -12649,7 +12710,7 @@ logan,johnny,1007705,johnny logan
 logan,nick,-1,nick logan
 logan,nook,2076,nook logan
 loggins,,-1,
-logue,zach,-1,zach logue
+logue,zach,20231,zach logue
 lohman,pete,1007706,pete lohman
 lohr,howard,1007707,howard lohr
 lohrke,jack,1007708,jack lohrke
@@ -12714,7 +12775,7 @@ loos,pete,1007746,pete loos
 lopat,eddie,1007748,eddie lopat
 lopata,stan,1007749,stan lopata
 lopatka,art,1007747,art lopatka
-lopes,christian,-1,christian lopes
+lopes,christian,13472,christian lopes
 lopes,davey,1007750,davey lopes
 lopes,tim,14137,tim lopes
 lopez,al,1007751,al lopez
@@ -12973,7 +13034,7 @@ mackenzie,eric,1007917,eric mackenzie
 mackenzie,gordon,1007918,gordon mackenzie
 mackenzie,ken,1007919,ken mackenzie
 mackin,john,-1,john mackin
-mackinnon,david,-1,david mackinnon
+mackinnon,david,19625,david mackinnon
 maclane,evan,5576,evan maclane
 macleod,billy,1007930,billy macleod
 macphail,larry,-1,larry macphail
@@ -13061,7 +13122,7 @@ madrid,alex,1007958,alex madrid
 madrid,sal,1007959,sal madrid
 madrigal,nick,20521,nick madrigal
 madrigal,warner,6419,warner madrigal
-madris,bligh,-1,bligh madris
+madris,bligh,20054,bligh madris
 madritsch,bobby,2085,bobby madritsch
 madson,ryan,1852,ryan madson
 maduro,calvin,151,calvin maduro
@@ -13294,7 +13355,7 @@ margot,manuel,14712,manuel margot
 marichal,juan,1008106,juan marichal
 marimon,sugar ray,6027,sugar ray marimon
 marin,oscar,-1,oscar marin
-marinaccio,ron,-1,ron marinaccio
+marinaccio,ron,23488,ron marinaccio
 marino,jimmy,-1,jimmy marino
 marion,dan,1008107,dan marion
 marion,marty,1008108,marty marion
@@ -13325,6 +13386,7 @@ maroth,mike,1508,mike maroth
 marquard,rube,1008125,rube marquard
 marquardt,ollie,1008123,ollie marquardt
 marquez,alfonso,-1,alfonso marquez
+marquez,brailyn,21896,brailyn marquez
 marquez,german,15038,german marquez
 marquez,gonzalo,1008119,gonzalo marquez
 marquez,isidro,1008120,isidro marquez
@@ -13383,7 +13445,7 @@ marte,luis,8651,luis marte
 marte,luis,14515,luis marte
 marte,starling,9241,starling marte
 marte,victor,5158,victor marte
-marte,yunior,-1,yunior marte
+marte,yunior,14416,yunior marte
 martell,doc,1008149,doc martell
 martes,francis,17303,francis martes
 martin,,-1,
@@ -13398,7 +13460,7 @@ martin,chris,11847,chris martin
 martin,clem,-1,clem martin
 martin,cody,12182,cody martin
 martin,corbin,19884,corbin martin
-martin,davis,-1,davis martin
+martin,davis,21448,davis martin
 martin,doc,1008162,doc martin
 martin,ethan,3877,ethan martin
 martin,felix,-1,felix martin
@@ -13434,7 +13496,7 @@ martin,stu,1008198,stu martin
 martin,tom,1219,tom martin
 martina,joe,1008176,joe martina
 martine,bruce,-1,bruce martine
-martinez,adrian,-1,adrian martinez
+martinez,adrian,21023,adrian martinez
 martinez,anastacio,1944,anastacio martinez
 martinez,buck,1008156,buck martinez
 martinez,carlos,1008158,carlos martinez
@@ -13513,7 +13575,7 @@ mason,roger,1008222,roger mason
 massa,gordon,1008223,gordon massa
 masset,nick,7267,nick masset
 massey,bill,1008224,bill massey
-massey,michael,-1,michael massey
+massey,michael,27684,michael massey
 massey,mike,1008225,mike massey
 massey,morrow,-1,morrow massey
 massey,red,1008226,red massey
@@ -13524,6 +13586,7 @@ masterson,justin,2038,justin masterson
 masterson,paul,1008228,paul masterson
 masterson,walt,1008230,walt masterson
 mastny,tom,5768,tom mastny
+mastrobuoni,miles,20017,miles mastrobuoni
 mastroianni,darin,7316,darin mastroianni
 mata,frank,4230,frank mata
 mata,victor,1008232,victor mata
@@ -13561,7 +13624,7 @@ mathis,verdell,-1,verdell mathis
 mathisen,wyatt,14555,wyatt mathisen
 mathison,jimmy,1008243,jimmy mathison
 matias,john,1008245,john matias
-matijevic,j. j.,-1,j. j. matijevic
+matijevic,j. j.,20165,j. j. matijevic
 matlack,jon,1008246,jon matlack
 matlock,leroy,-1,leroy matlock
 maton,nick,21635,nick maton
@@ -13781,7 +13844,7 @@ mccartney,joseph,-1,joseph mccartney
 mccarton,frank,1008369,frank mccarton
 mccarty,dave,1462,dave mccarty
 mccarty,john,1008373,john mccarty
-mccarty,kirk,-1,kirk mccarty
+mccarty,kirk,20555,kirk mccarty
 mccarty,lew,1008376,lew mccarty
 mccarver,tim,1008378,tim mccarver
 mccaskill,kirk,1008382,kirk mccaskill
@@ -13912,7 +13975,7 @@ mcdonald,john,1008465,john mcdonald
 mcdonald,john,395,john mcdonald
 mcdonald,keith,1008467,keith mcdonald
 mcdonald,luther,-1,luther mcdonald
-mcdonald,mickey,-1,mickey mcdonald
+mcdonald,mickey,20533,mickey mcdonald
 mcdonald,tex,1008468,tex mcdonald
 mcdonald,webster,-1,webster mcdonald
 mcdonnell,jim,1008463,jim mcdonnell
@@ -13969,6 +14032,7 @@ mcgeachey,jack,1008505,jack mcgeachey
 mcgeary,mike,1008506,mike mcgeary
 mcgee,bill,1008507,bill mcgee
 mcgee,dan,1008510,dan mcgee
+mcgee,easton,22176,easton mcgee
 mcgee,frank,1008511,frank mcgee
 mcgee,jake,7550,jake mcgee
 mcgee,pat,1008512,pat mcgee
@@ -14331,7 +14395,7 @@ mele,sam,1008747,sam mele
 melendez,francisco,1008744,francisco melendez
 melendez,jose,1008745,jose melendez
 melendez,luis,1008746,luis melendez
-melendez,mj,-1,mj melendez
+melendez,mj,22197,mj melendez
 melhuse,adam,294,adam melhuse
 melillo,kevin,8278,kevin melillo
 melillo,ski,1008748,ski melillo
@@ -14366,6 +14430,7 @@ mendoza,ramiro,836,ramiro mendoza
 menechino,frank,931,frank menechino
 menefee,jock,1008763,jock menefee
 menendez,tony,1008764,tony menendez
+meneses,joey,14366,joey meneses
 menez,conner,19199,conner menez
 mengden,daniel,16980,daniel mengden
 menhart,paul,1008765,paul menhart
@@ -14466,7 +14531,7 @@ meyer,george,1008826,george meyer
 meyer,jack,1008828,jack meyer
 meyer,joey,1008829,joey meyer
 meyer,lee,1008831,lee meyer
-meyer,max,-1,max meyer
+meyer,max,27474,max meyer
 meyer,russ,1008833,russ meyer
 meyer,scott,1008834,scott meyer
 meyerle,levi,1008830,levi meyerle
@@ -14717,7 +14782,7 @@ mirabella,paul,1008989,paul mirabella
 mirabelli,doug,202,doug mirabelli
 miranda,angel,1008990,angel miranda
 miranda,ariel,17526,ariel miranda
-miranda,jose,-1,jose miranda
+miranda,jose,20538,jose miranda
 miranda,juan,7783,juan miranda
 miranda,willy,1008991,willy miranda
 misch,pat,5909,pat misch
@@ -14734,7 +14799,7 @@ mitchell,bobby,1008995,bobby mitchell
 mitchell,bobby,1008996,bobby mitchell
 mitchell,bryan,11479,bryan mitchell
 mitchell,bud,-1,bud mitchell
-mitchell,cal,-1,cal mitchell
+mitchell,cal,22169,cal mitchell
 mitchell,charles,-1,charles mitchell
 mitchell,charlie,1008997,charlie mitchell
 mitchell,clarence,1008998,clarence mitchell
@@ -14745,6 +14810,7 @@ mitchell,dale,1009000,dale mitchell
 mitchell,franklin,-1,franklin mitchell
 mitchell,fred,1009001,fred mitchell
 mitchell,g.,-1,g. mitchell
+mitchell,garrett,27555,garrett mitchell
 mitchell,george,-1,george mitchell
 mitchell,joe,-1,joe mitchell
 mitchell,john,1009003,john mitchell
@@ -14825,6 +14891,7 @@ moncrief,carlos,7511,carlos moncrief
 monday,rick,1009051,rick monday
 mondesí,adalberto,13769,adalberto mondesí
 mondesí,raul,1314,raul mondesí
+mondou,nate,19563,nate mondou
 monell,johnny,2783,johnny monell
 money,don,1009052,don money
 monge,sid,1009053,sid monge
@@ -14851,10 +14918,13 @@ montejo,manny,1009066,manny montejo
 monteleone,rich,1009068,rich monteleone
 montemayor,felipe,1009064,felipe montemayor
 montero,agustin,2268,agustin montero
-montero,elehuris,-1,elehuris montero
+montero,elehuris,20543,elehuris montero
 montero,jesus,5514,jesus montero
 montero,miguel,3364,miguel montero
 montero,rafael,12760,rafael montero
+montes de oca,bryce,21319,bryce montes de oca
+montes de oca,bryce,21319,bryce montes de oca
+montes de oca,bryce,21319,bryce montes de oca
 montgomery,,-1,
 montgomery,al,1009069,al montgomery
 montgomery,bob,1009070,bob montgomery
@@ -14951,7 +15021,7 @@ mora,andres,1009136,andres mora
 mora,melvin,157,melvin mora
 moraga,david,1009137,david moraga
 morales,cándido,-1,cándido morales
-morales,francisco,-1,francisco morales
+morales,francisco,22913,francisco morales
 morales,franklin,5088,franklin morales
 morales,gabe,-1,gabe morales
 morales,jerry,1009138,jerry morales
@@ -14986,7 +15056,7 @@ morehead,dave,1009156,dave morehead
 morehead,seth,1009158,seth morehead
 morejon,danny,1009159,danny morejon
 morel,brent,6402,brent morel
-morel,christopher,-1,christopher morel
+morel,christopher,21897,christopher morel
 morel,ramon,1009162,ramon morel
 moreland,keith,1009161,keith moreland
 moreland,mitch,3086,mitch moreland
@@ -14997,7 +15067,7 @@ moren,lew,1009166,lew moren
 moreno,angel,1009163,angel moreno
 moreno,diego,6238,diego moreno
 moreno,edwin,7993,edwin moreno
-moreno,gabriel,-1,gabriel moreno
+moreno,gabriel,22664,gabriel moreno
 moreno,jose,1009164,jose moreno
 moreno,juan,1465,juan moreno
 moreno,julio,1009165,julio moreno
@@ -15056,6 +15126,7 @@ morris,akeel,12185,akeel morris
 morris,al,-1,al morris
 morris,barney,-1,barney morris
 morris,bryan,10234,bryan morris
+morris,cody,25388,cody morris
 morris,danny,1009201,danny morris
 morris,doyt,1009202,doyt morris
 morris,ed,1009205,ed morris
@@ -15269,7 +15340,7 @@ murch,simmy,1009339,simmy murch
 murchison,tim,1009340,tim murchison
 murdoch,wilbur,1009341,wilbur murdoch
 murdock,,-1,
-murfee,penn,-1,penn murfee
+murfee,penn,25174,penn murfee
 murff,red,1009342,red murff
 murnane,tim,1009343,tim murnane
 murphy,,-1,
@@ -15360,7 +15431,7 @@ muser,tony,1009403,tony muser
 musgrave,harrison,16532,harrison musgrave
 musgraves,dennis,1009404,dennis musgraves
 musgrove,joe,12970,joe musgrove
-mushinski,parker,-1,parker mushinski
+mushinski,parker,21324,parker mushinski
 musial,stan,1009405,stan musial
 musselman,jeff,1009407,jeff musselman
 musselman,ron,1009409,ron musselman
@@ -15372,7 +15443,7 @@ mussina,mike,837,mike mussina
 mustaikis,alex,1009411,alex mustaikis
 mutis,jeff,1009412,jeff mutis
 mutrie,jim,-1,jim mutrie
-muzziotti,simon,-1,simon muzziotti
+muzziotti,simon,19553,simon muzziotti
 myatt,george,1009413,george myatt
 myatt,glenn,1009414,glenn myatt
 myer,buddy,1009415,buddy myer
@@ -15400,7 +15471,6 @@ myers,wil,10047,wil myers
 myette,aaron,1263,aaron myette
 myrick,bob,1009430,bob myrick
 myrow,brian,3702,brian myrow
-márquez,brailyn,21896,brailyn márquez
 márquez,luis,1008122,luis márquez
 nabholz,chris,1009431,chris nabholz
 nabors,jack,1009432,jack nabors
@@ -15418,7 +15488,7 @@ nagy,mike,1009439,mike nagy
 nagy,steve,1009440,steve nagy
 nahem,sam,1009441,sam nahem
 nahorodny,bill,1009442,bill nahorodny
-naile,james,-1,james naile
+naile,james,18186,james naile
 nakajima,hiroyuki,14446,hiroyuki nakajima
 nakamura,micheal,1734,micheal nakamura
 nakamura,norihiro,8786,norihiro nakamura
@@ -15439,6 +15509,7 @@ napoli,mike,3057,mike napoli
 naquin,tyler,13359,tyler naquin
 naragon,hal,1009449,hal naragon
 naranjo,cholly,1009450,cholly naranjo
+nardi,andrew,25942,andrew nardi
 narleski,bill,1009451,bill narleski
 narleski,ray,1009452,ray narleski
 narron,jerry,1009453,jerry narron
@@ -15478,6 +15549,7 @@ navarro,rey,6008,rey navarro
 navarro,tito,1009467,tito navarro
 navarro,yamaico,5665,yamaico navarro
 navas,jose,-1,jose navas
+naylor,bo,21865,bo naylor
 naylor,earl,1009469,earl naylor
 naylor,josh,18839,josh naylor
 naylor,rollie,1009470,rollie naylor
@@ -15549,6 +15621,7 @@ nelson,ricky,1009509,ricky nelson
 nelson,rob,1009512,rob nelson
 nelson,rocky,1009510,rocky nelson
 nelson,roger,1009511,roger nelson
+nelson,ryne,26253,ryne nelson
 nelson,scott,-1,scott nelson
 nelson,tex,1009513,tex nelson
 nelson,tommy,1009514,tommy nelson
@@ -15877,7 +15950,9 @@ o'hara,bill,1009751,bill o'hara
 o'hara,kid,1009752,kid o'hara
 o'hara,tom,1009753,tom o'hara
 o'hearn,ryan,16442,ryan o'hearn
+o'hoppe,logan,24729,logan o'hoppe
 o'keefe,,-1,
+o'keefe,brian,16680,brian o'keefe
 o'leary,charley,1009765,charley o'leary
 o'leary,dan,1009766,dan o'leary
 o'leary,troy,789,troy o'leary
@@ -15970,7 +16045,7 @@ oester,ron,1009739,ron oester
 offerman,jose,205,jose offerman
 office,rowland,1009741,rowland office
 ogando,alexi,10261,alexi ogando
-ogando,cristofer,-1,cristofer ogando
+ogando,cristofer,20667,cristofer ogando
 ogando,nefi,12253,nefi ogando
 ogden,curly,1009742,curly ogden
 ogden,jack,1009743,jack ogden
@@ -15993,7 +16068,7 @@ ojeda,bob,1009756,bob ojeda
 ojeda,miguel,1712,miguel ojeda
 okajima,hideki,7763,hideki okajima
 okert,steven,13580,steven okert
-okey,chris,-1,chris okey
+okey,chris,19245,chris okey
 okrie,frank,1009757,frank okrie
 okrie,len,1009758,len okrie
 olander,jim,1009759,jim olander
@@ -16032,7 +16107,7 @@ oliveros,lester,9167,lester oliveros
 olivo,chi-chi,1009781,chi-chi olivo
 olivo,diomedes,1009782,diomedes olivo
 olivo,miguel,1638,miguel olivo
-oller,adam,-1,adam oller
+oller,adam,20132,adam oller
 ollom,jim,1009783,jim ollom
 olmedo,ray,1718,ray olmedo
 olmo,luis,1009784,luis olmo
@@ -16115,6 +16190,7 @@ ortiz,jose,442,jose ortiz
 ortiz,junior,1009861,junior ortiz
 ortiz,luis,16942,luis ortiz
 ortiz,luis,1009862,luis ortiz
+ortiz,luis,27646,luis ortiz
 ortiz,rafaelito,-1,rafaelito ortiz
 ortiz,ramon,27,ramon ortiz
 ortiz,roberto,-1,roberto ortiz
@@ -16181,6 +16257,7 @@ ouellette,phil,1009906,phil ouellette
 oulliber,johnny,1009907,johnny oulliber
 outen,chink,1009908,chink outen
 outlaw,jimmy,1009909,jimmy outlaw
+outman,james,24770,james outman
 outman,josh,4004,josh outman
 overall,orval,1009910,orval overall
 overbay,lyle,1617,lyle overbay
@@ -16261,6 +16338,7 @@ padgett,ernie,1009946,ernie padgett
 padilla,joe,-1,joe padilla
 padilla,jorge,2054,jorge padilla
 padilla,juan,2532,juan padilla
+padilla,nicholas,21327,nicholas padilla
 padilla,vicente,964,vicente padilla
 padlo,kevin,16593,kevin padlo
 paepke,dennis,1009947,dennis paepke
@@ -16288,17 +16366,17 @@ paige,pat,1009961,pat paige
 paige,satchel,1009962,satchel paige
 paine,phil,1009963,phil paine
 painter,lance,1675,lance painter
-palacios,jermaine,-1,jermaine palacios
+palacios,jermaine,18371,jermaine palacios
 palacios,josh,19818,josh palacios
 palacios,rey,1009964,rey palacios
-palacios,richie,-1,richie palacios
+palacios,richie,24589,richie palacios
 palacios,vicente,1009965,vicente palacios
 palagyi,mike,1009966,mike palagyi
 palermo,steve,-1,steve palermo
 palica,erv,1009967,erv palica
 palka,daniel,14897,daniel palka
 pall,donn,1009968,donn pall
-pallante,andre,-1,andre pallante
+pallante,andre,26108,andre pallante
 palm,bob,-1,bob palm
 palm,clarence,-1,clarence palm
 palm,mike,1009976,mike palm
@@ -16332,7 +16410,7 @@ pape,ken,1009983,ken pape
 pape,larry,1009984,larry pape
 papelbon,jonathan,5975,jonathan papelbon
 papi,stan,1009986,stan papi
-papierski,michael,-1,michael papierski
+papierski,michael,21386,michael papierski
 papish,frank,1009985,frank papish
 pappalau,john,1009988,john pappalau
 pappas,erik,1009987,erik pappas
@@ -16434,7 +16512,7 @@ pashnick,larry,1010041,larry pashnick
 paskert,dode,1010042,dode paskert
 pasley,kevin,1010043,kevin pasley
 pasqua,dan,1010044,dan pasqua
-pasquantino,vinnie,-1,vinnie pasquantino
+pasquantino,vinnie,27676,vinnie pasquantino
 pasquella,mike,1010045,mike pasquella
 passarella,art,-1,art passarella
 passeau,claude,1010046,claude passeau
@@ -16583,7 +16661,7 @@ peguero,elvis,21652,elvis peguero
 peguero,francisco,5496,francisco peguero
 peguero,jailen,2913,jailen peguero
 peguero,julio,1010129,julio peguero
-peguero,liover,-1,liover peguero
+peguero,liover,24273,liover peguero
 pegues,steve,1010130,steve pegues
 peitz,heinie,1010131,heinie peitz
 peitz,joe,1010132,joe peitz
@@ -16611,7 +16689,7 @@ pena,elvis,1010143,elvis pena
 pena,francisco,8298,francisco pena
 pena,geronimo,1010144,geronimo pena
 pena,hipolito,1010145,hipolito pena
-pena,jeremy,-1,jeremy pena
+pena,jeremy,21636,jeremy pena
 pena,jesus,1010146,jesus pena
 pena,jim,1010147,jim pena
 pena,jose,1010148,jose pena
@@ -16644,7 +16722,7 @@ penson,paul,1010164,paul penson
 pentland,jeff,-1,jeff pentland
 pentz,gene,1010165,gene pentz
 peoples,jimmy,1010166,jimmy peoples
-pepiot,ryan,-1,ryan pepiot
+pepiot,ryan,26221,ryan pepiot
 pepitone,joe,1010167,joe pepitone
 peploski,henry,1010168,henry peploski
 peploski,pepper,1010169,pepper peploski
@@ -16661,6 +16739,7 @@ peralta,wandy,14295,wandy peralta
 peralta,wily,7738,wily peralta
 peraza,jose,13593,jose peraza
 peraza,luis,1010175,luis peraza
+peraza,oswald,22823,oswald peraza
 peraza,oswaldo,1010176,oswaldo peraza
 percival,troy,29,troy percival
 perconte,jack,1010177,jack perconte
@@ -16674,6 +16753,7 @@ perez,antonio,1708,antonio perez
 perez,audry,9176,audry perez
 perez,beltran,2116,beltran perez
 perez,carlos,10642,carlos perez
+perez,carlos,20805,carlos perez
 perez,carlos,1010179,carlos perez
 perez,chris,5213,chris perez
 perez,danny,1010180,danny perez
@@ -16686,7 +16766,7 @@ perez,francisco,21018,francisco perez
 perez,george,1010181,george perez
 perez,hector,18592,hector perez
 perez,hernan,5751,hernan perez
-perez,joe,-1,joe perez
+perez,joe,22254,joe perez
 perez,juan,5371,juan perez
 perez,juan,2557,juan perez
 perez,luis,6389,luis perez
@@ -16966,7 +17046,7 @@ piktuzis,george,1010348,george piktuzis
 pilarcik,al,1010349,al pilarcik
 pilato,mike,-1,mike pilato
 pilittere,p. j.,-1,p. j. pilittere
-pilkington,konnor,-1,konnor pilkington
+pilkington,konnor,21453,konnor pilkington
 pill,brett,5834,brett pill
 pill,tyler,12751,tyler pill
 pillar,kevin,12434,kevin pillar
@@ -16980,6 +17060,7 @@ pina,horacio,1010354,horacio pina
 pina,manny,2829,manny pina
 pinder,branden,12093,branden pinder
 pinder,chad,15191,chad pinder
+pineda,israel,22906,israel pineda
 pineda,luis,346,luis pineda
 pineda,michael,5372,michael pineda
 pineiro,joel,1094,joel pineiro
@@ -16993,7 +17074,7 @@ pino,yohan,6955,yohan pino
 pinson,vada,1010360,vada pinson
 pinto,josmil,6806,josmil pinto
 pinto,lerton,1010361,lerton pinto
-pinto,rene,-1,rene pinto
+pinto,rene,19859,rene pinto
 pinto,renyel,2180,renyel pinto
 pinto,ricardo,16318,ricardo pinto
 pipgras,ed,1010362,ed pipgras
@@ -17029,6 +17110,7 @@ plantenberg,erik,1010387,erik plantenberg
 plantier,phil,1010388,phil plantier
 plarski,don,1010389,don plarski
 plaskett,elmo,1010390,elmo plaskett
+plassmeyer,michael,23191,michael plassmeyer
 platt,whitey,1010392,whitey platt
 platte,al,1010391,al platte
 plawecki,kevin,13807,kevin plawecki
@@ -17043,7 +17125,7 @@ plock,walter,1010397,walter plock
 plodinec,tim,1010398,tim plodinec
 plouffe,trevor,7462,trevor plouffe
 plummer,bill,1010399,bill plummer
-plummer,nick,-1,nick plummer
+plummer,nick,18690,nick plummer
 plunk,eric,1010400,eric plunk
 plutko,adam,15846,adam plutko
 plympton,jeff,1010401,jeff plympton
@@ -17231,7 +17313,7 @@ pratt,larry,1010514,larry pratt
 pratt,lester,-1,lester pratt
 pratt,todd,968,todd pratt
 pratt,tom,1010515,tom pratt
-pratto,nick,-1,nick pratto
+pratto,nick,22117,nick pratto
 pregenzer,john,1010516,john pregenzer
 preibisch,mel,1010517,mel preibisch
 prendergast,jim,1010518,jim prendergast
@@ -17275,6 +17357,7 @@ prior,mark,301,mark prior
 pritchard,buddy,1010540,buddy pritchard
 pritchett,chris,1010541,chris pritchett
 pritchett,wilbert,-1,wilbert pritchett
+proctor,ford,21634,ford proctor
 proctor,george,-1,george proctor
 proctor,jim,1010542,jim proctor
 proctor,red,1010543,red proctor
@@ -17404,6 +17487,7 @@ quinton,marshall,1010618,marshall quinton
 quirico,rafael,1010619,rafael quirico
 quirk,art,1010620,art quirk
 quirk,jamie,1010621,jamie quirk
+quiroz,esteban,19780,esteban quiroz
 quiroz,guillermo,7989,guillermo quiroz
 quisenberry,dan,1010622,dan quisenberry
 raabe,brian,1010623,brian raabe
@@ -17443,6 +17527,7 @@ rafter,jack,1010648,jack rafter
 raftery,tom,1010649,tom raftery
 ragan,pat,1010650,pat ragan
 ragan,rip,-1,rip ragan
+ragans,cole,21846,cole ragans
 raggio,brady,1750,brady raggio
 ragland,frank,1010651,frank ragland
 ragland,herlen,-1,herlen ragland
@@ -17513,7 +17598,7 @@ ramos,chucho,1010676,chucho ramos
 ramos,domingo,1010677,domingo ramos
 ramos,edgar,1010678,edgar ramos
 ramos,edubray,16086,edubray ramos
-ramos,heliot,-1,heliot ramos
+ramos,heliot,22515,heliot ramos
 ramos,henry,11481,henry ramos
 ramos,john,1010679,john ramos
 ramos,ken,1010680,ken ramos
@@ -17813,7 +17898,7 @@ reyes,argenis,3285,argenis reyes
 reyes,cananea,-1,cananea reyes
 reyes,carlos,1721,carlos reyes
 reyes,dennys,444,dennys reyes
-reyes,denyi,-1,denyi reyes
+reyes,denyi,20526,denyi reyes
 reyes,franmil,14566,franmil reyes
 reyes,gerardo,16306,gerardo reyes
 reyes,gil,1010858,gil reyes
@@ -18117,7 +18202,7 @@ roberts,dave,1011029,dave roberts
 roberts,dave,1011032,dave roberts
 roberts,dave,670,dave roberts
 roberts,dave,1011031,dave roberts
-roberts,ethan,-1,ethan roberts
+roberts,ethan,24930,ethan roberts
 roberts,grant,894,grant roberts
 roberts,jim,1011037,jim roberts
 roberts,kenny,10938,kenny roberts
@@ -18149,7 +18234,7 @@ robertson,gene,1011035,gene robertson
 robertson,jeriome,1619,jeriome robertson
 robertson,jerry,1011036,jerry robertson
 robertson,jim,1011038,jim robertson
-robertson,kramer,-1,kramer robertson
+robertson,kramer,20022,kramer robertson
 robertson,mike,1011041,mike robertson
 robertson,nate,1620,nate robertson
 robertson,rich,1011045,rich robertson
@@ -18172,6 +18257,7 @@ robinson,bruce,1011056,bruce robinson
 robinson,charles,-1,charles robinson
 robinson,charlie,1011057,charlie robinson
 robinson,chris,3443,chris robinson
+robinson,chuckie,19824,chuckie robinson
 robinson,clint,6908,clint robinson
 robinson,craig,1011058,craig robinson
 robinson,dave,1011059,dave robinson
@@ -18256,7 +18342,7 @@ rodriguez,eduardo,13164,eduardo rodriguez
 rodriguez,eduardo,1011102,eduardo rodriguez
 rodriguez,edwin,1011103,edwin rodriguez
 rodriguez,ellie,1011104,ellie rodriguez
-rodriguez,elvin,-1,elvin rodriguez
+rodriguez,elvin,20962,elvin rodriguez
 rodriguez,felix,1127,felix rodriguez
 rodriguez,fernando,7558,fernando rodriguez
 rodriguez,francisco,1642,francisco rodriguez
@@ -18275,7 +18361,7 @@ rodriguez,joely,11487,joely rodriguez
 rodriguez,john,2338,john rodriguez
 rodriguez,jose,1180,jose rodriguez
 rodriguez,josh,5716,josh rodriguez
-rodriguez,julio,-1,julio rodriguez
+rodriguez,julio,23697,julio rodriguez
 rodriguez,liu,1011109,liu rodriguez
 rodriguez,luis,2364,luis rodriguez
 rodriguez,nerio,403,nerio rodriguez
@@ -18299,6 +18385,7 @@ rodriguez,vic,1011116,vic rodriguez
 rodriguez,wandy,2586,wandy rodriguez
 rodriguez,wilfredo,1011117,wilfredo rodriguez
 rodriguez,wilking,8801,wilking rodriguez
+rodriguez,yerry,21955,yerry rodriguez
 rodriguez,yorman,9922,yorman rodriguez
 rodríguez,antonio,-1,antonio rodríguez
 rodríguez,bernardo,-1,bernardo rodríguez
@@ -18415,7 +18502,7 @@ romero,ramon,1011172,ramon romero
 romero,ricky,3403,ricky romero
 romero,seth,21333,seth romero
 romero,stefen,11746,stefen romero
-romero,tommy,-1,tommy romero
+romero,tommy,23465,tommy romero
 romine,andrew,1159,andrew romine
 romine,austin,5491,austin romine
 romine,kevin,1011173,kevin romine
@@ -18458,6 +18545,7 @@ rosar,buddy,1011194,buddy rosar
 rosario,alberto,7125,alberto rosario
 rosario,amed,15518,amed rosario
 rosario,eddie,12155,eddie rosario
+rosario,eguy,19964,eguy rosario
 rosario,jimmy,1011195,jimmy rosario
 rosario,melvin,1011196,melvin rosario
 rosario,randy,14508,randy rosario
@@ -18485,7 +18573,7 @@ rosen,goody,1011209,goody rosen
 rosenbaum,glen,-1,glen rosenbaum
 rosenberg,b. j.,7183,b. j. rosenberg
 rosenberg,harry,1011210,harry rosenberg
-rosenberg,kenny,-1,kenny rosenberg
+rosenberg,kenny,20009,kenny rosenberg
 rosenberg,lou,1011212,lou rosenberg
 rosenberg,randy,-1,randy rosenberg
 rosenberg,steve,1011215,steve rosenberg
@@ -18523,7 +18611,7 @@ ross,william,-1,william ross
 rosscup,zac,9419,zac rosscup
 rosselli,joe,1011228,joe rosselli
 rossi,joe,1011232,joe rossi
-rossman,bubby,-1,bubby rossman
+rossman,bubby,17179,bubby rossman
 rossman,claude,1011234,claude rossman
 rosso,frank,1011235,frank rosso
 rosso,ramon,20368,ramon rosso
@@ -18626,7 +18714,7 @@ ruiz,carlos,2579,carlos ruiz
 ruiz,chico,1011299,chico ruiz
 ruiz,chico,1011298,chico ruiz
 ruiz,chris,-1,chris ruiz
-ruiz,esteury,-1,esteury ruiz
+ruiz,esteury,21780,esteury ruiz
 ruiz,jose,14552,jose ruiz
 ruiz,keibert,19610,keibert ruiz
 ruiz,randy,2761,randy ruiz
@@ -18690,7 +18778,7 @@ rutherford,johnny,1011329,johnny rutherford
 ruthven,dick,1011330,dick ruthven
 rutledge,josh,11167,josh rutledge
 rutner,mickey,1011331,mickey rutner
-rutschman,adley,-1,adley rutschman
+rutschman,adley,26288,adley rutschman
 ryal,mark,1011332,mark ryal
 ryal,rusty,9698,rusty ryal
 ryan,b. j.,168,b. j. ryan
@@ -18864,7 +18952,7 @@ sanders,deion,1011415,deion sanders
 sanders,john,1011416,john sanders
 sanders,ken,1011417,ken sanders
 sanders,leo,-1,leo sanders
-sanders,phoenix,-1,phoenix sanders
+sanders,phoenix,20541,phoenix sanders
 sanders,ray,1011418,ray sanders
 sanders,reggie,1129,reggie sanders
 sanders,reggie,1011419,reggie sanders
@@ -18881,7 +18969,8 @@ sandoval,freddy,6863,freddy sandoval
 sandoval,pablo,5409,pablo sandoval
 sandoval,patrick,19447,patrick sandoval
 sands,charlie,1011427,charlie sands
-sands,cole,-1,cole sands
+sands,cole,21461,cole sands
+sands,donny,18603,donny sands
 sands,jerry,4016,jerry sands
 sandt,tommy,1011428,tommy sandt
 sanford,chance,1011429,chance sanford
@@ -19298,7 +19387,7 @@ seanez,rudy,1279,rudy seanez
 searage,ray,1011703,ray searage
 searcy,steve,1011704,steve searcy
 sears,john,-1,john sears
-sears,jp,-1,jp sears
+sears,jp,23429,jp sears
 sears,ken,1011705,ken sears
 sears,todd,1645,todd sears
 sears,ziggy,-1,ziggy sears
@@ -19316,7 +19405,7 @@ sedar,ed,-1,ed sedar
 seddon,chris,3833,chris seddon
 sedgwick,duke,1011714,duke sedgwick
 sedlacek,shawn,1519,shawn sedlacek
-sedlock,cody,-1,cody sedlock
+sedlock,cody,19357,cody sedlock
 see,charlie,1011715,charlie see
 see,larry,1011717,larry see
 seeds,bob,1011716,bob seeds
@@ -19383,13 +19472,13 @@ serrano,jimmy,2491,jimmy serrano
 serrano,wascar,1011754,wascar serrano
 serum,gary,1011755,gary serum
 servais,scott,1011756,scott servais
-serven,brian,-1,brian serven
+serven,brian,19422,brian serven
 service,scott,1684,scott service
 sessi,walter,1011757,walter sessi
 settlemire,merle,1011758,merle settlemire
 sevcik,john,1011759,john sevcik
 severeid,hank,1011761,hank severeid
-severino,anderson,-1,anderson severino
+severino,anderson,20582,anderson severino
 severino,atahualpa,5332,atahualpa severino
 severino,luis,15890,luis severino
 severino,pedro,14523,pedro severino
@@ -19651,6 +19740,7 @@ shumaker,anthony,1011943,anthony shumaker
 shuman,harry,1011944,harry shuman
 shumpert,terry,449,terry shumpert
 shupe,vince,1011945,vince shupe
+siani,michael,22557,michael siani
 sicking,ed,1011946,ed sicking
 siddall,joe,1011947,joe siddall
 siebern,norm,1011949,norm siebern
@@ -19680,7 +19770,7 @@ sigsby,seth,1011965,seth sigsby
 sikorski,brian,7603,brian sikorski
 silber,eddie,1011967,eddie silber
 silch,ed,1011968,ed silch
-silseth,chase,-1,chase silseth
+silseth,chase,30074,chase silseth
 silva,carlos,973,carlos silva
 silva,danny,1011969,danny silva
 silva,jose,354,jose silva
@@ -19838,7 +19928,7 @@ slusarski,joe,1012071,joe slusarski
 smajstrla,craig,1012072,craig smajstrla
 small,aaron,1477,aaron small
 small,charlie,1012073,charlie small
-small,ethan,-1,ethan small
+small,ethan,26364,ethan small
 small,hank,1012074,hank small
 small,jim,1012075,jim small
 small,mark,1012076,mark small
@@ -19902,7 +19992,7 @@ smith,caleb,14875,caleb smith
 smith,carl,-1,carl smith
 smith,carr,1012108,carr smith
 smith,carson,13172,carson smith
-smith,chad,-1,chad smith
+smith,chad,20190,chad smith
 smith,chad,13604,chad smith
 smith,charley,1012112,charley smith
 smith,charlie,-1,charlie smith
@@ -19998,7 +20088,7 @@ smith,john,1012167,john smith
 smith,johnny,-1,johnny smith
 smith,jordan,9515,jordan smith
 smith,josh,13629,josh smith
-smith,josh,-1,josh smith
+smith,josh,26396,josh smith
 smith,josh,10946,josh smith
 smith,jud,1012168,jud smith
 smith,keith,1012169,keith smith
@@ -20079,7 +20169,7 @@ smith,willie,-1,willie smith
 smith,willie,1012216,willie smith
 smith,wyman,-1,wyman smith
 smith,zane,1012218,zane smith
-smith-njigba,canaan,-1,canaan smith-njigba
+smith-njigba,canaan,23264,canaan smith-njigba
 smithberg,roger,1012203,roger smithberg
 smitherman,stephen,1758,stephen smitherman
 smithson,mike,1012181,mike smithson
@@ -20111,7 +20201,7 @@ snell,nate,1012228,nate snell
 snell,wally,1012229,wally snell
 snelling,chris,1480,chris snelling
 snelten,d. j.,15949,d. j. snelten
-snider,collin,-1,collin snider
+snider,collin,23307,collin snider
 snider,duke,1012230,duke snider
 snider,travis,2830,travis snider
 snider,van,1012231,van snider
@@ -20179,7 +20269,7 @@ solis,marcelino,1012267,marcelino solis
 solis,sammy,11457,sammy solis
 soliz,steve,-1,steve soliz
 solomon,eddie,1012268,eddie solomon
-solomon,jared,-1,jared solomon
+solomon,jared,23425,jared solomon
 solomon,mose,1012269,mose solomon
 solomon,peter,20476,peter solomon
 solters,moose,1012270,moose solters
@@ -20212,20 +20302,21 @@ sosa,henry,6936,henry sosa
 sosa,jorge,1228,jorge sosa
 sosa,jose,1012285,jose sosa
 sosa,juan,1012286,juan sosa
-sosa,lenyn,-1,lenyn sosa
+sosa,lenyn,22896,lenyn sosa
 sosa,sammy,302,sammy sosa
 sosa,victoriano,-1,victoriano sosa
 sothern,denny,1012287,denny sothern
-sothoron,allan,1012288,allan sothoron
+sothoron,allen,1012288,allen sothoron
 soto,elliot,11155,elliot soto
 soto,geovany,3707,geovany soto
 soto,giovanni,10330,giovanni soto
 soto,gregory,19677,gregory soto
 soto,juan,20123,juan soto
+soto,livan,22471,livan soto
 soto,mario,1012289,mario soto
 soto,neftali,5663,neftali soto
 souchock,bud,1012290,bud souchock
-sousa,bennett,-1,bennett sousa
+sousa,bennett,21345,bennett sousa
 southwick,clyde,1012293,clyde southwick
 southworth,bill,1012292,bill southworth
 southworth,billy,1012291,billy southworth
@@ -20473,9 +20564,10 @@ steels,jim,1012453,jim steels
 steen,bill,1012454,bill steen
 steengrafe,milt,1012456,milt steengrafe
 steenstra,kennie,1012455,kennie steenstra
+steer,spencer,26323,spencer steer
 steere,gene,1012457,gene steere
 steevens,morrie,1012458,morrie steevens
-stefanic,michael,-1,michael stefanic
+stefanic,michael,25353,michael stefanic
 stefero,john,1012459,john stefero
 stegman,dave,1012460,dave stegman
 stein,bill,1012463,bill stein
@@ -20552,6 +20644,7 @@ stevens,n.,-1,n. stevens
 stevens,r c,1012511,r c stevens
 stevens,robert,1012512,robert stevens
 stevenson,andrew,17932,andrew stevenson
+stevenson,cal,22411,cal stevenson
 stevenson,willie,-1,willie stevenson
 steverson,todd,1012513,todd steverson
 steward,,-1,
@@ -20657,7 +20750,7 @@ storie,howie,1012576,howie storie
 storke,alan,1012577,alan storke
 storti,lin,1012578,lin storti
 story,trevor,12564,trevor story
-stott,bryson,-1,bryson stott
+stott,bryson,26294,bryson stott
 stottlemyre,mel,1012579,mel stottlemyre
 stottlemyre,mel,1012580,mel stottlemyre
 stottlemyre,todd,75,todd stottlemyre
@@ -20672,7 +20765,7 @@ stovey,harry,1012586,harry stovey
 stoviak,ray,1012587,ray stoviak
 stowe,hal,1012589,hal stowe
 stowers,chris,1012588,chris stowers
-stowers,kyle,-1,kyle stowers
+stowers,kyle,26151,kyle stowers
 strahler,mike,1012591,mike strahler
 strahm,matt,13799,matt strahm
 strahs,dick,1012590,dick strahs
@@ -20741,7 +20834,7 @@ stroughter,steve,1012633,steve stroughter
 strunk,amos,1012634,amos strunk
 struss,steamboat,1012635,steamboat struss
 stryker,dutch,1012637,dutch stryker
-strzelecki,peter,-1,peter strzelecki
+strzelecki,peter,21367,peter strzelecki
 stuart,bill,1012638,bill stuart
 stuart,dick,1012639,dick stuart
 stuart,johnny,1012640,johnny stuart
@@ -20781,7 +20874,7 @@ suarez,jose,19911,jose suarez
 suarez,ken,1012662,ken suarez
 suarez,luis,1012663,luis suarez
 suarez,ranger,17277,ranger suarez
-suarez,robert,-1,robert suarez
+suarez,robert,30115,robert suarez
 subero,carlos,-1,carlos subero
 such,dick,1012664,dick such
 suche,charley,1012665,charley suche
@@ -20846,7 +20939,7 @@ sullivan,tom,1012716,tom sullivan
 sullivan,tom,1012714,tom sullivan
 sullivan,tom,1012715,tom sullivan
 sullivan,william,-1,william sullivan
-sulser,beau,-1,beau sulser
+sulser,beau,23420,beau sulser
 sulser,cole,15256,cole sulser
 summa,homer,1012717,homer summa
 summers,bill,-1,bill summers
@@ -20894,15 +20987,15 @@ sutton,ezra,1012746,ezra sutton
 sutton,john,1012747,john sutton
 sutton,larry,939,larry sutton
 sutton,leroy,-1,leroy sutton
-suwinski,jack,-1,jack suwinski
+suwinski,jack,22244,jack suwinski
 suzuki,ichiro,1101,ichiro suzuki
 suzuki,kurt,8259,kurt suzuki
 suzuki,mac,1485,mac suzuki
-suzuki,seiya,-1,seiya suzuki
+suzuki,seiya,30116,seiya suzuki
 sveum,dale,1012748,dale sveum
 swacina,harry,1012750,harry swacina
 swaggerty,bill,1012751,bill swaggerty
-swaggerty,travis,-1,travis swaggerty
+swaggerty,travis,24491,travis swaggerty
 swaim,cy,1012752,cy swaim
 swan,,-1,
 swan,andy,1012753,andy swan
@@ -20919,7 +21012,7 @@ swanson,evar,1012760,evar swanson
 swanson,karl,1012761,karl swanson
 swanson,red,1012762,red swanson
 swanson,stan,1012763,stan swanson
-swarmer,matt,-1,matt swarmer
+swarmer,matt,19705,matt swarmer
 swartwood,ed,1012766,ed swartwood
 swartz,bud,1012764,bud swartz
 swartz,monty,1012767,monty swartz
@@ -21030,6 +21123,7 @@ tappe,el,1012826,el tappe
 tappe,ted,1012827,ted tappe
 tarasco,tony,1486,tony tarasco
 tarbert,arlie,1012828,arlie tarbert
+tarnok,freddy,23324,freddy tarnok
 tarpley,stephen,15859,stephen tarpley
 tartabull,danny,1012829,danny tartabull
 tartabull,jose,1012830,jose tartabull
@@ -21216,7 +21310,7 @@ tesch,al,1012935,al tesch
 tesreau,jeff,1012936,jeff tesreau
 tessmer,jay,851,jay tessmer
 testa,nick,1012937,nick testa
-tetreault,jackson,-1,jackson tetreault
+tetreault,jackson,20565,jackson tetreault
 tettelbach,dick,1012938,dick tettelbach
 tettleton,mickey,1012939,mickey tettleton
 teufel,tim,1012940,tim teufel
@@ -21253,7 +21347,7 @@ thobe,j. j.,1012959,j. j. thobe
 thobe,tom,1012960,tom thobe
 thoenen,dick,1012961,dick thoenen
 thole,josh,9689,josh thole
-thomas,alek,-1,alek thomas
+thomas,alek,23792,alek thomas
 thomas,andres,1012962,andres thomas
 thomas,bill,1012964,bill thomas
 thomas,blaine,1012965,blaine thomas
@@ -21265,6 +21359,7 @@ thomas,charles,2962,charles thomas
 thomas,claude,1012969,claude thomas
 thomas,clete,3373,clete thomas
 thomas,clint,-1,clint thomas
+thomas,cody,19828,cody thomas
 thomas,dan,1012970,dan thomas
 thomas,dan,-1,dan thomas
 thomas,dan,-1,dan thomas
@@ -21330,6 +21425,7 @@ thompson,andrew,-1,andrew thompson
 thompson,andy,1013000,andy thompson
 thompson,bobby,1013002,bobby thompson
 thompson,brad,4911,brad thompson
+thompson,bubba,22261,bubba thompson
 thompson,danny,1013003,danny thompson
 thompson,daryl,6603,daryl thompson
 thompson,derek,2126,derek thompson
@@ -21382,7 +21478,7 @@ thompson,trayce,9952,trayce thompson
 thompson,tug,1013030,tug thompson
 thompson,will,1013031,will thompson
 thompson,zach,16094,zach thompson
-thompson,zack,-1,zack thompson
+thompson,zack,25918,zack thompson
 thoms,chris,-1,chris thoms
 thomson,bobby,1013032,bobby thomson
 thomson,john,453,john thomson
@@ -21489,6 +21585,7 @@ todd,jess,3805,jess todd
 todd,jim,1013097,jim todd
 todt,phil,1013098,phil todt
 toenes,hal,1013099,hal toenes
+toglia,michael,25845,michael toglia
 tolan,bobby,1013100,bobby tolan
 tolar,kevin,1009,kevin tolar
 tolbert,jake,-1,jake tolbert
@@ -21537,7 +21634,7 @@ toregas,wyatt,7471,wyatt toregas
 torgeson,earl,1013124,earl torgeson
 torian,lonnie,-1,lonnie torian
 torkelson,red,1013125,red torkelson
-torkelson,spencer,-1,spencer torkelson
+torkelson,spencer,27465,spencer torkelson
 toro,abraham,19844,abraham toro
 torphy,red,1013126,red torphy
 torre,frank,1013130,frank torre
@@ -21578,6 +21675,7 @@ toth,paul,1013140,paul toth
 touchstone,clay,1013141,clay touchstone
 toussaint,touki,16929,touki toussaint
 tovar,cesar,1013142,cesar tovar
+tovar,ezequiel,24064,ezequiel tovar
 tovar,wilfredo,10416,wilfredo tovar
 towers,josh,1489,josh towers
 towles,j. r.,7348,j. r. towles
@@ -21710,7 +21808,7 @@ tuero,oscar,1013216,oscar tuero
 tufts,bob,1013217,bob tufts
 tuiasosopo,matt,8272,matt tuiasosopo
 tuivailala,sam,13485,sam tuivailala
-tully,tanner,-1,tanner tully
+tully,tanner,19518,tanner tully
 tulowitzki,troy,3531,troy tulowitzki
 tumpane,john,-1,john tumpane
 tunison,william,-1,william tunison
@@ -21790,7 +21888,7 @@ uceta,edwin,20539,edwin uceta
 uchrinscko,jimmy,1013261,jimmy uchrinscko
 uecker,bob,1013262,bob uecker
 uehara,koji,9227,koji uehara
-uelmen,erich,-1,erich uelmen
+uelmen,erich,20323,erich uelmen
 uggla,dan,3442,dan uggla
 ugueto,luis,1400,luis ugueto
 uhalt,frenchy,1013263,frenchy uhalt
@@ -21959,11 +22057,13 @@ vargas,ildemaro,13324,ildemaro vargas
 vargas,jason,8044,jason vargas
 vargas,josé,-1,josé vargas
 vargas,kennys,12101,kennys vargas
+vargas,miguel,20178,miguel vargas
 vargas,roberto,1013368,roberto vargas
 vargas,tetelo,-1,tetelo vargas
 vargo,ed,-1,ed vargo
 vargus,bill,1013369,bill vargus
 varitek,jason,217,jason varitek
+varland,louie,27691,louie varland
 varner,buck,1013370,buck varner
 varney,dike,1013371,dike varney
 varney,pete,1013372,pete varney
@@ -21997,6 +22097,7 @@ vaughn,hippo,1013384,hippo vaughn
 vaughn,mo,899,mo vaughn
 vaughn,roy,1013386,roy vaughn
 vavra,joe,-1,joe vavra
+vavra,terrin,24400,terrin vavra
 vazquez,christian,9774,christian vazquez
 vazquez,felipe,12076,felipe vazquez
 vazquez,javier,801,javier vazquez
@@ -22059,7 +22160,7 @@ versalles,zoilo,1013417,zoilo versalles
 veryzer,tom,1013418,tom veryzer
 veselic,bob,1013419,bob veselic
 vesia,alex,25007,alex vesia
-vespi,nick,-1,nick vespi
+vespi,nick,21093,nick vespi
 vest,will,19769,will vest
 viau,lee,1013420,lee viau
 viciedo,dayán,3917,dayán viciedo
@@ -22071,10 +22172,11 @@ vico,sam,1013425,sam vico
 victorino,shane,1677,shane victorino
 vidal,jose,1013426,jose vidal
 vidro,jose,802,jose vidro
-vieaux,cam,-1,cam vieaux
+vieaux,cam,19529,cam vieaux
 vieira,thyago,14510,thyago vieira
 viele,justin,-1,justin viele
 vielma,engelb,15481,engelb vielma
+vientos,mark,22184,mark vientos
 vierling,matt,21558,matt vierling
 vilade,ryan,22165,ryan vilade
 villa,manuel,-1,manuel villa
@@ -22084,7 +22186,7 @@ villanueva,carlos,4138,carlos villanueva
 villanueva,christian,11738,christian villanueva
 villanueva,elih,8796,elih villanueva
 villanueva,hector,1013427,hector villanueva
-villar,david,-1,david villar
+villar,david,24782,david villar
 villar,henry,5360,henry villar
 villar,jonathan,10071,jonathan villar
 villarreal,brayan,5180,brayan villarreal
@@ -22202,6 +22304,7 @@ wahl,kermit,1013491,kermit wahl
 wainhouse,dave,1013492,dave wainhouse
 wainwright,adam,2233,adam wainwright
 waites,arnold,-1,arnold waites
+waites,cole,25665,cole waites
 waitkus,eddie,1013493,eddie waitkus
 waits,rick,1013494,rick waits
 waitt,charlie,1013495,charlie waitt
@@ -22219,6 +22322,7 @@ walden,fred,1013504,fred walden
 walden,george,-1,george walden
 walden,jordan,3271,jordan walden
 walden,marcus,8004,marcus walden
+waldichuk,ken,27681,ken waldichuk
 walding,larry,-1,larry walding
 walding,mitch,13006,mitch walding
 waldron,irv,1013505,irv waldron
@@ -22270,7 +22374,7 @@ walker,rube,-1,rube walker
 walker,rube,1013532,rube walker
 walker,shorty,-1,shorty walker
 walker,speed,1013533,speed walker
-walker,steele,-1,steele walker
+walker,steele,22093,steele walker
 walker,taijuan,11836,taijuan walker
 walker,tillie,1013534,tillie walker
 walker,todd,359,todd walker
@@ -22318,6 +22422,7 @@ waller,red,1013556,red waller
 waller,ty,1013557,ty waller
 walling,denny,1013559,denny walling
 wallis,joe,1013560,joe wallis
+wallner,matt,26466,matt wallner
 walls,,-1,
 walls,lee,1013563,lee walls
 walls,taylor,22458,taylor walls
@@ -22331,7 +22436,7 @@ walsh,dee,1013569,dee walsh
 walsh,ed,1013570,ed walsh
 walsh,ed,1013571,ed walsh
 walsh,frank,-1,frank walsh
-walsh,jake,-1,jake walsh
+walsh,jake,20227,jake walsh
 walsh,jared,18607,jared walsh
 walsh,jim,1013574,jim walsh
 walsh,jimmy,1013573,jimmy walsh
@@ -22354,6 +22459,7 @@ walters,dan,1013585,dan walters
 walters,fred,1013586,fred walters
 walters,ken,1013588,ken walters
 walters,mike,1013589,mike walters
+walters,nash,25413,nash walters
 walters,p. j.,9557,p. j. walters
 walters,roxy,1013590,roxy walters
 walters,zach,10622,zach walters
@@ -22474,6 +22580,7 @@ waterbury,steve,1013665,steve waterbury
 waterman,fred,1013663,fred waterman
 waters,,-1,
 waters,chris,7015,chris waters
+waters,drew,20505,drew waters
 waters,fred,1013664,fred waters
 waters,ted,-1,ted waters
 wathan,dusty,1648,dusty wathan
@@ -22611,6 +22718,7 @@ weiss,george,-1,george weiss
 weiss,joe,1013747,joe weiss
 weiss,walt,1013748,walt weiss
 weiss,zack,15444,zack weiss
+weissert,greg,20375,greg weissert
 welaj,johnny,1013749,johnny welaj
 welch,bob,1013750,bob welch
 welch,curt,1013751,curt welch
@@ -22636,7 +22744,7 @@ weller,steve,-1,steve weller
 wellman,bob,1013764,bob wellman
 wellman,brad,1013765,brad wellman
 wells,,-1,
-wells,alexander,19845,alexander wells
+wells,alex,19845,alex wells
 wells,bob,760,bob wells
 wells,casper,9700,casper wells
 wells,david,855,david wells
@@ -22667,7 +22775,7 @@ wendle,joey,13853,joey wendle
 wengert,don,1013777,don wengert
 wensloff,butch,1013778,butch wensloff
 wentz,jack,1013779,jack wentz
-wentz,joey,-1,joey wentz
+wentz,joey,19962,joey wentz
 wentzel,stan,1013780,stan wentzel
 wenz,fred,1013781,fred wenz
 wera,julie,1013782,julie wera
@@ -22688,6 +22796,7 @@ wertz,dwight,1013794,dwight wertz
 wertz,vic,1013795,vic wertz
 wesley,charles,-1,charles wesley
 wesley,edgar,-1,edgar wesley
+wesneski,hayden,27581,hayden wesneski
 wessinger,jim,1013796,jim wessinger
 wesson,barry,1552,barry wesson
 west,,-1,
@@ -22905,6 +23014,7 @@ wilber,del,1013936,del wilber
 wilborn,claude,1013937,claude wilborn
 wilborn,ted,1013938,ted wilborn
 wilcox,milt,1013939,milt wilcox
+wiles,collin,15106,collin wiles
 wiles,randy,1013940,randy wiles
 wiley,doc,-1,doc wiley
 wiley,fred,-1,fred wiley
@@ -23204,7 +23314,7 @@ wilson,justin,4301,justin wilson
 wilson,kris,636,kris wilson
 wilson,lefty,-1,lefty wilson
 wilson,les,1014093,les wilson
-wilson,marcus,-1,marcus wilson
+wilson,marcus,17910,marcus wilson
 wilson,max,1014094,max wilson
 wilson,mike,3806,mike wilson
 wilson,mike,1014095,mike wilson
@@ -23221,7 +23331,7 @@ wilson,red,1014102,red wilson
 wilson,roy,1014103,roy wilson
 wilson,squanto,1014104,squanto wilson
 wilson,steve,1014105,steve wilson
-wilson,steven,-1,steven wilson
+wilson,steven,20353,steven wilson
 wilson,tack,1014106,tack wilson
 wilson,tex,1014107,tex wilson
 wilson,tom,1328,tom wilson
@@ -23243,8 +23353,8 @@ winans,matt,-1,matt winans
 winceniak,ed,1014118,ed winceniak
 winchell,fred,1014119,fred winchell
 winchester,scott,1014120,scott winchester
-winckowski,josh,-1,josh winckowski
-winder,josh,-1,josh winder
+winckowski,josh,22387,josh winckowski
+winder,josh,24606,josh winder
 windhorn,gordie,1014121,gordie windhorn
 windle,bill,1014122,bill windle
 windsor,jason,8373,jason windsor
@@ -23314,7 +23424,7 @@ withrow,chris,7161,chris withrow
 withrow,corky,1014167,corky withrow
 withrow,frank,1014168,frank withrow
 witmeyer,ron,1014169,ron witmeyer
-witt,bobby,-1,bobby witt
+witt,bobby,25764,bobby witt
 witt,bobby,1014170,bobby witt
 witt,kevin,362,kevin witt
 witt,mike,1014174,mike witt
@@ -23423,8 +23533,9 @@ woods,ron,1014243,ron woods
 woods,sam,-1,sam woods
 woods,tommy,-1,tommy woods
 woods,walt,1014245,walt woods
-woods,william,-1,william woods
+woods,william,25075,william woods
 woods,willie,-1,willie woods
+woods richardson,simeon,24494,simeon woods richardson
 woodson,dick,1014236,dick woodson
 woodson,kerry,1014240,kerry woodson
 woodson,tracy,1014244,tracy woodson
@@ -23581,7 +23692,7 @@ yelding,eric,1014335,eric yelding
 yelich,christian,11477,christian yelich
 yelle,archie,1014336,archie yelle
 yellen,larry,1014337,larry yellen
-yepez,juan,-1,juan yepez
+yepez,juan,18400,juan yepez
 yerkes,carroll,1014339,carroll yerkes
 yerkes,stan,1014340,stan yerkes
 yerkes,steve,1014341,steve yerkes
@@ -23631,7 +23742,7 @@ young,cliff,1014367,cliff young
 young,curt,1014368,curt young
 young,cy,1014369,cy young
 young,danny,1014370,danny young
-young,danny,-1,danny young
+young,danny,18439,danny young
 young,del,1014372,del young
 young,del,1014371,del young
 young,delmon,2140,delmon young
@@ -23650,6 +23761,7 @@ young,harvey,-1,harvey young
 young,herman,1014379,herman young
 young,irv,1014380,irv young
 young,j. b.,1014381,j. b. young
+young,jared,20404,jared young
 young,jason,1707,jason young
 young,jim,-1,jim young
 young,john,1014382,john young
@@ -23690,7 +23802,7 @@ yuhas,eddie,1014398,eddie yuhas
 yurak,jeff,1014399,jeff yurak
 yvars,sal,1014400,sal yvars
 zabala,adrián,1014401,adrián zabala
-zabala,aneurys,-1,aneurys zabala
+zabala,aneurys,20802,aneurys zabala
 zabel,zip,1014402,zip zabel
 zachary,chink,1014403,chink zachary
 zachary,chris,1014404,chris zachary
@@ -23794,7 +23906,7 @@ d'arnaud,chase,6652,chase d'arnaud
 d'arnaud,travis,7739,travis d'arnaud
 de armas,roly,-1,roly de armas
 de geus,brett,23592,brett de geus
-de jesus,angel,-1,angel de jesus
+de jesus,angel,22323,angel de jesus
 de jesus,ivan,9886,ivan de jesus
 de jesus,ivan,1003150,ivan de jesus
 de jesus,jose,1003151,jose de jesus
@@ -23822,6 +23934,6 @@ de los santos,luis,1003180,luis de los santos
 de los santos,luis,1203,luis de los santos
 de los santos,ramon,1003181,ramon de los santos
 de los santos,valerio,681,valerio de los santos
-de los santos,yerry,-1,yerry de los santos
+de los santos,yerry,21420,yerry de los santos
 degrom,jacob,10954,jacob degrom
 den dekker,matt,11385,matt den dekker
