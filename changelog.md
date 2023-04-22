@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 1.5.4 (1/17/2023)
+- Regenerated ID data (All 2022 rookies)
+
 ## 1.5.3 (8/25/2022)
 - Regenerated ID data
 

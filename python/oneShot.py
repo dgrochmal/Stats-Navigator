@@ -87,9 +87,9 @@ def make_json(csvFilePath, jsonFilePath, jsonKey):
     # function to dump data
     with open(jsonFilePath, 'w', encoding='utf-8') as jsonf:
         # pretty print
-        # jsonf.write(json.dumps(data, indent=4))
+        jsonf.write(json.dumps(data, indent=4))
         # no whitespace print
-        jsonf.write(json.dumps(data, indent=None, separators=(',', ':')))
+        # jsonf.write(json.dumps(data, indent=None, separators=(',', ':')))
          
 # Driver Code
  
