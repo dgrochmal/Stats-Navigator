@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 url: "https://www.baseball-reference.com"
                             });
                         } else {
-                            var lastName = player.name_last.toLowerCase();;
+                            var lastName = player.name_last.toLowerCase();
                             var initial = lastName[0];
 
                             chrome.tabs.update({
@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 url: "https://www.baseball-reference.com"
                             });
                         } else {
-                            var lastName = player.name_last.toLowerCase();;
+                            var lastName = player.name_last.toLowerCase();
                             var initial = lastName[0];
 
                             chrome.tabs.update({
@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 url: "https://www.baseball-reference.com"
                             });
                         } else {
-                            var lastName = player.name_last.toLowerCase();;
+                            var lastName = player.name_last.toLowerCase();
                             var initial = lastName[0];
 
                             chrome.tabs.create({
@@ -133,7 +133,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 url: "https://www.baseball-reference.com"
                             });
                         } else {
-                            var lastName = player.name_last.toLowerCase();;
+                            var lastName = player.name_last.toLowerCase();
                             var initial = lastName[0];
 
                             chrome.tabs.create({
@@ -156,7 +156,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 url: "https://www.baseball-reference.com"
                             });
                         } else {
-                            var lastName = player.name_last.toLowerCase();;
+                            var lastName = player.name_last.toLowerCase();
                             var initial = lastName[0];
 
                             chrome.tabs.create({
@@ -659,7 +659,7 @@ function getBBRefId(currentLocation, id) {
     var playersStringTillEnd = currentLocation.substring(locationOfPlayersString + 10);
     console.log(playersStringTillEnd);
     var id = playersStringTillEnd.substring(0, playersStringTillEnd.length - 6);
-    console.log(id);;
+    console.log(id);
     return id;
 }
 

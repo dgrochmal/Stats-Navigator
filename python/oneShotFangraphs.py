@@ -3,6 +3,8 @@ from pybaseball import playerid_lookup
 import pandas as pd
 import json
 import unidecode
+from fangraphsFixer import *
+from addNames import *
 
 with open('prospectus.csv') as n:
     reader = csv.reader(n, delimiter=",")
@@ -12,15 +14,8 @@ with open('prospectus.csv') as n:
     for row in reader:
         Names.add(row[0])  
 
+Names = addNames(Names)
 print(len(Names))
-Names.add("Canó")
-Names.add("Díaz")
-Names.add("Jiménez")
-Names.add("Mariñez")
-Names.add("Márquez")
-Names.add("Mondesí")
-Names.add("Rodríguez")
-Names.add("Tatís")
 
 list = list(sorted(Names))
 
@@ -41,6 +36,29 @@ def make_json(csvFilePath, jsonFilePath, jsonKey):
     # create a dictionary
     data = {}
      
+    with open(r'extras.csv', encoding='utf-8') as csvf:
+        csvReader = csv.DictReader(csvf)
+         
+        # Convert each row into a dictionary
+        # and add it to data
+        for rows in csvReader:
+            if rows["key_fangraphs"] == "-1":
+                continue
+
+            rows = fixFangraphs(rows)
+                            
+            if rows["key_fangraphs"]:
+                rows["key_fangraphs"] = str(int(float(rows["key_fangraphs"])))
+                if rows["name_first"]:
+                    rows["name_first"] = unidecode.unidecode(rows["name_first"])
+                if rows["name_last"]:
+                    rows["name_last"] = unidecode.unidecode(rows["name_last"])
+                if rows["full_name"]:
+                    rows["full_name"] = unidecode.unidecode(rows["full_name"])
+
+            key = unidecode.unidecode(rows[jsonKey])
+            key = key.upper()
+            data[key] = rows
     # Open a csv reader called DictReader
     with open(csvFilePath, encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
@@ -48,6 +66,8 @@ def make_json(csvFilePath, jsonFilePath, jsonKey):
         # Convert each row into a dictionary
         # and add it to data
         for rows in csvReader:
+            if rows["key_fangraphs"] == "-1":
+                continue
 
             rows = fixFangraphs(rows)
                             

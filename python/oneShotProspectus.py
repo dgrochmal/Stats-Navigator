@@ -18,6 +18,27 @@ def make_json(csvFilePath, jsonFilePath, jsonKey):
     # create a dictionary
     data = {}
      
+
+    with open(r'extras.csv', encoding='utf-8') as csvf:
+        csvReader = csv.DictReader(csvf)
+         
+        # Convert each row into a dictionary
+        # and add it to data
+        for rows in csvReader:
+            if rows["bpid"] == "-1" or rows["bpid"] == "":
+                continue
+            if rows["bpid"]:
+                if rows["name_first"]:
+                    rows["name_first"] = unidecode.unidecode(rows["name_first"])
+                if rows["name_last"]:
+                    rows["name_last"] = unidecode.unidecode(rows["name_last"])
+                if rows["full_name"]:
+                    rows["full_name"] = unidecode.unidecode(rows["full_name"])
+
+            key = unidecode.unidecode(rows[jsonKey])
+            key = key.upper()
+            
+            data[key] = rows
     # Open a csv reader called DictReader
     with open(csvFilePath, encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
@@ -25,6 +46,8 @@ def make_json(csvFilePath, jsonFilePath, jsonKey):
         # Convert each row into a dictionary
         # and add it to data
         for rows in csvReader:
+            if rows["bpid"] == "-1" or rows["bpid"] == "":
+                continue
             if rows["bpid"]:
                 if rows["name_first"]:
                     rows["name_first"] = unidecode.unidecode(rows["name_first"])

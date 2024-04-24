@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Fangraphs Navigator",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "author": "Dan Grochmal",
   "description": "Navigate to a Fangraphs player page from the address bar or by right clicking",
   "omnibox": {

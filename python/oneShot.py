@@ -3,48 +3,40 @@ from pybaseball import playerid_lookup
 import pandas as pd
 import json
 from fangraphsFixer import *
+from addNames import *
 
-with open('prospectus.csv') as n:
-    reader = csv.reader(n, delimiter=",")
+# with open('prospectus.csv') as n:
+#     reader = csv.reader(n, delimiter=",")
 
-    # Create a unique list of last names from prospectus data list
-    Names = set()
-    for row in reader:
-        Names.add(row[0])    
-# Names.add("Downs")
-print(len(Names))
-Names.add("Canó")
-Names.add("Díaz")
-Names.add("Jiménez")
-Names.add("Mariñez")
-Names.add("Márquez")
-Names.add("Mondesí")
-Names.add("Rodríguez")
-Names.add("Tatís")
+#     # Create a unique list of last names from prospectus data list
+#     Names = set()
+#     for row in reader:
+#         Names.add(row[0])   
 
-print(len(Names))
+# Names = addNames(Names)
+# print(len(Names))
 
-list = list(sorted(Names))
+# list = list(sorted(Names))
 
-lookupLIST = []
-df = pd.DataFrame(columns=['name_last', 'name_first', 'key_mlbam', 'key_bbref', 'key_fangraphs'])
+# lookupLIST = []
+# df = pd.DataFrame(columns=['name_last', 'name_first', 'key_mlbam', 'key_bbref', 'key_fangraphs'])
 
-for name in list:
-    df = df.append(playerid_lookup(name))
+# for name in list:
+#     df = df.append(playerid_lookup(name))
     
-# df.to_csv('out3-31.csv', index=False)
+# # df.to_csv('out3-31.csv', index=False)
 
-# reading csv files
-data1 = pd.read_csv('prospectus.csv')
-data2 = df
+# # reading csv files
+# data1 = pd.read_csv('prospectus.csv')
+# data2 = df
   
-data2 = data2.drop(['name_last', 'name_first', 'key_retro', 'mlb_played_first', 'mlb_played_last'], axis=1)
+# data2 = data2.drop(['name_last', 'name_first', 'key_retro', 'mlb_played_first', 'mlb_played_last'], axis=1)
 
-outputDF = pd.merge(data1, data2,
-                   on=['key_mlbam'],
-                   how='right')
+# outputDF = pd.merge(data1, data2,
+#                    on=['key_mlbam'],
+#                    how='right')
 
-outputDF.to_csv('joined.csv', index=False)
+# outputDF.to_csv('joined.csv', index=False)
 
 def make_json(csvFilePath, jsonFilePath, jsonKey):
      
@@ -52,6 +44,42 @@ def make_json(csvFilePath, jsonFilePath, jsonKey):
     data = {}
      
     # Open a csv reader called DictReader
+    with open(r'extras.csv', encoding='utf-8') as csvf:
+        csvReader = csv.DictReader(csvf)
+        for rows in csvReader:
+            # lastPlayed = rows['mlb_played_last']
+            # if (lastPlayed is not None and lastPlayed != '' and int(float(rows['mlb_played_last']) > 1915)):
+            
+            if rows["bpid"]:
+                rows["bpid"] = str(int(float(rows["bpid"])))
+                # if rows["mlb_played_last"]:
+                #     rows["mlb_played_last"] = str(int(float(rows["mlb_played_last"])))
+            if rows["key_mlbam"]:
+                rows["key_mlbam"] = str(int(float(rows["key_mlbam"])))
+            if rows["key_bbref"] == "":
+                if rows["name_first"] == "JJ" and rows["name_last"] == "Bleday":
+                    rows["key_bbref"] = "bledajj01"
+
+            rows = fixFangraphs(rows)
+
+            if rows["key_fangraphs"] == "-1":
+                continue
+            if rows["name_last"] == "":
+                continue
+            if rows["name_first"] == "":
+                continue
+            if rows["bpid"] == "":
+                continue
+ 
+            if rows["key_fangraphs"]:
+                    rows["key_fangraphs"] = str(int(float(rows["key_fangraphs"])))
+            
+            key = rows[jsonKey]
+            if key:
+                if jsonKey != "key_bbref":
+                    key = int(float(key))
+            
+            data[key] = rows
     with open(csvFilePath, encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
          
@@ -72,6 +100,15 @@ def make_json(csvFilePath, jsonFilePath, jsonKey):
                     rows["key_bbref"] = "bledajj01"
 
             rows = fixFangraphs(rows)
+
+            if rows["key_fangraphs"] == "-1":
+                continue
+            if rows["name_last"] == "":
+                continue
+            if rows["name_first"] == "":
+                continue
+            if rows["bpid"] == "":
+                continue
  
             if rows["key_fangraphs"]:
                     rows["key_fangraphs"] = str(int(float(rows["key_fangraphs"])))

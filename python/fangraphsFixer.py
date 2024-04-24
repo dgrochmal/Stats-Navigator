@@ -1,14 +1,6 @@
 def fixFangraphs(rows):
     if rows["key_fangraphs"] == "-1":
-        if rows["name_first"].upper() == "Angel".upper() and rows["name_last"].upper() == "De Jesus".upper():
-            rows["key_fangraphs"] = str(22323)
-        if rows["name_first"].upper() == "Yerry".upper() and rows["name_last"].upper() == "De Los Santos".upper():
-            rows["key_fangraphs"] = str(21420)
-        if rows["name_first"].upper() == "C.J.".upper() and rows["name_last"].upper() == "Abrams".upper():
-            rows["key_fangraphs"] = str(25768)
         if rows["name_first"].upper() == "CJ".upper() and rows["name_last"].upper() == "Abrams".upper():
-            rows["key_fangraphs"] = str(25768)
-        if rows["name_first"].upper() == "C. J.".upper() and rows["name_last"].upper() == "Abrams".upper():
             rows["key_fangraphs"] = str(25768)
         if rows["name_first"].upper() == "Jose".upper() and rows["name_last"].upper() == "Azocar".upper():
             rows["key_fangraphs"] = str(18821)
@@ -390,4 +382,86 @@ def fixFangraphs(rows):
             rows["key_fangraphs"] = str(18439)
         if rows["name_first"].upper() == "Aneurys".upper() and rows["name_last"].upper() == "Zabala".upper():
             rows["key_fangraphs"] = str(20802)
+        if rows["name_first"].upper() == "Bill".upper() and rows["name_last"].upper() == "Anderson".upper():
+            rows["key_fangraphs"] = str(1000218)
+        if rows["name_first"].upper() == "Peyton".upper() and rows["name_last"].upper() == "Battenfield".upper():
+            rows["key_fangraphs"] = str(25777)
+        if rows["name_first"].upper() == "Taj".upper() and rows["name_last"].upper() == "Bradley".upper():
+            rows["key_fangraphs"] = str(22543)
+        if rows["name_first"].upper() == "Braden".upper() and rows["name_last"].upper() == "Bristo".upper():
+            rows["key_fangraphs"] = str(20494)
+        if rows["name_first"].upper() == "Jhony".upper() and rows["name_last"].upper() == "Brito".upper():
+            rows["key_fangraphs"] = str(25386)
+        if rows["name_first"].upper() == "Dylan".upper() and rows["name_last"].upper() == "Dodd".upper():
+            rows["key_fangraphs"] = str(29928)
+        if rows["name_first"].upper() == "Mason".upper() and rows["name_last"].upper() == "Englert".upper():
+            rows["key_fangraphs"] = str(22288)
+        if rows["name_first"].upper() == "Shintaro".upper() and rows["name_last"].upper() == "Fujinami".upper():
+            rows["key_fangraphs"] = str(31839)
+        if rows["name_first"].upper() == "Hobie".upper() and rows["name_last"].upper() == "Harris".upper():
+            rows["key_fangraphs"] = str(18615)
+        if rows["name_first"].upper() == "Jose".upper() and rows["name_last"].upper() == "Hernandez".upper():
+            rows["key_fangraphs"] = str(22318)
+        if rows["name_first"].upper() == "Tim".upper() and rows["name_last"].upper() == "Herrin".upper():
+            rows["key_fangraphs"] = str(25139)
+        if rows["name_first"].upper() == "Edouard".upper() and rows["name_last"].upper() == "Julien".upper():
+            rows["key_fangraphs"] = str(27534)
+        if rows["name_first"].upper() == "Kevin".upper() and rows["name_last"].upper() == "Kelly".upper():
+            rows["key_fangraphs"] = str(25679)
+        if rows["name_first"].upper() == "Nathan".upper() and rows["name_last"].upper() == "Lukes".upper():
+            rows["key_fangraphs"] = str(18123)
+        if rows["name_first"].upper() == "McKinley".upper() and rows["name_last"].upper() == "Moore".upper():
+            rows["key_fangraphs"] = str(25663)
+        if rows["name_first"].upper() == "Ryan".upper() and rows["name_last"].upper() == "Noda".upper():
+            rows["key_fangraphs"] = str(23312)
+        if rows["name_first"].upper() == "Grayson".upper() and rows["name_last"].upper() == "Rodriguez".upper():
+            rows["key_fangraphs"] = str(24492)
+        if rows["name_first"].upper() == "Blake".upper() and rows["name_last"].upper() == "Sabol".upper():
+            rows["key_fangraphs"] = str(25805)
+        if rows["name_first"].upper() == "Cesar".upper() and rows["name_last"].upper() == "Salazar".upper():
+            rows["key_fangraphs"] = str(21587)
+        if rows["name_first"].upper() == "Jesse".upper() and rows["name_last"].upper() == "Scholtens".upper():
+            rows["key_fangraphs"] = str(19205)
+        if rows["name_first"].upper() == "Kodai".upper() and rows["name_last"].upper() == "Senga".upper():
+            rows["key_fangraphs"] = str(31838)
+        if rows["name_first"].upper() == "Jared".upper() and rows["name_last"].upper() == "Shuster".upper():
+            rows["key_fangraphs"] = str(27472)
+        if rows["name_first"].upper() == "Brice".upper() and rows["name_last"].upper() == "Turang".upper():
+            rows["key_fangraphs"] = str(22186)
+        if rows["name_first"].upper() == "Carlos".upper() and rows["name_last"].upper() == "Vargas".upper():
+            rows["key_fangraphs"] = str(22915)
+        if rows["name_first"].upper() == "Gus".upper() and rows["name_last"].upper() == "Varland".upper():
+            rows["key_fangraphs"] = str(24737)
+        if rows["name_first"].upper() == "Anthony".upper() and rows["name_last"].upper() == "Volpe".upper():
+            rows["key_fangraphs"] = str(27647)
+        if rows["name_first"].upper() == "Thaddeus".upper() and rows["name_last"].upper() == "Ward".upper():
+            rows["key_fangraphs"] = str(21513)
+        if rows["name_first"].upper() == "Joey".upper() and rows["name_last"].upper() == "Wiemer".upper():
+            rows["key_fangraphs"] = str(27690)
+        if rows["name_first"].upper() == "Brett".upper() and rows["name_last"].upper() == "Wisely".upper():
+            rows["key_fangraphs"] = str(27735)
+        if rows["name_first"].upper() == "Brett".upper() and rows["name_last"].upper() == "Sullivan".upper():
+            rows["key_fangraphs"] = str(18217)
+        if rows["name_first"].upper() == "Levi".upper() and rows["name_last"].upper() == "Stoudt".upper():
+            rows["key_fangraphs"] = str(25650)
+        if rows["name_first"].upper() == "George".upper() and rows["name_last"].upper() == "Soriano".upper():
+            rows["key_fangraphs"] = str(21863)
+        if rows["name_first"].upper() == "Blake".upper() and rows["name_last"].upper() == "Perkins".upper():
+            rows["key_fangraphs"] = str(19921)
+        if rows["name_first"].upper() == "Mason".upper() and rows["name_last"].upper() == "Miller".upper():
+            rows["key_fangraphs"] = str(31757)
+        if rows["name_first"].upper() == "Oscar".upper() and rows["name_last"].upper() == "Colas".upper():
+            rows["key_fangraphs"] = str(30162)
+        if rows["name_first"].upper() == "Tristan".upper() and rows["name_last"].upper() == "Beck".upper():
+            rows["key_fangraphs"] = str(21584)
+        if rows["name_first"].upper() == "Franklin".upper() and rows["name_last"].upper() == "German".upper():
+            rows["key_fangraphs"] = str(24750)
+        if rows["name_first"].upper() == "Brent".upper() and rows["name_last"].upper() == "Headrick".upper():
+            rows["key_fangraphs"] = str(27702)
+        if rows["name_first"].upper() == "Enmanuel".upper() and rows["name_last"].upper() == "Valdez".upper():
+            rows["key_fangraphs"] = str(21716)
+        if rows["name_first"].upper() == "Masataka".upper() and rows["name_last"].upper() == "Yoshida".upper():
+            rows["key_fangraphs"] = str(31837)
+
+        
     return rows
