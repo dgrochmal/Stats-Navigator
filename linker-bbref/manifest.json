@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Baseball Reference Navigator",
-  "version": "1.0.4",
+  "version": "1.1.1",
   "author": "Dan Grochmal",
   "description": "Navigate to a Baseball Reference player page from the address bar or by right clicking",
   "omnibox": {

@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.6.0 (5/2/2024)
+- Regenerated data
+- yay, new data source!
+
 ## 1.5.3 (8/25/2022)
 - Regenerated ID data
 
