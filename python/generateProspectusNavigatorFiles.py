@@ -3,6 +3,7 @@ from pybaseball import playerid_lookup
 import pandas as pd
 import json
 import unidecode
+from fangraphsFixer import *
 
 # # reading csv files
 df = pd.read_csv('prospectus.csv')
