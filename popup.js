@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 url: "https://www.baseball-reference.com"
                             });
                         } else {
-                            var lastName = player.name_last.toLowerCase();;
+                            var lastName = player.name_last.toLowerCase();
                             var initial = lastName[0];
 
                             chrome.tabs.update({
@@ -37,29 +37,6 @@ document.addEventListener('DOMContentLoaded', function () {
                 var id = getSavantId(currentLocation, id);
 
                 fetch("../data/mlbam.json")
-                    .then(response => response.json())
-                    .then(json => {
-                        var player = json[id];
-
-                        if (player === undefined) {
-                            chrome.tabs.update({
-                                url: "https://www.baseball-reference.com"
-                            });
-                        } else {
-                            var lastName = player.name_last.toLowerCase();;
-                            var initial = lastName[0];
-
-                            chrome.tabs.update({
-                                url: `https://www.baseball-reference.com/players/${initial}/${player.key_bbref}.shtml`
-                            });
-                        }
-                    }
-                    );
-            }
-            else if (currentLocation.substring(12, 30) === "baseballprospectus") {
-                var id = getBaseballProspectusId(currentLocation, id);
-
-                fetch("../data/bpid.json")
                     .then(response => response.json())
                     .then(json => {
                         var player = json[id];
@@ -107,7 +84,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 url: "https://www.baseball-reference.com"
                             });
                         } else {
-                            var lastName = player.name_last.toLowerCase();;
+                            var lastName = player.name_last.toLowerCase();
                             var initial = lastName[0];
 
                             chrome.tabs.create({
@@ -133,30 +110,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 url: "https://www.baseball-reference.com"
                             });
                         } else {
-                            var lastName = player.name_last.toLowerCase();;
-                            var initial = lastName[0];
-
-                            chrome.tabs.create({
-                                url: `https://www.baseball-reference.com/players/${initial}/${player.key_bbref}.shtml`
-                            });
-                        }
-                    }
-                    );
-            }
-            else if (currentLocation.substring(12, 30) === "baseballprospectus") {
-                var id = getBaseballProspectusId(currentLocation, id);
-
-                fetch("../data/bpid.json")
-                    .then(response => response.json())
-                    .then(json => {
-                        var player = json[id];
-
-                        if (player === undefined) {
-                            chrome.tabs.create({
-                                url: "https://www.baseball-reference.com"
-                            });
-                        } else {
-                            var lastName = player.name_last.toLowerCase();;
+                            var lastName = player.name_last.toLowerCase();
                             var initial = lastName[0];
 
                             chrome.tabs.create({
@@ -227,26 +181,6 @@ document.addEventListener('DOMContentLoaded', function () {
             else if (currentLocation.substring(8, 22) === "baseballsavant") {
                 //They clicked the savant button, so they're already here?
             }
-            else if (currentLocation.substring(12, 30) === "baseballprospectus") {
-                var id = getBaseballProspectusId(currentLocation, id);
-
-                fetch("../data/bpid.json")
-                    .then(response => response.json())
-                    .then(json => {
-                        var player = json[id];
-
-                        if (player === undefined) {
-                            chrome.tabs.update({
-                                url: "https://baseballsavant.mlb.com"
-                            });
-                        } else {
-                            chrome.tabs.update({
-                                url: `https://baseballsavant.mlb.com/savant-player/${player.name_first}-${player.name_last}-${player.key_mlbam}`
-                            });
-                        }
-                    }
-                    );
-            }
             else {
                 chrome.tabs.update({
                     url: "https://baseballsavant.mlb.com"
@@ -304,26 +238,6 @@ document.addEventListener('DOMContentLoaded', function () {
             }
             else if (currentLocation.substring(8, 22) === "baseballsavant") {
                 //They clicked the savant button, so they're already here?
-            }
-            else if (currentLocation.substring(12, 30) === "baseballprospectus") {
-                var id = getBaseballProspectusId(currentLocation, id);
-
-                fetch("../data/bpid.json")
-                    .then(response => response.json())
-                    .then(json => {
-                        var player = json[id];
-
-                        if (player === undefined) {
-                            chrome.tabs.create({
-                                url: "https://baseballsavant.mlb.com"
-                            });
-                        } else {
-                            chrome.tabs.create({
-                                url: `https://baseballsavant.mlb.com/savant-player/${player.name_first}-${player.name_last}-${player.key_mlbam}`
-                            });
-                        }
-                    }
-                    );
             }
             else {
                 chrome.tabs.create({
@@ -386,26 +300,6 @@ document.addEventListener('DOMContentLoaded', function () {
                     }
                     );
             }
-            else if (currentLocation.substring(12, 30) === "baseballprospectus") {
-                var id = getBaseballProspectusId(currentLocation, id);
-
-                fetch("../data/bpid.json")
-                    .then(response => response.json())
-                    .then(json => {
-                        var player = json[id];
-
-                        if (player === undefined) {
-                            chrome.tabs.update({
-                                url: "https://www.fangraphs.com"
-                            });
-                        } else {
-                            chrome.tabs.update({
-                                url: `https://www.fangraphs.com/players/${player.name_first}-${player.name_last}/${player.key_fangraphs}/stats`
-                            });
-                        }
-                    }
-                    );
-            }
             else {
                 chrome.tabs.update({
                     url: "https://www.fangraphs.com"
@@ -464,187 +358,9 @@ document.addEventListener('DOMContentLoaded', function () {
                     }
                     );
             }
-            else if (currentLocation.substring(12, 30) === "baseballprospectus") {
-                var id = getBaseballProspectusId(currentLocation, id);
-
-                fetch("../data/bpid.json")
-                    .then(response => response.json())
-                    .then(json => {
-                        var player = json[id];
-
-                        if (player === undefined) {
-                            chrome.tabs.create({
-                                url: "https://www.fangraphs.com"
-                            });
-                        } else {
-                            chrome.tabs.create({
-                                url: `https://www.fangraphs.com/players/${player.name_first}-${player.name_last}/${player.key_fangraphs}/stats`
-                            });
-                        }
-                    }
-                    );
-            }
             else {
                 chrome.tabs.create({
                     url: "https://www.fangraphs.com"
-                });
-            }
-        }
-        chrome.tabs.query(query, callback);
-        return false;
-    }, false);
-
-    var fanButton = document.getElementById('bp');
-    fanButton.addEventListener('click', function () {
-        var query = { active: true, currentWindow: true };
-        function callback(tabs) {
-            var currentTab = tabs[0];
-            console.log(currentTab.url);
-            var currentLocation = currentTab.url;
-            if (currentLocation.substring(12, 30) === "baseballprospectus") {
-                //They clicked the baseballprospectus button, so they're already here?
-            }
-            else if (currentLocation.substring(12, 30) === "baseball-reference") {
-                var id = getBBRefId(currentLocation, id);
-
-                fetch("../data/bbref.json")
-                    .then(response => response.json())
-                    .then(json => {
-                        var player = json[id];
-
-                        if (player === undefined) {
-                            chrome.tabs.update({
-                                url: "https://www.baseballprospectus.com"
-                            });
-                        } else {
-                            chrome.tabs.update({
-                                url: `https://www.baseballprospectus.com/player/${player.bpid}`
-                            });
-                        }
-                    }
-                    );
-            }
-            else if (currentLocation.substring(8, 22) === "baseballsavant") {
-                var id = getSavantId(currentLocation, id);
-
-                fetch("../data/mlbam.json")
-                    .then(response => response.json())
-                    .then(json => {
-                        var player = json[id];
-
-                        if (player === undefined) {
-                            chrome.tabs.update({
-                                url: "https://www.baseballprospectus.com"
-                            });
-                        } else {
-                            chrome.tabs.update({
-                                url: `https://www.baseballprospectus.com/player/${player.bpid}`
-                            });
-                        }
-                    }
-                    );
-            }
-            else if (currentLocation.substring(12, 21) === "fangraphs") {
-                var id = getFangraphsId(currentLocation, id);
-
-                fetch("../data/fangraphs.json")
-                    .then(response => response.json())
-                    .then(json => {
-                        var player = json[id];
-
-                        if (player === undefined) {
-                            chrome.tabs.update({
-                                url: "https://www.baseballprospectus.com"
-                            });
-                        } else {
-                            chrome.tabs.update({
-                                url: `https://www.baseballprospectus.com/player/${player.bpid}`
-                            });
-                        }
-                    }
-                    );
-            }
-            else {
-                chrome.tabs.update({
-                    url: "https://www.baseballprospectus.com"
-                });
-            }
-        }
-        chrome.tabs.query(query, callback);
-    }, false);
-    fanButton.addEventListener('contextmenu', function (ev) {
-        ev.preventDefault();
-        var query = { active: true, currentWindow: true };
-        function callback(tabs) {
-            var currentTab = tabs[0];
-            console.log(currentTab.url);
-            var currentLocation = currentTab.url;
-            if (currentLocation.substring(12, 30) === "baseballprospectus") {
-                //They clicked the baseballprospectus button, so they're already here?
-            }
-            else if (currentLocation.substring(12, 30) === "baseball-reference") {
-                var id = getBBRefId(currentLocation, id);
-
-                fetch("../data/bbref.json")
-                    .then(response => response.json())
-                    .then(json => {
-                        var player = json[id];
-
-                        if (player === undefined) {
-                            chrome.tabs.create({
-                                url: "https://www.baseballprospectus.com"
-                            });
-                        } else {
-                            chrome.tabs.create({
-                                url: `https://www.baseballprospectus.com/player/${player.bpid}`
-                            });
-                        }
-                    }
-                    );
-            }
-            else if (currentLocation.substring(8, 22) === "baseballsavant") {
-                var id = getSavantId(currentLocation, id);
-
-                fetch("../data/mlbam.json")
-                    .then(response => response.json())
-                    .then(json => {
-                        var player = json[id];
-
-                        if (player === undefined) {
-                            chrome.tabs.create({
-                                url: "https://www.baseballprospectus.com"
-                            });
-                        } else {
-                            chrome.tabs.create({
-                                url: `https://www.baseballprospectus.com/player/${player.bpid}`
-                            });
-                        }
-                    }
-                    );
-            }
-            else if (currentLocation.substring(12, 21) === "fangraphs") {
-                var id = getFangraphsId(currentLocation, id);
-
-                fetch("../data/fangraphs.json")
-                    .then(response => response.json())
-                    .then(json => {
-                        var player = json[id];
-
-                        if (player === undefined) {
-                            chrome.tabs.create({
-                                url: "https://www.baseballprospectus.com"
-                            });
-                        } else {
-                            chrome.tabs.create({
-                                url: `https://www.baseballprospectus.com/player/${player.bpid}`
-                            });
-                        }
-                    }
-                    );
-            }
-            else {
-                chrome.tabs.create({
-                    url: "https://www.baseballprospectus.com"
                 });
             }
         }
@@ -659,7 +375,7 @@ function getBBRefId(currentLocation, id) {
     var playersStringTillEnd = currentLocation.substring(locationOfPlayersString + 10);
     console.log(playersStringTillEnd);
     var id = playersStringTillEnd.substring(0, playersStringTillEnd.length - 6);
-    console.log(id);;
+    console.log(id);
     return id;
 }
 
@@ -690,15 +406,5 @@ function getFangraphsId(currentLocation) {
     console.log(indexOfSecondSlash);
     var id = nameAndId.substring(0, indexOfSecondSlash);
     console.log(id);
-    return id;
-}
-
-function getBaseballProspectusId(currentLocation) {
-    var locationOfPlayerString = currentLocation.indexOf('player');
-    var playerStringTillEnd = currentLocation.substring(locationOfPlayerString + 7);
-    console.log(playerStringTillEnd);
-    var indexOfSlash = playerStringTillEnd.indexOf("/");
-    console.log(indexOfSlash);
-    var id = playerStringTillEnd.substring(0, indexOfSlash);
     return id;
 }

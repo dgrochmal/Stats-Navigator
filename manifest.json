@@ -1,9 +1,8 @@
 {
     "manifest_version": 3,
-  
     "name": "Stats Navigator",
-    "description": "Linking between Baseball-Reference, Baseball Savant, Fangraphs, and Baseball Prospectus",
-    "version": "1.5.4",
+    "description": "Linking between Baseball-Reference, Baseball Savant, and Fangraphs",
+    "version": "1.7.1",
   
     "action": {
       "default_icon": "statsNavigator.png",

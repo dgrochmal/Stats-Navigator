@@ -5,6 +5,6 @@ Demo Instructions:
 
 
 Two functionalities:
-In Firefox search bar - type "savant" then the name of a MLB player, such as "Mike Trout"
+In browser search bar - type "savant" then the name of a MLB player, such as "Mike Trout"
 
 On any web page, highlight the name of an MLB player such as "Mike Trout", right click, and select "Go to 'Mike Trout' on Baseball Savant"

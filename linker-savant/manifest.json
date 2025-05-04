@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Savant Navigator",
-  "version": "1.0.3",
+  "version": "1.2.0",
   "author": "Dan Grochmal",
   "description": "Navigate to a Baseball Savant player page from the address bar or by right clicking",
   "omnibox": {

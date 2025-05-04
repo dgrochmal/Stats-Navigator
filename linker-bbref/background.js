@@ -9,7 +9,7 @@ function searchText(info){
 			var player = json[s];
 
 			if (player) {
-				var lastName = player.name_last.toLowerCase();;
+				var lastName = player.name_last.toLowerCase();
 				var initial = lastName[0];
 				chrome.tabs.create({
 					url: `https://www.baseball-reference.com/players/${initial}/${player.key_bbref}.shtml`
@@ -38,7 +38,7 @@ chrome.omnibox.onInputEntered.addListener(function(text) {
             var player = json[s];
 
 			if (player) {
-				var lastName = player.name_last.toLowerCase();;
+				var lastName = player.name_last.toLowerCase();
                 var initial = lastName[0];
 				chrome.tabs.create({
                     url: `https://www.baseball-reference.com/players/${initial}/${player.key_bbref}.shtml`

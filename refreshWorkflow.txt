@@ -1,14 +1,4 @@
-- players.py
-    - Get fresh last name list from latest prospectus.csv 
-	- Call pybaseball to get ID meta data
-	- output file
-	
-- join.py
-    - Input prospectus.csv and players.py output to get joined csv with all IDs needed
-
-- csvToJson.py
-	- Generate all json files needed for extension:
-	    - bbref.json
-		- bpid.json
-		- fangraphs.json
-		- mlbam.json
+- Add rookie data to Chadwick people-rookies.csv
+- Run filterChadwick.py to generate filtered_people.csv
+- Run chosen "generate{site}NavigatorFiles.py"
+- Copy generated files into appropriate folder
