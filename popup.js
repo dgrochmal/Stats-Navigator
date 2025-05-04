@@ -367,86 +367,6 @@ document.addEventListener('DOMContentLoaded', function () {
         chrome.tabs.query(query, callback);
         return false;
     }, false);
-
-    fanButton.addEventListener('contextmenu', function (ev) {
-        ev.preventDefault();
-        var query = { active: true, currentWindow: true };
-        function callback(tabs) {
-            var currentTab = tabs[0];
-            console.log(currentTab.url);
-            var currentLocation = currentTab.url;
-            if (currentLocation.substring(12, 30) === "baseballprospectus") {
-                //They clicked the baseballprospectus button, so they're already here?
-            }
-            else if (currentLocation.substring(12, 30) === "baseball-reference") {
-                var id = getBBRefId(currentLocation, id);
-
-                fetch("../data/bbref.json")
-                    .then(response => response.json())
-                    .then(json => {
-                        var player = json[id];
-
-                        if (player === undefined) {
-                            chrome.tabs.create({
-                                url: "https://www.baseballprospectus.com"
-                            });
-                        } else {
-                            chrome.tabs.create({
-                                url: `https://www.baseballprospectus.com/player/${player.bpid}`
-                            });
-                        }
-                    }
-                    );
-            }
-            else if (currentLocation.substring(8, 22) === "baseballsavant") {
-                var id = getSavantId(currentLocation, id);
-
-                fetch("../data/mlbam.json")
-                    .then(response => response.json())
-                    .then(json => {
-                        var player = json[id];
-
-                        if (player === undefined) {
-                            chrome.tabs.create({
-                                url: "https://www.baseballprospectus.com"
-                            });
-                        } else {
-                            chrome.tabs.create({
-                                url: `https://www.baseballprospectus.com/player/${player.bpid}`
-                            });
-                        }
-                    }
-                    );
-            }
-            else if (currentLocation.substring(12, 21) === "fangraphs") {
-                var id = getFangraphsId(currentLocation, id);
-
-                fetch("../data/fangraphs.json")
-                    .then(response => response.json())
-                    .then(json => {
-                        var player = json[id];
-
-                        if (player === undefined) {
-                            chrome.tabs.create({
-                                url: "https://www.baseballprospectus.com"
-                            });
-                        } else {
-                            chrome.tabs.create({
-                                url: `https://www.baseballprospectus.com/player/${player.bpid}`
-                            });
-                        }
-                    }
-                    );
-            }
-            else {
-                chrome.tabs.create({
-                    url: "https://www.baseballprospectus.com"
-                });
-            }
-        }
-        chrome.tabs.query(query, callback);
-        return false;
-    }, false);
 }, false);
 
 function getBBRefId(currentLocation, id) {
@@ -486,15 +406,5 @@ function getFangraphsId(currentLocation) {
     console.log(indexOfSecondSlash);
     var id = nameAndId.substring(0, indexOfSecondSlash);
     console.log(id);
-    return id;
-}
-
-function getBaseballProspectusId(currentLocation) {
-    var locationOfPlayerString = currentLocation.indexOf('player');
-    var playerStringTillEnd = currentLocation.substring(locationOfPlayerString + 7);
-    console.log(playerStringTillEnd);
-    var indexOfSlash = playerStringTillEnd.indexOf("/");
-    console.log(indexOfSlash);
-    var id = playerStringTillEnd.substring(0, indexOfSlash);
     return id;
 }
