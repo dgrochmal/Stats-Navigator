@@ -44,4 +44,4 @@ def make_json(csvFilePath, jsonFilePath, jsonKey):
 # Driver Code
  
 # Call the make_json function
-make_json(r'filtered_people.csv', r'fullnamebbref.json', 'full_name')
+make_json(r'./chadwick/_withEdits.csv', r'fullnamebbref.json', 'full_name')
