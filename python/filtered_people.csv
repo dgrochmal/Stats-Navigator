@@ -1,4 +1,5 @@
 key_mlbam,key_bbref,key_fangraphs,name_last,name_first
+692225,campbkr01,33644,Campbell,Kristian
 605152,bradlje01,13166,Bradley,Jed
 110625,barrima01,1000605,Barrios,Manuel
 118336,martifr01,1008165,Martin,Frank
@@ -229,6 +230,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 117215,knoxcl01,1007062,Knox,Cliff
 113038,danieja02,1002972,Daniels,Jack
 451546,depauju01,2786,De Paula,Julio
+694192,chourja01,28806,Chourio,Jackson
 116196,hovlijo01,1006070,Hovlik,Joe
 122330,slusajo01,1012071,Slusarski,Joe
 111262,bottari01,948,Bottalico,Ricky
@@ -686,6 +688,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 114989,gossari01,1004894,Gossage,Rich
 118242,mannier01,1008064,Manning,Ernie
 425346,riverca01,1749,Rivera,Carlos
+694671,langfwy01,33333,Langford,Wyatt
 121113,reynoro02,1010874,Reynolds,Ronn
 407576,rivermi02,493,Rivera,Mike
 117301,kravida01,1007148,Kravitz,Danny
@@ -862,7 +865,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 110118,aldresc01,1000115,Aldred,Scott
 292294,figuelu01,776,Figueroa,Luis
 669302,gilbelo01,22250,Gilbert,Logan
-119172,minneda01,1008979,Minnehan,Dan
+119172,minneda01,1008979,Minahan,Dan
 112561,conlajo01,1002504,Conlan,Jocko
 115576,hartsto01,1005464,Hartsel,Topsy
 430599,blantjo01,4849,Blanton,Joe
@@ -950,6 +953,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 116558,johnsra01,1006492,Johnson,Rankin
 122056,shannow01,1011798,Shannon,Owen
 114765,gielpa01,1004681,Giel,Paul
+683627,molinan01,26952,Molina,Anthony
 620454,castijo03,17169,Castillo,Jose
 445216,mccutda01,263,McCutchen,Daniel
 110353,ashlebi01,1000339,Ashley,Billy
@@ -1300,6 +1304,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 122752,stephri01,1012500,Stephenson,Riggs
 117159,klingru01,1007010,Kling,Rudy
 115987,hoagmy01,1005865,Hoag,Myril
+673513,matsuyu01,33826,Matsui,Yuki
 118231,mangupe01,1008058,Mangual,Pepe
 111804,butchma01,1001763,Butcher,Max
 112036,carrema01,1001989,Carreon,Mark
@@ -1744,6 +1749,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 116521,jeltzst01,1006387,Jeltz,Steve
 435081,nickemi01,7419,Nickeas,Mike
 117836,livinja01,1007674,Livingstone,Jake
+808982,leeju01,33824,Lee,Jung Hoo
 467850,escaled01,8574,Escalona,Edgmer
 425626,capuach01,1701,Capuano,Chris
 110528,baneydi01,1000507,Baney,Dick
@@ -2093,6 +2099,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 117031,keupphe01,1006884,Keupper,Henry
 115204,grubbha01,1005102,Grubb,Harvey
 113822,ellisge01,1003748,Ellison,George
+668853,shentau01,25425,Shenton,Austin
 112174,chambbi02,1002118,Chamberlain,Bill
 115933,hilldo01,1005811,Hill,Donnie
 121709,sauered01,1011458,Sauer,Ed
@@ -2337,6 +2344,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 276056,baezda01,367,Baez,Danys
 114066,fergual01,1003984,Ferguson,Alex
 115455,hardiji01,1005344,Hardin,Jim
+677942,alexabl01,23789,Alexander,Blaze
 122490,snipero01,1012232,Snipes,Roxy
 110618,barreto01,1000602,Barrett,Tommy
 434641,gutieju01,3265,Gutierrez,J. C.
@@ -2458,7 +2466,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 122652,stanaos01,1012394,Stanage,Oscar
 124641,yaikhe01,1014317,Yaik,Henry
 119636,nagello01,1009435,Nagelsen,Lou
-113760,edwarra01,1003692,Edwards,Ralph
+113760,edwarra01,1003692,Edwards,
 115571,hartmbo01,1005452,Hartman,Bob
 134440,stovada01,1012583,Stovall,DaRond
 115424,hanlone01,1005314,Hanlon,Ned
@@ -2522,7 +2530,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 114408,freemla01,1004324,Freeman,LaVel
 114964,gorbogl01,1004871,Gorbous,Glen
 111613,brubabi01,1001571,Brubaker,Bill
-670871,zuniggu01,19588,Zuniga,Guillermo
+670871,zuniggu01,19588,Zuniga,Guillo
 675911,stridsp01,27498,Strider,Spencer
 121732,saxst01,1011481,Sax,Steve
 114053,felixju01,1003974,Felix,Junior
@@ -2993,6 +3001,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 123321,thrasbu01,1013045,Thrasher,Buck
 123288,thompja01,1013014,Thompson,Jason
 112143,causere01,1002090,Causey,Red
+805673,matthze01,31827,Matthews,Zebby
 110300,aragoja01,1000287,Aragon,Jack
 624419,ciuffni01,16291,Ciuffo,Nick
 113027,dammabi01,1002962,Dammann,Bill
@@ -3004,6 +3013,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 110183,alomaro01,860,Alomar,Roberto
 117402,ladewst01,1007247,Ladew,Steve
 121503,rowedo01,1011253,Rowe,Don
+690993,keithco01,27899,Keith,Colt
 112331,clarkca01,1002272,Clark,Cap
 676395,garciro04,23363,Garcia,Robert
 123355,tinslle01,1013077,Tinsley,Lee
@@ -3090,7 +3100,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 121738,scalzsk01,1011488,Scalzi,Skeeter
 123253,thomabu02,1012967,Thomas,Bud
 114674,gedeoel01,1004590,Gedeon,Elmer
-111983,cardico01,1001939,Cardinal,Conrad
+111983,cardico01,1001939,Cardinal,Randy
 607068,reedch01,12801,Reed,Chris
 120863,rachust01,1010627,Rachunok,Steve
 110691,battijo01,1000672,Battin,Joe
@@ -3230,8 +3240,8 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 122857,strando01,1012596,Strange,Doug
 460067,crowetr01,3402,Crowe,Trevor
 116071,hollamu01,1005951,Holland,Mul
-116404,irvined01,1006274,Irwin,Ed
-110020,abernte01,1000019,Abernathy,Ted
+116404,irvined01,1006274,Irwin,Bill
+110020,abernte01,1000019,Abernathy,Tal
 117134,klaerhu01,1006984,Klaerner,Hugo
 122685,stargwi01,1012426,Stargell,Willie
 115953,hillima01,1005825,Hillis,Mack
@@ -3492,7 +3502,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 682990,priesqu01,25977,Priester,Quinn
 110879,bentlja01,1000852,Bentley,Jack
 656981,solompe01,20476,Solomon,Peter
-116436,jacksmi02,732,Jackson,Michael
+116436,jacksmi02,732,Jackson,Mike
 449104,hendeji01,6653,Henderson,Jim
 124176,whiteje01,1013880,White,Jerry
 121982,seilhri01,1011729,Seilheimer,Ricky
@@ -3680,6 +3690,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 624513,nunezdo01,15055,Nunez,Dom
 118189,malayjo01,1008014,Malay,Joe
 111985,cardwdo01,1001941,Cardwell,Don
+684007,imanash01,33829,Imanaga,Shota
 122357,smithbr02,1012105,Smith,Brick
 400180,dayza01,1496,Day,Zach
 115161,grimero01,1005066,Grimes,Roy
@@ -4024,7 +4035,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 118927,mejiasa01,1008742,Mejias,Sam
 282565,mendeca01,1716,Mendez,Carlos
 543742,sandsje01,4016,Sands,Jerry
-119163,mimbsmi01,1008970,Mimbs,Mike
+119163,mimbsmi01,1008970,Mimbs,Michael
 122940,sullich02,1012686,Sullivan,Charlie
 123477,trottbi01,1013193,Trotter,Bill
 118583,mcclula01,1008403,McClure,Larry
@@ -4096,7 +4107,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 115188,grossgr01,1005086,Gross,Greg
 276354,treanma01,2265,Treanor,Matt
 120743,prattde01,1010512,Pratt,Del
-117049,kilhupa01,1006900,Kilhullen,Pat
+117049,kilhupa01,1006900,Kilhullen,Joe
 119530,munsojo01,1009332,Munson,Joe
 119747,newmara01,1009544,Newman,Ray
 114360,foxho01,1004278,Fox,Howie
@@ -4208,6 +4219,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 120714,powelgr01,1010485,Powell,Grover
 124327,willima03,1014021,Williams,Matt
 120224,parkepa01,1010005,Parker,Pat
+701538,merrija01,29490,Merrill,Jackson
 112401,clevete01,1002348,Clevenger,Tex
 150020,hairsje02,144,Hairston,Jerry
 643361,hergeke01,15369,Herget,Kevin
@@ -4647,6 +4659,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 571676,frankse01,11346,Frankoff,Seth
 120705,pottsjo01,1010475,Potts,John
 406402,juliojo01,148,Julio,Jorge
+663568,kolekst01,21487,Kolek,Stephen
 120101,osterch01,1009882,Osterhout,Charlie
 571948,milneho01,13346,Milner,Hoby
 113613,dumouda01,1003548,Dumoulin,Dan
@@ -5217,7 +5230,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 117787,lindsbi01,1007626,Lindsay,Bill
 118896,mearach01,1008711,Meara,Charlie
 539438,diamosc01,5089,Diamond,Scott
-686973,varlalo01,27691,Varland,Louie
+686973,varlalo01,27691,Varland,Louis
 117806,lippto01,1007646,Lipp,Tom
 115824,hernaje02,1005705,Hernandez,Jeremy
 656546,hoffmje02,17432,Hoffman,Jeff
@@ -5641,6 +5654,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 117204,knothge01,1007052,Knothe,George
 123552,uhlirch01,1013268,Uhlir,Charlie
 116025,hoffmte01,1005913,Hoffman,Tex
+678489,barrojo01,23968,Barrosa,Jorge
 124673,yohebi01,1014350,Yohe,Bill
 110697,bauerha01,1000679,Bauer,Hank
 120934,raridbi01,1010701,Rariden,Bill
@@ -5975,7 +5989,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 123718,vicksa01,1013424,Vick,Sammy
 114968,gordoke01,1004875,Gordon,Keith
 116302,hulseda01,1006176,Hulse,David
-121237,rittefl01,1010991,Ritter,Floyd
+121237,rittefl01,1010991,Ritter,William
 124264,wiliede01,1013950,Wilie,Denney
 111711,burksa01,1001695,Burk,Sandy
 592200,casalcu01,12510,Casali,Curt
@@ -6481,7 +6495,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 111387,branded01,1001348,Brandt,Ed
 595411,sherrry01,12249,Sherriff,Ryan
 117501,larkiba01,335,Larkin,Barry
-116181,housefr02,1006058,House,Fred
+116181,housefr02,1006058,House,Willard
 120167,pafkoan01,1009948,Pafko,Andy
 117022,kerrijo01,1006873,Kerrigan,Joe
 114816,gilmaji01,1004730,Gilman,Jim
@@ -6669,6 +6683,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 115474,hargrmi01,1005361,Hargrove,Mike
 122400,smithha09,1012156,Smith,Hal
 111168,boldch01,1001139,Bold,Charlie
+690925,beetecl01,27494,Beeter,Clayton
 110655,bashowa01,1000638,Bashore,Walt
 641999,rayco01,19170,Ray,Corey
 116180,houseto01,1006064,House,Tom
@@ -6865,7 +6880,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 430927,buschbr01,6234,Buscher,Brian
 150164,depasjo01,1792,Depastino,Joe
 119741,newkijo01,1009537,Newkirk,Joel
-114663,gaver01,1004579,McGovern,
+114663,gaver01,1004579,McGovern,Tom
 123890,waltege01,1013587,Walter,Gene
 122905,stultge01,1012648,Stultz,George
 113258,demmira01,1003196,Demmitt,Ray
@@ -7405,6 +7420,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 113197,deerro01,1003137,Deer,Rob
 116649,johnsfr02,1006458,Johnston,Fred
 119337,moranch02,1009147,Moran,Charlie
+669422,sauerma01,22284,Sauer,Matt
 110027,abramge01,1000026,Abrams,George
 111870,caldesa01,1001826,Calderone,Sam
 118623,mccurje01,1008440,McCurry,Jeff
@@ -7655,6 +7671,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 114498,fussele01,1004413,Fusselman,Les
 111530,brown01,1001491,Brown,Robert
 123601,valdeef01,1013311,Valdez,Efrain
+814005,blossja01,33168,Bloss,Jake
 119047,milbola01,1008858,Milbourne,Larry
 114571,ganzeba01,1004484,Ganzel,Babe
 120995,reedjo01,1010771,Reed,Jody
@@ -7675,7 +7692,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 502188,samarje01,3254,Samardzija,Jeff
 124338,williac01,1013968,Williams,Ace
 116772,jossad01,1006630,Joss,Addie
-111863,cahilto01,1001819,Cahill,Tom
+111863,cahilto01,1001819,Cahill,Tommy
 608325,cecchga02,17005,Cecchini,Gavin
 592769,sneltdj01,15949,Snelten,D. J.
 118817,mcmahsa01,1008632,McMahon,Sadie
@@ -8087,7 +8104,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 406874,nelsojo01,108,Nelson,Joe
 518813,hollagr01,7196,Holland,Greg
 124109,westbu01,1013798,West,Buck
-553883,campovi01,11681,Campos,Vicente
+553883,campovi01,11681,Campos,Jose
 115293,haeffbi01,1005188,Haeffner,Bill
 122943,sullide02,1012689,Sullivan,Denny
 124581,worreto01,1014259,Worrell,Todd
@@ -8179,6 +8196,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 121751,scarsle01,1011500,Scarsella,Les
 118887,meachru01,1008702,Meacham,Rusty
 430894,aguilch01,2143,Aguila,Chris
+686580,slateju01,25648,Slaten,Justin
 110977,bicknch01,1000949,Bicknell,Charlie
 121995,sembemi01,1011741,Sember,Mike
 123593,vailmi01,1013309,Vail,Mike
@@ -8365,7 +8383,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 642851,wynnsau01,15271,Wynns,Austin
 121240,ritteha01,1010992,Ritter,Hank
 457762,anderbr05,9871,Anderson,Bryan
-110733,beanbi01,1000713,Bean,Bill
+110733,beanbi01,1000713,Bean,Billy
 119384,moriabi01,1009187,Moriarty,Bill
 114781,gilbema01,1004694,Gilbert,Mark
 122761,sterlra01,1012504,Sterling,Randy
@@ -9083,7 +9101,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 665066,paynety01,21139,Payne,Tyler
 456030,pedrodu01,8370,Pedroia,Dustin
 121200,riggsle01,1010957,Riggs,Lew
-115408,handimi01,1005298,Handiboe,Mike
+115408,handimi01,1005298,Handiboe,Al
 113618,duncaji01,1003553,Duncan,Jim
 676694,meyerja02,20308,Meyers,Jake
 124607,wrighke01,1014286,Wright,Ken
@@ -9111,6 +9129,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 124076,wellsle01,1013770,Wells,Leo
 660766,yepezju01,18400,Yepez,Juan
 122424,smithl.01,1012173,Smith,Lewis
+805373,alvarna01,31765,Alvarez,Nacho
 121539,ruebema01,1011289,Ruebel,Matt
 115560,hartech01,1005442,Hartenstein,Chuck
 124038,weigera01,1013732,Weigel,Ralph
@@ -9944,7 +9963,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 113048,darbyge01,1002983,Darby,George
 150219,kinnema01,737,Kinney,Matt
 123894,walteda01,1013585,Walters,Dan
-115021,grahabe01,1004923,Graham,Bernie
+115021,grahabe01,1004923,Graham,Barney
 112844,crolifr01,1002785,Crolius,Fred
 110319,armasma01,1000304,Armas,Marcos
 517369,pireljo01,5485,Pirela,Jose
@@ -9976,7 +9995,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 116874,kearnte01,1006729,Kearns,Teddy
 434630,whiteel03,3536,Whiteside,Eli
 110444,baileha01,1000424,Bailey,Harvey
-121479,rossge01,1011231,Ross,George
+121479,rossge01,1011231,Ross,John
 120678,porteda02,1010450,Porter,Darrell
 120435,perripo01,1010206,Perritt,Pol
 112743,covelst01,1002682,Coveleski,Stan
@@ -10075,7 +10094,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 119482,muellbi02,295,Mueller,Bill
 124042,weilabo01,1013735,Weiland,Bob
 112063,carteho01,1002016,Carter,Howie
-124287,willigu01,1014000,Williams,Gus
+124287,willigu01,1014000,Williams,August
 114530,galehde01,1004443,Galehouse,Denny
 112228,cheevvi01,1002174,Cheeves,Virgil
 115213,grysksi01,1005110,Gryska,Sig
@@ -10254,7 +10273,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 113934,evansch01,1003863,Evans,Chick
 543482,maggidr01,11381,Maggi,Drew
 120245,parreje01,1010019,Parrett,Jeff
-117009,kerinjo01,1006862,Kerins,John
+117009,kerinjo01,1006862,Kerins,Jack
 485567,carreez01,9048,Carrera,Ezequiel
 115266,guzmajo01,1005160,Guzman,Jose
 116166,hoseyst01,1006040,Hosey,Steve
@@ -10840,6 +10859,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 289033,jonesma02,1006575,Jones,Marcus
 122523,solaito01,1012265,Solaita,Tony
 114569,gantnji01,1004483,Gantner,Jim
+687231,hernada04,26224,Hernaiz,Darell
 110150,allenpe01,1000156,Allen,Pete
 116960,kellyva01,1006818,Kelly,Van
 449448,nelsojo02,3640,Nelson,John
@@ -11129,6 +11149,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 110638,barteki01,1000622,Bartee,Kimera
 121454,rosepe01,1011217,Rose,Pete
 666139,lowejo01,19953,Lowe,Josh
+687014,avilani01,25667,Avila,Nick
 114171,fisheha01,1004089,Fisher,Harry
 113390,distaal01,1003325,Distaso,Alec
 110038,acosted01,1000034,Acosta,Ed
@@ -11521,6 +11542,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 123147,tayloke01,1012881,Taylor,Kerry
 124400,wilsogr01,1014082,Wilson,Grady
 150107,florejo01,1602,Flores,Jose
+668832,mccanky01,25575,McCann,Kyle
 607359,pattosp01,12361,Patton,Spencer
 113061,darwije01,1002997,Darwin,Jeff
 111393,branski01,1001356,Bransfield,Kitty
@@ -11640,6 +11662,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 111433,bresnro01,1001396,Bresnahan,Roger
 121142,ricepa01,1010899,Rice,Pat
 113473,doranbi01,1003405,Doran,Bill
+116818,kalahjo01,1006675,Kalahan,John
 117850,lockebo01,1007687,Locke,Bobby
 112550,conceon01,1002495,Concepcion,Onix
 116991,kennebi02,1006834,Kennedy,Bill
@@ -11679,7 +11702,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 635903,rowlech01,18820,Rowley,Chris
 626929,thorple01,15906,Thorpe,Lewis
 116179,housepa01,1006062,House,Pat
-119574,murphbi01,1009345,Murphy,Billy
+119574,murphbi01,1009345,Murphy,Bill
 119489,mullato01,1009291,Mullane,Tony
 460022,greenty02,4675,Greene,Tyler
 448179,hillri01,4806,Hill,Rich
@@ -11930,6 +11953,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 121151,richaru01,1010919,Richards,Rusty
 123807,waldefr01,1013504,Walden,Fred
 116661,jonesal02,1006524,Jones,Al
+806185,birdsha01,31635,Birdsong,Hayden
 122139,shermda01,1011878,Sherman,Dan
 115901,hicksjo01,1005780,Hicks,Joe
 112789,cranddo01,1002730,Crandall,Doc
@@ -12426,6 +12450,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 118185,malarjo01,1008011,Malarkey,John
 120323,paynemi01,1010095,Payne,Mike
 123463,trevibo01,1013181,Trevino,Bobby
+687765,spencmi01,27707,Spence,Mitch
 113903,espinni01,1003830,Espinosa,Nino
 276511,duboser01,1633,DuBose,Eric
 118161,mahlemi01,1007987,Mahler,Mickey
@@ -12445,7 +12470,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 123170,tebeapa01,1012900,Tebeau,Patsy
 572702,bantzbr01,9442,Bantz,Brandon
 121717,savagdo01,1011467,Savage,Don
-118213,malonma01,1008042,Malone,Martin
+118213,malonma01,1008042,Malone,Thomas
 123474,troskha01,1013190,Trosky,Hal
 110466,bakerch02,1000446,Baker,Chuck
 121562,russeal01,1011310,Russell,Allen
@@ -12624,6 +12649,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 112657,coopemo01,1002598,Cooper,Mort
 502143,valenda01,6364,Valencia,Danny
 121838,schmiwa01,1011588,Schmidt,Walter
+702358,lipsctr01,31567,Lipscomb,Trey
 112864,crossfr01,1002805,Cross,Frank
 113637,dunnjo01,1003575,Dunn,Joe
 120458,peterru01,1010238,Peters,Rube
@@ -13149,6 +13175,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 118828,mcmilro01,1008643,McMillan,Roy
 122948,sulliji01,1012695,Sullivan,Jim
 116742,jonnabu01,1006602,Jonnard,Bubber
+669062,milleer01,26252,Miller,Erik
 119780,niedda01,1009577,Nied,David
 150183,anderma01,459,Anderson,Matt
 114929,gonzage01,1004834,Gonzalez,German
@@ -13201,6 +13228,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 116697,jonesji01,1006568,Jones,Jim
 117917,lopezca01,1007754,Lopez,Carlos
 118700,mcghebi01,1008516,McGhee,Bill
+688363,paulegr01,31363,Pauley,Graham
 118895,meanepa01,1008710,Maney,Vincent
 425850,rheinjo01,2165,Rheinecker,John
 115035,grahejo01,1004939,Grahe,Joe
@@ -13366,7 +13394,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 110706,baumgha01,1000687,Baumgartner,Harry
 124619,wrighlu01,1014287,Wright,Lucky
 118139,maggeha02,1007967,Maggert,Harl
-121031,reillch01,1010799,Reilley,Charlie
+121031,reillch01,1010799,Reilly,Charlie
 123767,wadderu01,1013467,Waddell,Rube
 150372,rolisna01,1011158,Rolison,Nate
 118675,mcfarhe01,1008492,McFarland,Herm
@@ -14337,7 +14365,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 123775,waderi01,1013473,Wade,Rip
 150087,deloslu02,1203,de los Santos,Luis
 464254,frutoem01,3106,Fruto,Emiliano
-119060,millech01,1008879,Miller,Charlie
+119060,millech01,1008879,Miller,Johnny
 114086,ferreri01,1004007,Ferrell,Rick
 113310,devinha01,1003244,Deviney,Hal
 114897,goldswa02,1004814,Goldsby,Walt
@@ -14383,6 +14411,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 122031,seyboso01,1011775,Seybold,Socks
 119010,meyerge01,1008826,Meyer,George
 116851,karrbe01,1006708,Karr,Benn
+694738,rouppla01,30076,Roupp,Landen
 123075,tackeje01,1012809,Tackett,Jeff
 123085,tankele01,1012819,Tankersley,Leo
 117132,kittlro01,1006982,Kittle,Ron
@@ -15060,7 +15089,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 112005,carlsha01,1001961,Carlson,Hal
 455117,maldoma01,6887,Maldonado,Martin
 275935,queveru01,705,Quevedo,Ruben
-113493,doughch01,1003428,Dougherty,Charlie
+113493,doughch01,1003428,Dougherty,Charles
 276525,middlja01,1048,Middlebrook,Jason
 111865,cainsu01,1001822,Cain,Sugar
 118000,lumleha01,1007830,Lumley,Harry
@@ -15183,6 +15212,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 111669,bueloch01,1001631,Buelow,Charlie
 519443,workmbr01,11428,Workman,Brandon
 119664,natonpe01,1009463,Naton,Pete
+805779,wilsoja05,33266,Wilson,Jacob
 115434,hansegr01,1005326,Hansell,Greg
 120881,raffeke01,1010646,Raffensberger,Ken
 115112,greered01,1005017,Greer,Ed
@@ -15356,6 +15386,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 407496,vazqura01,1058,Vazquez,Ramon
 112015,carmora01,1001971,Carmona,Rafael
 114513,gagnegr01,1004427,Gagne,Greg
+808967,yamamyo01,33825,Yamamoto,Yoshinobu
 400010,rauchjo01,1475,Rauch,Jon
 112112,castima01,1002065,Castillo,Manny
 122737,stengca01,1012481,Stengel,Casey
@@ -15510,7 +15541,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 115950,hilleho02,1005816,Hiller,Hob
 111924,campbda02,1001877,Campbell,Dave
 544365,banuema01,5365,Banuelos,Manny
-120398,peppeha01,1010172,Peppers,Harrison
+120398,peppeha01,1010172,Pepper,Harrison
 114093,ferrycy01,1004015,Ferry,Cy
 117351,kuczest01,1007197,Kuczek,Steve
 123740,vitiejo01,1748,Vitiello,Joe
@@ -16363,6 +16394,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 645261,alcansa01,18684,Alcantara,Sandy
 112007,carlssw01,1001963,Carlstrom,Albin
 430832,bautijo02,1887,Bautista,Jose
+800049,mazurad01,31900,Mazur,Adam
 430654,bassbr01,2219,Bass,Brian
 116610,johnsma01,1376,Johnson,Mark
 110992,bilarda01,1000963,Bilardello,Dann
@@ -16574,7 +16606,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 112954,currimu01,1002891,Currie,Murphy
 656755,montebr01,21319,Montes de Oca,Bryce
 115373,hambrro01,1005266,Hambright,Roger
-122296,skinnal01,1012036,Skinner,Al
+122296,skinnal01,1012036,Skinner,Alex
 605226,faulkan01,12982,Faulkner,Andrew
 408052,bootcch01,1842,Bootcheck,Chris
 117556,lawrebr01,1007398,Lawrence,Brooks
@@ -17616,7 +17648,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 114672,gebripe01,1004588,Gebrian,Pete
 664074,ponceco01,17920,Ponce,Cody
 117728,lewanda01,1007573,Lewandowski,Dan
-120024,o'neijo01,1009814,O'Neill,John
+120024,o'neijo01,1009814,O'Neil,John
 446916,burnsmi01,2932,Burns,Mike
 112047,carroow01,1002003,Carroll,Ownie
 150412,smartj.01,1012081,Smart,J. D.
@@ -17862,6 +17894,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 337392,reamebr01,794,Reames,Britt
 111291,bowerbi01,1001251,Bowers,Billy
 592348,goodrni01,12092,Goodrum,Niko
+671922,smithca06,27867,Smith,Cade
 110172,allisdo01,1000168,Allison,Doug
 116498,jarvira01,1006364,Jarvis,Ray
 115841,herrejo01,1005721,Herrera,Jose
@@ -17872,6 +17905,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 115347,hallma01,1005256,Hall,Marc
 112341,clarkbo03,1002268,Clark,Bob
 118030,lynchje01,1007865,Lynch,Jerry
+676962,brownbe02,23590,Brown,Ben
 642092,smithri01,19826,Smith,Riley
 122696,statoda01,1012437,Staton,Dave
 681885,leeev01,24988,Lee,Evan
@@ -18702,9 +18736,10 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 119947,o'farbo01,1009740,O'Farrell,Bob
 110384,ausanjo01,1000369,Ausanio,Joe
 114643,garvine01,1004559,Garvin,Ned
-110464,bakerbo01,1000444,Baker,Bock
+110464,bakerbo01,1000444,Baker,Charles
 112958,curryto01,1002896,Curry,Tony
 115989,hobaued01,1005867,Hobaugh,Ed
+678906,tengka01,24282,Teng,Kai-Wei
 407789,herreal01,1505,Herrera,Alex
 118519,mcbeepr01,1008338,McBee,Pryor
 116547,jimenju01,1006412,Jimenez,Juan
@@ -18869,6 +18904,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 119427,mortoke01,1009234,Morton,Kevin
 118770,mckeero01,1008587,McKee,Roger
 116615,johnsra05,60,Johnson,Randy
+683083,nunezna01,25979,Nunez,Nasim
 112627,cookpa01,1002574,Cook,Paul
 121832,schmipe01,1011587,Schmidt,Pete
 111551,brownik01,1001521,Brown,Ike
@@ -18891,6 +18927,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 110636,barryri01,1000618,Barry,Rich
 117934,loudech01,1007767,Loudenslager,Charlie
 120660,ponceca01,1010429,Ponce,Carlos
+668885,martiau01,27462,Martin,Austin
 120739,pozoar01,1010508,Pozo,Arquimedez
 116450,jacobsp01,1006328,Jacobs,Spook
 453265,watsoto01,3132,Watson,Tony
@@ -19170,7 +19207,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 124303,williea01,1013994,Williams,Earl
 150348,mcdonjo03,395,McDonald,John
 116492,jansera01,1006359,Jansen,Ray
-123091,tappawa01,1012825,Tappan,Walter
+123091,tappawa01,1012825,Tappan,Van
 429717,harenda01,1757,Haren,Dan
 123839,walkepe01,1325,Walker,Pete
 502009,latosma01,3815,Latos,Mat
@@ -19347,6 +19384,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 120684,porteod01,1010457,Porter,Odie
 572039,piscost01,13367,Piscotty,Stephen
 112002,carloci01,1001958,Carlos,Cisco
+687363,scottvi01,31349,Scott,Victor
 660623,ynoahu01,20468,Ynoa,Huascar
 118044,lyonsal01,1007876,Lyons,Al
 124525,womacsi01,1014204,Womack,Sid
@@ -19360,6 +19398,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 117713,leslisa01,1007559,Leslie,Sam
 516589,rienzan01,3507,Rienzo,Andre
 117127,kisinru01,1006977,Kisinger,Rube
+673929,leasujo01,29950,Leasure,Jordan
 110295,appleed01,1000281,Appleton,Ed
 571863,kochma01,13420,Koch,Matt
 113705,eastca01,1003637,East,Carl
@@ -19721,6 +19760,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 433597,teahema01,4511,Teahen,Mark
 121678,sandesc01,1011422,Sanderson,Scott
 122020,sewarfr01,1011764,Seward,Frank
+686554,dunnol01,26295,Dunn,Oliver
 118134,mageele01,1007964,Magee,Lee
 123626,vanbroz01,1013338,Van Brabant,Ozzie
 120860,rabbjo01,1010625,Rabb,John
@@ -19995,7 +20035,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 113935,evansda01,1003864,Evans,Darrell
 150471,estrele01,277,Estrella,Leo
 121813,schinbi01,1011562,Schindler,Bill
-115431,hannipa01,1005322,Hannivan,Pat
+115431,hannipa01,1005322,Hannivan,Jimmie
 117471,langma01,1007321,Lang,Marty
 113014,dalrycl01,1002950,Dalrymple,Clay
 669288,johnsda07,19643,Johnson,Daniel
@@ -20303,6 +20343,7 @@ key_mlbam,key_bbref,key_fangraphs,name_last,name_first
 407785,machaan01,1853,Machado,Anderson
 122915,sturtta01,1230,Sturtze,Tanyon
 112154,cedendo01,1002101,Cedeno,Domingo
+683003,jonesja09,27863,Jones,Jared
 203984,greys01,1004981,Greason,John
 118348,martino01,1008185,Martin,Norberto
 123667,vatchji01,1013376,Vatcher,Jim

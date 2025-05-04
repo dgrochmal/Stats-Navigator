@@ -54,10 +54,10 @@ hex_chars = [hex(i)[2:] for i in range(0, 16)]
 filtered_people = []
 # Call the function for each input file
 for i in hex_chars:
-    filtered_people.extend(filter_and_write_to_same_file(f'../data/people-{i}.csv'))
+    filtered_people.extend(filter_and_write_to_same_file(f'./people-{i}.csv'))
 
 # append this year's rookies
-filtered_people.extend(add_rookies('../data/people-rookies.csv'))
+filtered_people.extend(add_rookies('./people-rookies.csv'))
     
 # filtered_people.extend(filter_and_write_to_same_file(f'../data/people-test.csv'))
 

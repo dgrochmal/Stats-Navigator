@@ -1,4 +1,11 @@
 {
+    "33644": {
+        "key_mlbam": "692225",
+        "key_bbref": "campbkr01",
+        "key_fangraphs": "33644",
+        "name_last": "Campbell",
+        "name_first": "Kristian"
+    },
     "13166": {
         "key_mlbam": "605152",
         "key_bbref": "bradlje01",
@@ -1608,6 +1615,13 @@
         "key_fangraphs": "2786",
         "name_last": "De Paula",
         "name_first": "Julio"
+    },
+    "28806": {
+        "key_mlbam": "694192",
+        "key_bbref": "chourja01",
+        "key_fangraphs": "28806",
+        "name_last": "Chourio",
+        "name_first": "Jackson"
     },
     "1006070": {
         "key_mlbam": "116196",
@@ -4808,6 +4822,13 @@
         "name_last": "Rivera",
         "name_first": "Carlos"
     },
+    "33333": {
+        "key_mlbam": "694671",
+        "key_bbref": "langfwy01",
+        "key_fangraphs": "33333",
+        "name_last": "Langford",
+        "name_first": "Wyatt"
+    },
     "1010874": {
         "key_mlbam": "121113",
         "key_bbref": "reynoro02",
@@ -6044,7 +6065,7 @@
         "key_mlbam": "119172",
         "key_bbref": "minneda01",
         "key_fangraphs": "1008979",
-        "name_last": "Minnehan",
+        "name_last": "Minahan",
         "name_first": "Dan"
     },
     "1002504": {
@@ -6655,6 +6676,13 @@
         "key_fangraphs": "1004681",
         "name_last": "Giel",
         "name_first": "Paul"
+    },
+    "26952": {
+        "key_mlbam": "683627",
+        "key_bbref": "molinan01",
+        "key_fangraphs": "26952",
+        "name_last": "Molina",
+        "name_first": "Anthony"
     },
     "17169": {
         "key_mlbam": "620454",
@@ -9105,6 +9133,13 @@
         "key_fangraphs": "1005865",
         "name_last": "Hoag",
         "name_first": "Myril"
+    },
+    "33826": {
+        "key_mlbam": "673513",
+        "key_bbref": "matsuyu01",
+        "key_fangraphs": "33826",
+        "name_last": "Matsui",
+        "name_first": "Yuki"
     },
     "1008058": {
         "key_mlbam": "118231",
@@ -12214,6 +12249,13 @@
         "name_last": "Livingstone",
         "name_first": "Jake"
     },
+    "33824": {
+        "key_mlbam": "808982",
+        "key_bbref": "leeju01",
+        "key_fangraphs": "33824",
+        "name_last": "Hoo Lee",
+        "name_first": "Jung"
+    },
     "8574": {
         "key_mlbam": "467850",
         "key_bbref": "escaled01",
@@ -14657,6 +14699,13 @@
         "name_last": "Ellison",
         "name_first": "George"
     },
+    "25425": {
+        "key_mlbam": "668853",
+        "key_bbref": "shentau01",
+        "key_fangraphs": "25425",
+        "name_last": "Shenton",
+        "name_first": "Austin"
+    },
     "1002118": {
         "key_mlbam": "112174",
         "key_bbref": "chambbi02",
@@ -16365,6 +16414,13 @@
         "name_last": "Hardin",
         "name_first": "Jim"
     },
+    "23789": {
+        "key_mlbam": "677942",
+        "key_bbref": "alexabl01",
+        "key_fangraphs": "23789",
+        "name_last": "Alexander",
+        "name_first": "Blaze"
+    },
     "1012232": {
         "key_mlbam": "122490",
         "key_bbref": "snipero01",
@@ -17217,7 +17273,7 @@
         "key_bbref": "edwarra01",
         "key_fangraphs": "1003692",
         "name_last": "Edwards",
-        "name_first": "Ralph"
+        "name_first": ""
     },
     "1005452": {
         "key_mlbam": "115571",
@@ -17665,7 +17721,7 @@
         "key_bbref": "zuniggu01",
         "key_fangraphs": "19588",
         "name_last": "Zuniga",
-        "name_first": "Guillermo"
+        "name_first": "Guillo"
     },
     "27498": {
         "key_mlbam": "675911",
@@ -20957,6 +21013,13 @@
         "name_last": "Causey",
         "name_first": "Red"
     },
+    "31827": {
+        "key_mlbam": "805673",
+        "key_bbref": "matthze01",
+        "key_fangraphs": "31827",
+        "name_last": "Matthews",
+        "name_first": "Zebby"
+    },
     "1000287": {
         "key_mlbam": "110300",
         "key_bbref": "aragoja01",
@@ -21033,6 +21096,13 @@
         "key_fangraphs": "1011253",
         "name_last": "Rowe",
         "name_first": "Don"
+    },
+    "27899": {
+        "key_mlbam": "690993",
+        "key_bbref": "keithco01",
+        "key_fangraphs": "27899",
+        "name_last": "Keith",
+        "name_first": "Colt"
     },
     "1002272": {
         "key_mlbam": "112331",
@@ -21641,7 +21711,7 @@
         "key_bbref": "cardico01",
         "key_fangraphs": "1001939",
         "name_last": "Cardinal",
-        "name_first": "Conrad"
+        "name_first": "Randy"
     },
     "12801": {
         "key_mlbam": "607068",
@@ -22621,14 +22691,14 @@
         "key_bbref": "irvined01",
         "key_fangraphs": "1006274",
         "name_last": "Irwin",
-        "name_first": "Ed"
+        "name_first": "Bill"
     },
     "1000019": {
         "key_mlbam": "110020",
         "key_bbref": "abernte01",
         "key_fangraphs": "1000019",
         "name_last": "Abernathy",
-        "name_first": "Ted"
+        "name_first": "Tal"
     },
     "1006984": {
         "key_mlbam": "117134",
@@ -24455,7 +24525,7 @@
         "key_bbref": "jacksmi02",
         "key_fangraphs": "732",
         "name_last": "Jackson",
-        "name_first": "Michael"
+        "name_first": "Mike"
     },
     "6653": {
         "key_mlbam": "449104",
@@ -25765,6 +25835,13 @@
         "key_fangraphs": "1001941",
         "name_last": "Cardwell",
         "name_first": "Don"
+    },
+    "33829": {
+        "key_mlbam": "684007",
+        "key_bbref": "imanash01",
+        "key_fangraphs": "33829",
+        "name_last": "Imanaga",
+        "name_first": "Shota"
     },
     "1012105": {
         "key_mlbam": "122357",
@@ -28179,7 +28256,7 @@
         "key_bbref": "mimbsmi01",
         "key_fangraphs": "1008970",
         "name_last": "Mimbs",
-        "name_first": "Mike"
+        "name_first": "Michael"
     },
     "1012686": {
         "key_mlbam": "122940",
@@ -28683,7 +28760,7 @@
         "key_bbref": "kilhupa01",
         "key_fangraphs": "1006900",
         "name_last": "Kilhullen",
-        "name_first": "Pat"
+        "name_first": "Joe"
     },
     "1009332": {
         "key_mlbam": "119530",
@@ -29461,6 +29538,13 @@
         "key_fangraphs": "1010005",
         "name_last": "Parker",
         "name_first": "Pat"
+    },
+    "29490": {
+        "key_mlbam": "701538",
+        "key_bbref": "merrija01",
+        "key_fangraphs": "29490",
+        "name_last": "Merrill",
+        "name_first": "Jackson"
     },
     "1002348": {
         "key_mlbam": "112401",
@@ -32534,6 +32618,13 @@
         "key_fangraphs": "148",
         "name_last": "Julio",
         "name_first": "Jorge"
+    },
+    "21487": {
+        "key_mlbam": "663568",
+        "key_bbref": "kolekst01",
+        "key_fangraphs": "21487",
+        "name_last": "Kolek",
+        "name_first": "Stephen"
     },
     "1009882": {
         "key_mlbam": "120101",
@@ -36530,7 +36621,7 @@
         "key_bbref": "varlalo01",
         "key_fangraphs": "27691",
         "name_last": "Varland",
-        "name_first": "Louie"
+        "name_first": "Louis"
     },
     "1007646": {
         "key_mlbam": "117806",
@@ -39493,6 +39584,13 @@
         "name_last": "Hoffman",
         "name_first": "Tex"
     },
+    "23968": {
+        "key_mlbam": "678489",
+        "key_bbref": "barrojo01",
+        "key_fangraphs": "23968",
+        "name_last": "Barrosa",
+        "name_first": "Jorge"
+    },
     "1014350": {
         "key_mlbam": "124673",
         "key_bbref": "yohebi01",
@@ -41836,7 +41934,7 @@
         "key_bbref": "rittefl01",
         "key_fangraphs": "1010991",
         "name_last": "Ritter",
-        "name_first": "Floyd"
+        "name_first": "William"
     },
     "1013950": {
         "key_mlbam": "124264",
@@ -45378,7 +45476,7 @@
         "key_bbref": "housefr02",
         "key_fangraphs": "1006058",
         "name_last": "House",
-        "name_first": "Fred"
+        "name_first": "Willard"
     },
     "1009948": {
         "key_mlbam": "120167",
@@ -46688,6 +46786,13 @@
         "key_fangraphs": "1001139",
         "name_last": "Bold",
         "name_first": "Charlie"
+    },
+    "27494": {
+        "key_mlbam": "690925",
+        "key_bbref": "beetecl01",
+        "key_fangraphs": "27494",
+        "name_last": "Beeter",
+        "name_first": "Clayton"
     },
     "1000638": {
         "key_mlbam": "110655",
@@ -48066,7 +48171,7 @@
         "key_bbref": "gaver01",
         "key_fangraphs": "1004579",
         "name_last": "McGovern",
-        "name_first": ""
+        "name_first": "Tom"
     },
     "1013587": {
         "key_mlbam": "123890",
@@ -51841,6 +51946,13 @@
         "name_last": "Moran",
         "name_first": "Charlie"
     },
+    "22284": {
+        "key_mlbam": "669422",
+        "key_bbref": "sauerma01",
+        "key_fangraphs": "22284",
+        "name_last": "Sauer",
+        "name_first": "Matt"
+    },
     "1000026": {
         "key_mlbam": "110027",
         "key_bbref": "abramge01",
@@ -53591,6 +53703,13 @@
         "name_last": "Valdez",
         "name_first": "Efrain"
     },
+    "33168": {
+        "key_mlbam": "814005",
+        "key_bbref": "blossja01",
+        "key_fangraphs": "33168",
+        "name_last": "Bloss",
+        "name_first": "Jake"
+    },
     "1008858": {
         "key_mlbam": "119047",
         "key_bbref": "milbola01",
@@ -53736,7 +53855,7 @@
         "key_bbref": "cahilto01",
         "key_fangraphs": "1001819",
         "name_last": "Cahill",
-        "name_first": "Tom"
+        "name_first": "Tommy"
     },
     "17005": {
         "key_mlbam": "608325",
@@ -56620,7 +56739,7 @@
         "key_bbref": "campovi01",
         "key_fangraphs": "11681",
         "name_last": "Campos",
-        "name_first": "Vicente"
+        "name_first": "Jose"
     },
     "1005188": {
         "key_mlbam": "115293",
@@ -57258,6 +57377,13 @@
         "key_fangraphs": "2143",
         "name_last": "Aguila",
         "name_first": "Chris"
+    },
+    "25648": {
+        "key_mlbam": "686580",
+        "key_bbref": "slateju01",
+        "key_fangraphs": "25648",
+        "name_last": "Slaten",
+        "name_first": "Justin"
     },
     "1000949": {
         "key_mlbam": "110977",
@@ -58566,7 +58692,7 @@
         "key_bbref": "beanbi01",
         "key_fangraphs": "1000713",
         "name_last": "Bean",
-        "name_first": "Bill"
+        "name_first": "Billy"
     },
     "1009187": {
         "key_mlbam": "119384",
@@ -63592,7 +63718,7 @@
         "key_bbref": "handimi01",
         "key_fangraphs": "1005298",
         "name_last": "Handiboe",
-        "name_first": "Mike"
+        "name_first": "Al"
     },
     "1003553": {
         "key_mlbam": "113618",
@@ -63782,6 +63908,13 @@
         "key_fangraphs": "1012173",
         "name_last": "Smith",
         "name_first": "Lewis"
+    },
+    "31765": {
+        "key_mlbam": "805373",
+        "key_bbref": "alvarna01",
+        "key_fangraphs": "31765",
+        "name_last": "Alvarez",
+        "name_first": "Nacho"
     },
     "1011289": {
         "key_mlbam": "121539",
@@ -69619,7 +69752,7 @@
         "key_bbref": "grahabe01",
         "key_fangraphs": "1004923",
         "name_last": "Graham",
-        "name_first": "Bernie"
+        "name_first": "Barney"
     },
     "1002785": {
         "key_mlbam": "112844",
@@ -69843,7 +69976,7 @@
         "key_bbref": "rossge01",
         "key_fangraphs": "1011231",
         "name_last": "Ross",
-        "name_first": "George"
+        "name_first": "John"
     },
     "1010450": {
         "key_mlbam": "120678",
@@ -70536,7 +70669,7 @@
         "key_bbref": "willigu01",
         "key_fangraphs": "1014000",
         "name_last": "Williams",
-        "name_first": "Gus"
+        "name_first": "August"
     },
     "1004443": {
         "key_mlbam": "114530",
@@ -71789,7 +71922,7 @@
         "key_bbref": "kerinjo01",
         "key_fangraphs": "1006862",
         "name_last": "Kerins",
-        "name_first": "John"
+        "name_first": "Jack"
     },
     "9048": {
         "key_mlbam": "485567",
@@ -75886,6 +76019,13 @@
         "name_last": "Gantner",
         "name_first": "Jim"
     },
+    "26224": {
+        "key_mlbam": "687231",
+        "key_bbref": "hernada04",
+        "key_fangraphs": "26224",
+        "name_last": "Hernaiz",
+        "name_first": "Darell"
+    },
     "1000156": {
         "key_mlbam": "110150",
         "key_bbref": "allenpe01",
@@ -77908,6 +78048,13 @@
         "key_fangraphs": "19953",
         "name_last": "Lowe",
         "name_first": "Josh"
+    },
+    "25667": {
+        "key_mlbam": "687014",
+        "key_bbref": "avilani01",
+        "key_fangraphs": "25667",
+        "name_last": "Avila",
+        "name_first": "Nick"
     },
     "1004089": {
         "key_mlbam": "114171",
@@ -80653,6 +80800,13 @@
         "name_last": "Flores",
         "name_first": "Jose"
     },
+    "25575": {
+        "key_mlbam": "668832",
+        "key_bbref": "mccanky01",
+        "key_fangraphs": "25575",
+        "name_last": "McCann",
+        "name_first": "Kyle"
+    },
     "12361": {
         "key_mlbam": "607359",
         "key_bbref": "pattosp01",
@@ -81486,6 +81640,13 @@
         "name_last": "Doran",
         "name_first": "Bill"
     },
+    "1006675": {
+        "key_mlbam": "116818",
+        "key_bbref": "kalahjo01",
+        "key_fangraphs": "1006675",
+        "name_last": "Kalahan",
+        "name_first": "John"
+    },
     "1007687": {
         "key_mlbam": "117850",
         "key_bbref": "lockebo01",
@@ -81764,7 +81925,7 @@
         "key_bbref": "murphbi01",
         "key_fangraphs": "1009345",
         "name_last": "Murphy",
-        "name_first": "Billy"
+        "name_first": "Bill"
     },
     "1009291": {
         "key_mlbam": "119489",
@@ -83515,6 +83676,13 @@
         "key_fangraphs": "1006524",
         "name_last": "Jones",
         "name_first": "Al"
+    },
+    "31635": {
+        "key_mlbam": "806185",
+        "key_bbref": "birdsha01",
+        "key_fangraphs": "31635",
+        "name_last": "Birdsong",
+        "name_first": "Hayden"
     },
     "1011878": {
         "key_mlbam": "122139",
@@ -86988,6 +87156,13 @@
         "name_last": "Trevino",
         "name_first": "Bobby"
     },
+    "27707": {
+        "key_mlbam": "687765",
+        "key_bbref": "spencmi01",
+        "key_fangraphs": "27707",
+        "name_last": "Spence",
+        "name_first": "Mitch"
+    },
     "1003830": {
         "key_mlbam": "113903",
         "key_bbref": "espinni01",
@@ -87126,7 +87301,7 @@
         "key_bbref": "malonma01",
         "key_fangraphs": "1008042",
         "name_last": "Malone",
-        "name_first": "Martin"
+        "name_first": "Thomas"
     },
     "1013190": {
         "key_mlbam": "123474",
@@ -88373,6 +88548,13 @@
         "key_fangraphs": "1011588",
         "name_last": "Schmidt",
         "name_first": "Walter"
+    },
+    "31567": {
+        "key_mlbam": "702358",
+        "key_bbref": "lipsctr01",
+        "key_fangraphs": "31567",
+        "name_last": "Lipscomb",
+        "name_first": "Trey"
     },
     "1002805": {
         "key_mlbam": "112864",
@@ -92049,6 +92231,13 @@
         "name_last": "Jonnard",
         "name_first": "Bubber"
     },
+    "26252": {
+        "key_mlbam": "669062",
+        "key_bbref": "milleer01",
+        "key_fangraphs": "26252",
+        "name_last": "Miller",
+        "name_first": "Erik"
+    },
     "1009577": {
         "key_mlbam": "119780",
         "key_bbref": "niedda01",
@@ -92412,6 +92601,13 @@
         "key_fangraphs": "1008516",
         "name_last": "McGhee",
         "name_first": "Bill"
+    },
+    "31363": {
+        "key_mlbam": "688363",
+        "key_bbref": "paulegr01",
+        "key_fangraphs": "31363",
+        "name_last": "Pauley",
+        "name_first": "Graham"
     },
     "1008710": {
         "key_mlbam": "118895",
@@ -93572,7 +93768,7 @@
         "key_mlbam": "121031",
         "key_bbref": "reillch01",
         "key_fangraphs": "1010799",
-        "name_last": "Reilley",
+        "name_last": "Reilly",
         "name_first": "Charlie"
     },
     "1013467": {
@@ -100370,7 +100566,7 @@
         "key_bbref": "millech01",
         "key_fangraphs": "1008879",
         "name_last": "Miller",
-        "name_first": "Charlie"
+        "name_first": "Johnny"
     },
     "1004007": {
         "key_mlbam": "114086",
@@ -100686,6 +100882,13 @@
         "key_fangraphs": "1006708",
         "name_last": "Karr",
         "name_first": "Benn"
+    },
+    "30076": {
+        "key_mlbam": "694738",
+        "key_bbref": "rouppla01",
+        "key_fangraphs": "30076",
+        "name_last": "Roupp",
+        "name_first": "Landen"
     },
     "1012809": {
         "key_mlbam": "123075",
@@ -105431,7 +105634,7 @@
         "key_bbref": "doughch01",
         "key_fangraphs": "1003428",
         "name_last": "Dougherty",
-        "name_first": "Charlie"
+        "name_first": "Charles"
     },
     "1048": {
         "key_mlbam": "276525",
@@ -106286,6 +106489,13 @@
         "key_fangraphs": "1009463",
         "name_last": "Naton",
         "name_first": "Pete"
+    },
+    "33266": {
+        "key_mlbam": "805779",
+        "key_bbref": "wilsoja05",
+        "key_fangraphs": "33266",
+        "name_last": "Wilson",
+        "name_first": "Jacob"
     },
     "1005326": {
         "key_mlbam": "115434",
@@ -107498,6 +107708,13 @@
         "name_last": "Gagne",
         "name_first": "Greg"
     },
+    "33825": {
+        "key_mlbam": "808967",
+        "key_bbref": "yamamyo01",
+        "key_fangraphs": "33825",
+        "name_last": "Yamamoto",
+        "name_first": "Yoshinobu"
+    },
     "1475": {
         "key_mlbam": "400010",
         "key_bbref": "rauchjo01",
@@ -108580,7 +108797,7 @@
         "key_mlbam": "120398",
         "key_bbref": "peppeha01",
         "key_fangraphs": "1010172",
-        "name_last": "Peppers",
+        "name_last": "Pepper",
         "name_first": "Harrison"
     },
     "1004015": {
@@ -114547,6 +114764,13 @@
         "name_last": "Bautista",
         "name_first": "Jose"
     },
+    "31900": {
+        "key_mlbam": "800049",
+        "key_bbref": "mazurad01",
+        "key_fangraphs": "31900",
+        "name_last": "Mazur",
+        "name_first": "Adam"
+    },
     "2219": {
         "key_mlbam": "430654",
         "key_bbref": "bassbr01",
@@ -116029,7 +116253,7 @@
         "key_bbref": "skinnal01",
         "key_fangraphs": "1012036",
         "name_last": "Skinner",
-        "name_first": "Al"
+        "name_first": "Alex"
     },
     "12982": {
         "key_mlbam": "605226",
@@ -123322,7 +123546,7 @@
         "key_mlbam": "120024",
         "key_bbref": "o'neijo01",
         "key_fangraphs": "1009814",
-        "name_last": "O'Neill",
+        "name_last": "O'Neil",
         "name_first": "John"
     },
     "2932": {
@@ -125040,6 +125264,13 @@
         "name_last": "Goodrum",
         "name_first": "Niko"
     },
+    "27867": {
+        "key_mlbam": "671922",
+        "key_bbref": "smithca06",
+        "key_fangraphs": "27867",
+        "name_last": "Smith",
+        "name_first": "Cade"
+    },
     "1000168": {
         "key_mlbam": "110172",
         "key_bbref": "allisdo01",
@@ -125109,6 +125340,13 @@
         "key_fangraphs": "1007865",
         "name_last": "Lynch",
         "name_first": "Jerry"
+    },
+    "23590": {
+        "key_mlbam": "676962",
+        "key_bbref": "brownbe02",
+        "key_fangraphs": "23590",
+        "name_last": "Brown",
+        "name_first": "Ben"
     },
     "19826": {
         "key_mlbam": "642092",
@@ -130925,7 +131163,7 @@
         "key_bbref": "bakerbo01",
         "key_fangraphs": "1000444",
         "name_last": "Baker",
-        "name_first": "Bock"
+        "name_first": "Charles"
     },
     "1002896": {
         "key_mlbam": "112958",
@@ -130940,6 +131178,13 @@
         "key_fangraphs": "1005867",
         "name_last": "Hobaugh",
         "name_first": "Ed"
+    },
+    "24282": {
+        "key_mlbam": "678906",
+        "key_bbref": "tengka01",
+        "key_fangraphs": "24282",
+        "name_last": "Teng",
+        "name_first": "Kai-Wei"
     },
     "1505": {
         "key_mlbam": "407789",
@@ -132089,6 +132334,13 @@
         "name_last": "Johnson",
         "name_first": "Randy"
     },
+    "25979": {
+        "key_mlbam": "683083",
+        "key_bbref": "nunezna01",
+        "key_fangraphs": "25979",
+        "name_last": "Nunez",
+        "name_first": "Nasim"
+    },
     "1002574": {
         "key_mlbam": "112627",
         "key_bbref": "cookpa01",
@@ -132242,6 +132494,13 @@
         "key_fangraphs": "1010429",
         "name_last": "Ponce",
         "name_first": "Carlos"
+    },
+    "27462": {
+        "key_mlbam": "668885",
+        "key_bbref": "martiau01",
+        "key_fangraphs": "27462",
+        "name_last": "Martin",
+        "name_first": "Austin"
     },
     "1010508": {
         "key_mlbam": "120739",
@@ -134201,7 +134460,7 @@
         "key_bbref": "tappawa01",
         "key_fangraphs": "1012825",
         "name_last": "Tappan",
-        "name_first": "Walter"
+        "name_first": "Van"
     },
     "1757": {
         "key_mlbam": "429717",
@@ -135435,6 +135694,13 @@
         "name_last": "Carlos",
         "name_first": "Cisco"
     },
+    "31349": {
+        "key_mlbam": "687363",
+        "key_bbref": "scottvi01",
+        "key_fangraphs": "31349",
+        "name_last": "Scott II",
+        "name_first": "Victor"
+    },
     "20468": {
         "key_mlbam": "660623",
         "key_bbref": "ynoahu01",
@@ -135525,6 +135791,13 @@
         "key_fangraphs": "1006977",
         "name_last": "Kisinger",
         "name_first": "Rube"
+    },
+    "29950": {
+        "key_mlbam": "673929",
+        "key_bbref": "leasujo01",
+        "key_fangraphs": "29950",
+        "name_last": "Leasure",
+        "name_first": "Jordan"
     },
     "1000281": {
         "key_mlbam": "110295",
@@ -138053,6 +138326,13 @@
         "name_last": "Seward",
         "name_first": "Frank"
     },
+    "26295": {
+        "key_mlbam": "686554",
+        "key_bbref": "dunnol01",
+        "key_fangraphs": "26295",
+        "name_last": "Dunn",
+        "name_first": "Oliver"
+    },
     "1007964": {
         "key_mlbam": "118134",
         "key_bbref": "mageele01",
@@ -139976,7 +140256,7 @@
         "key_bbref": "hannipa01",
         "key_fangraphs": "1005322",
         "name_last": "Hannivan",
-        "name_first": "Pat"
+        "name_first": "Jimmie"
     },
     "1007321": {
         "key_mlbam": "117471",
@@ -142126,6 +142406,13 @@
         "key_fangraphs": "1002101",
         "name_last": "Cedeno",
         "name_first": "Domingo"
+    },
+    "27863": {
+        "key_mlbam": "683003",
+        "key_bbref": "jonesja09",
+        "key_fangraphs": "27863",
+        "name_last": "Jones",
+        "name_first": "Jared"
     },
     "1004981": {
         "key_mlbam": "203984",
@@ -144773,216 +145060,6 @@
         "name_last": "Guevara",
         "name_first": "Carlos"
     },
-    "22284": {
-        "key_mlbam": "669422",
-        "key_bbref": "sauerma01",
-        "key_fangraphs": "22284",
-        "name_last": "Sauer",
-        "name_first": "Matt"
-    },
-    "25425": {
-        "key_mlbam": "668853",
-        "key_bbref": "shentau01",
-        "key_fangraphs": "25425",
-        "name_last": "Shenton",
-        "name_first": "Austin"
-    },
-    "24282": {
-        "key_mlbam": "678906",
-        "key_bbref": "tengka01",
-        "key_fangraphs": "24282",
-        "name_last": "Teng",
-        "name_first": "Kai-Wei"
-    },
-    "25979": {
-        "key_mlbam": "683083",
-        "key_bbref": "nunezna01",
-        "key_fangraphs": "25979",
-        "name_last": "Nunez",
-        "name_first": "Nasim"
-    },
-    "27462": {
-        "key_mlbam": "668885",
-        "key_bbref": "martiau01",
-        "key_fangraphs": "27462",
-        "name_last": "Martin",
-        "name_first": "Austin"
-    },
-    "25575": {
-        "key_mlbam": "668832",
-        "key_bbref": "mccanky01",
-        "key_fangraphs": "25575",
-        "name_last": "McCann",
-        "name_first": "Kyle"
-    },
-    "28806": {
-        "key_mlbam": "694192",
-        "key_bbref": "chourja01",
-        "key_fangraphs": "28806",
-        "name_last": "Chourio",
-        "name_first": "Jackson"
-    },
-    "25648": {
-        "key_mlbam": "686580",
-        "key_bbref": "slateju01",
-        "key_fangraphs": "25648",
-        "name_last": "Slaten",
-        "name_first": "Justin"
-    },
-    "27863": {
-        "key_mlbam": "683003",
-        "key_bbref": "jonesja09",
-        "key_fangraphs": "27863",
-        "name_last": "Jones",
-        "name_first": "Jared"
-    },
-    "31567": {
-        "key_mlbam": "702358",
-        "key_bbref": "lipsctr01",
-        "key_fangraphs": "31567",
-        "name_last": "Lipscomb",
-        "name_first": "Trey"
-    },
-    "27867": {
-        "key_mlbam": "671922",
-        "key_bbref": "smithca06",
-        "key_fangraphs": "27867",
-        "name_last": "Smith",
-        "name_first": "Cade"
-    },
-    "26295": {
-        "key_mlbam": "686554",
-        "key_bbref": "dunnol01",
-        "key_fangraphs": "26295",
-        "name_last": "Dunn",
-        "name_first": "Oliver"
-    },
-    "29950": {
-        "key_mlbam": "673929",
-        "key_bbref": "leasujo01",
-        "key_fangraphs": "29950",
-        "name_last": "Leasure",
-        "name_first": "Jordan"
-    },
-    "23590": {
-        "key_mlbam": "676962",
-        "key_bbref": "brownbe02",
-        "key_fangraphs": "23590",
-        "name_last": "Brown",
-        "name_first": "Ben"
-    },
-    "30076": {
-        "key_mlbam": "694738",
-        "key_bbref": "rouppla01",
-        "key_fangraphs": "30076",
-        "name_last": "Roupp",
-        "name_first": "Landen"
-    },
-    "27707": {
-        "key_mlbam": "687765",
-        "key_bbref": "spencmi01",
-        "key_fangraphs": "27707",
-        "name_last": "Spence",
-        "name_first": "Mitch"
-    },
-    "27494": {
-        "key_mlbam": "690925",
-        "key_bbref": "beetecl01",
-        "key_fangraphs": "27494",
-        "name_last": "Beeter",
-        "name_first": "Clayton"
-    },
-    "33333": {
-        "key_mlbam": "694671",
-        "key_bbref": "langfwy01",
-        "key_fangraphs": "33333",
-        "name_last": "Langford",
-        "name_first": "Wyatt"
-    },
-    "33824": {
-        "key_mlbam": "808982",
-        "key_bbref": "leeju01",
-        "key_fangraphs": "33824",
-        "name_last": "Hoo Lee",
-        "name_first": "Jung"
-    },
-    "26952": {
-        "key_mlbam": "683627",
-        "key_bbref": "molinan01",
-        "key_fangraphs": "26952",
-        "name_last": "Molina",
-        "name_first": "Anthony"
-    },
-    "31349": {
-        "key_mlbam": "687363",
-        "key_bbref": "scottvi01",
-        "key_fangraphs": "31349",
-        "name_last": "Scott II",
-        "name_first": "Victor"
-    },
-    "27899": {
-        "key_mlbam": "690993",
-        "key_bbref": "keithco01",
-        "key_fangraphs": "27899",
-        "name_last": "Keith",
-        "name_first": "Colt"
-    },
-    "23789": {
-        "key_mlbam": "677942",
-        "key_bbref": "alexabl01",
-        "key_fangraphs": "23789",
-        "name_last": "Alexander",
-        "name_first": "Blaze"
-    },
-    "26224": {
-        "key_mlbam": "687231",
-        "key_bbref": "hernada04",
-        "key_fangraphs": "26224",
-        "name_last": "Hernaiz",
-        "name_first": "Darell"
-    },
-    "26252": {
-        "key_mlbam": "669062",
-        "key_bbref": "milleer01",
-        "key_fangraphs": "26252",
-        "name_last": "Miller",
-        "name_first": "Erik"
-    },
-    "21487": {
-        "key_mlbam": "663568",
-        "key_bbref": "kolekst01",
-        "key_fangraphs": "21487",
-        "name_last": "Kolek",
-        "name_first": "Stephen"
-    },
-    "33825": {
-        "key_mlbam": "808967",
-        "key_bbref": "yamamyo01",
-        "key_fangraphs": "33825",
-        "name_last": "Yamamoto",
-        "name_first": "Yoshinobu"
-    },
-    "29490": {
-        "key_mlbam": "701538",
-        "key_bbref": "merrija01",
-        "key_fangraphs": "29490",
-        "name_last": "Merrill",
-        "name_first": "Jackson"
-    },
-    "33826": {
-        "key_mlbam": "673513",
-        "key_bbref": "matsuyu01",
-        "key_fangraphs": "33826",
-        "name_last": "Matsui",
-        "name_first": "Yuki"
-    },
-    "31363": {
-        "key_mlbam": "688363",
-        "key_bbref": "paulegr01",
-        "key_fangraphs": "31363",
-        "name_last": "Pauley",
-        "name_first": "Graham"
-    },
     "31431": {
         "key_mlbam": "687597",
         "key_bbref": "beckjo01",
@@ -145241,27 +145318,6 @@
         "key_fangraphs": "24862",
         "name_last": "Fernandez",
         "name_first": "Ryan"
-    },
-    "33829": {
-        "key_mlbam": "684007",
-        "key_bbref": "imanash01",
-        "key_fangraphs": "33829",
-        "name_last": "Imanaga",
-        "name_first": "Shota"
-    },
-    "25667": {
-        "key_mlbam": "687014",
-        "key_bbref": "avilani01",
-        "key_fangraphs": "25667",
-        "name_last": "Avila",
-        "name_first": "Nick"
-    },
-    "23968": {
-        "key_mlbam": "678489",
-        "key_bbref": "barrojo01",
-        "key_fangraphs": "23968",
-        "name_last": "Barrosa",
-        "name_first": "Jorge"
     },
     "25311": {
         "key_mlbam": "682610",

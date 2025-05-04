@@ -30,9 +30,9 @@ def make_json(csvFilePath, jsonFilePath, jsonKey):
     # function to dump data
     with open(jsonFilePath, 'w', encoding='utf-8') as jsonf:
         # pretty print
-        # jsonf.write(json.dumps(data, indent=4))
+        jsonf.write(json.dumps(data, indent=4))
         # no whitespace print
-        jsonf.write(json.dumps(data, indent=None, separators=(',', ':')))
+        # jsonf.write(json.dumps(data, indent=None, separators=(',', ':')))
          
 # Driver Code
  
@@ -42,6 +42,6 @@ def make_json(csvFilePath, jsonFilePath, jsonKey):
 # Call the make_json function
 # filtered_people.csv filters the chadwick dataset to only players with a savant, fangraphs, and bbref ID
 # Rookies from the current year are added via manual mining
-make_json(r'filtered_people.csv', r'mlbam.json', 'key_mlbam')
-make_json(r'filtered_people.csv', r'fangraphs.json', 'key_fangraphs')
-make_json(r'filtered_people.csv', r'bbref.json', 'key_bbref')
+make_json(r'./chadwick/_withEdits.csv', r'mlbam.json', 'key_mlbam')
+make_json(r'./chadwick/_withEdits.csv', r'fangraphs.json', 'key_fangraphs')
+make_json(r'./chadwick/_withEdits.csv', r'bbref.json', 'key_bbref')

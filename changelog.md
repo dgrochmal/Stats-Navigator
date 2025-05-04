@@ -1,8 +1,15 @@
 # CHANGELOG
 
+## 1.7.0 (4/5/2025)
+- Regenerated data
+- Remove prospectus support
+
 ## 1.6.0 (5/2/2024)
 - Regenerated data
 - yay, new data source!
+
+## 1.5.4 (1/17/2023)
+- Regenerated ID data (All 2022 rookies)
 
 ## 1.5.3 (8/25/2022)
 - Regenerated ID data
