@@ -107,4 +107,4 @@ If you find Stats‑Navigator useful, consider supporting the developer:
 
 ## 🍿 Video
 
-https://github.com/dgrochmal/Stats-Navigator/assets/demo-video.mp4
+https://github.com/dgrochmal/Stats-Navigator/blob/main/assets/demo-video.mp4
