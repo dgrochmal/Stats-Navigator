@@ -1,7 +1,7 @@
 # 📊 Stats‑Navigator
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-![Version](https://img.shields.io/github/v/tag/dgrochmal/Stats-Navigator?label=version)
+![Version](https://img.shields.io/github/v/tag/dgrochmal/Stats-Navigator?label=version&sort=semver)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Stats--Navigator-brightgreen)](https://chrome.google.com/webstore/detail/stats-navigator/lbbdpmoliocjdndehobflkmlaemkefpn)
 ![Last Commit](https://img.shields.io/github/last-commit/dgrochmal/Stats-Navigator)
 
