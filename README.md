@@ -104,3 +104,7 @@ If you find Stats‑Navigator useful, consider supporting the developer:
 
 - **Buy Me a Coffee:** [https://www.buymeacoffee.com/dgrochmal](https://www.buymeacoffee.com/dgrochmal)  
 - **Venmo:** @Daniel-Grochmal
+
+## 🍿 Video
+
+https://github.com/dgrochmal/Stats-Navigator/assets/demo-video
